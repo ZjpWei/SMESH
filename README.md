@@ -153,7 +153,7 @@ Figure 1 is a schematic and is not generated from data.
 ## Running it end to end
 
 ```bash
-cd /path/to/MOSIAC
+cd /path/to/SMESH
 
 Rscript Analysis/0_preprocessing.R                    # raw  -> processed
 Rscript Analysis/3_summary_statistics.R GMrepo PALM   # per-context summaries, one method
