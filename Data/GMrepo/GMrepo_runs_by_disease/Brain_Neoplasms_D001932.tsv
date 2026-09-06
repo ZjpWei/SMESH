@@ -1,0 +1,13 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJNA626591	SRR11575880	D001932	Brain Neoplasms				SRS6506756	SAMN14645592	AMPLICON	Illumina HiSeq 2500	72758.0	BM-7	62.0	female		China		229								N					1.0
+PRJNA626591	SRR11575885	D001932	Brain Neoplasms				SRS6506751	SAMN14645587	AMPLICON	Illumina HiSeq 2500	58206.0	BM-2	50.0	male		China		E_65								N					1.0
+PRJNA626591	SRR11575874	D001932	Brain Neoplasms				SRS6506762	SAMN14645597	AMPLICON	Illumina HiSeq 2500	57544.0	BM-12	65.0	male		China		255								N					1.0
+PRJNA626591	SRR11575884	D001932	Brain Neoplasms				SRS6506752	SAMN14645588	AMPLICON	Illumina HiSeq 2500	57419.0	BM-3	50.0	male		China		E_117								N					1.0
+PRJNA626591	SRR11575886	D001932	Brain Neoplasms				SRS6506750	SAMN14645586	AMPLICON	Illumina HiSeq 2500	57188.0	BM-1	73.0	female		China		E_11								N					1.0
+PRJNA626591	SRR11575883	D001932	Brain Neoplasms				SRS6506753	SAMN14645589	AMPLICON	Illumina HiSeq 2500	55451.0	BM-4	55.0	male		China		E_123								N					1.0
+PRJNA626591	SRR11575881	D001932	Brain Neoplasms				SRS6506755	SAMN14645591	AMPLICON	Illumina HiSeq 2500	52725.0	BM-6	64.0	male		China		E_175								N					1.0
+PRJNA626591	SRR11575879	D001932	Brain Neoplasms				SRS6506757	SAMN14645593	AMPLICON	Illumina HiSeq 2500	52153.0	BM-8	46.0	male		China		241								N					1.0
+PRJNA626591	SRR11575875	D001932	Brain Neoplasms				SRS6506761	SAMN14645596	AMPLICON	Illumina HiSeq 2500	51949.0	BM-11	51.0	female		China		325								N					1.0
+PRJNA626591	SRR11575878	D001932	Brain Neoplasms				SRS6506758	SAMN14645594	AMPLICON	Illumina HiSeq 2500	51435.0	BM-9	67.0	male		China		249								N					1.0
+PRJNA626591	SRR11575876	D001932	Brain Neoplasms				SRS6506760	SAMN14645595	AMPLICON	Illumina HiSeq 2500	50761.0	BM-10	67.0	male		China		321								N					1.0
+PRJNA626591	SRR11575882	D001932	Brain Neoplasms				SRS6506754	SAMN14645590	AMPLICON	Illumina HiSeq 2500	50610.0	BM-5	48.0	female		China		E_133								N					1.0

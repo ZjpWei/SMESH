@@ -1,0 +1,616 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+SAMD00115014	SAMD00115014	Homo sapiens	colorectal carcinoma	Case	Japan	feces	57.0	26.9	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115015	SAMD00115015	Homo sapiens	Control	Study Control	Japan	feces	65.0	26.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115025	SAMD00115025	Homo sapiens	Control	Study Control	Japan	feces	40.0	25.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115027	SAMD00115027	Homo sapiens	Control	Study Control	Japan	feces	67.0	20.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114971	SAMD00114971	Homo sapiens	Control	Study Control	Japan	feces	77.0	24.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114972	SAMD00114972	Homo sapiens	colorectal carcinoma	Case	Japan	feces	54.0	24.7	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115039	SAMD00115039	Homo sapiens	Control	Study Control	Japan	feces	74.0	23.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114968	SAMD00114968	Homo sapiens	Control	Study Control	Japan	feces	64.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114970	SAMD00114970	Homo sapiens	Control	Study Control	Japan	feces	66.0	25.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115016	SAMD00115016	Homo sapiens	Control	Study Control	Japan	feces	66.0	19.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115017	SAMD00115017	Homo sapiens	Control	Study Control	Japan	feces	66.0	21.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115019	SAMD00115019	Homo sapiens	Control	Study Control	Japan	feces	65.0	23.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115021	SAMD00115021	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	22.3	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115023	SAMD00115023	Homo sapiens	Control	Study Control	Japan	feces	77.0	23.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114973	SAMD00114973	Homo sapiens	Control	Study Control	Japan	feces	65.0	25.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114969	SAMD00114969	Homo sapiens	colorectal carcinoma	Case	Japan	feces	56.0	17.5	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115018	SAMD00115018	Homo sapiens	Control	Study Control	Japan	feces	59.0	28.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115020	SAMD00115020	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	25.6	colorectal carcinoma	Female	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115022	SAMD00115022	Homo sapiens	Control	Study Control	Japan	feces	73.0	20.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115024	SAMD00115024	Homo sapiens	Adenoma	Case	Japan	feces	41.0	19.9	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00115064	SAMD00115064	Homo sapiens	Control	Study Control	Japan	feces	56.0	22.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115029	SAMD00115029	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	24.2	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115026	SAMD00115026	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	30.0	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115028	SAMD00115028	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	22.2	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115060	SAMD00115060	Homo sapiens	Control	Study Control	Japan	feces	73.0	26.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115061	SAMD00115061	Homo sapiens	Control	Study Control	Japan	feces	69.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115062	SAMD00115062	Homo sapiens	Control	Study Control	Japan	feces	68.0	19.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114997	SAMD00114997	Homo sapiens	Control	Study Control	Japan	feces	74.0	20.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115030	SAMD00115030	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	21.8	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115063	SAMD00115063	Homo sapiens	Control	Study Control	Japan	feces	70.0	20.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114999	SAMD00114999	Homo sapiens	Adenoma	Case	Japan	feces	54.0	22.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00115031	SAMD00115031	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	24.7	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115032	SAMD00115032	Homo sapiens	Control	Study Control	Japan	feces	79.0	24.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115065	SAMD00115065	Homo sapiens	Control	Study Control	Japan	feces	69.0	21.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115034	SAMD00115034	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	21.9	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115035	SAMD00115035	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	20.8	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114998	SAMD00114998	Homo sapiens	Control	Study Control	Japan	feces	70.0	23.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115000	SAMD00115000	Homo sapiens	colorectal carcinoma	Case	Japan	feces	55.0	24.6	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114995	SAMD00114995	Homo sapiens	Control	Study Control	Japan	feces	66.0	19.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114996	SAMD00114996	Homo sapiens	Control	Study Control	Japan	feces	72.0	22.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115033	SAMD00115033	Homo sapiens	Control	Study Control	Japan	feces	70.0	29.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114801	SAMD00114801	Homo sapiens	Adenoma	Case	Japan	feces	69.0	26.2	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114735	SAMD00114735	Homo sapiens	Adenoma	Case	Japan	feces	67.0	22.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114736	SAMD00114736	Homo sapiens	Control	Study Control	Japan	feces	55.0	23.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115036	SAMD00115036	Homo sapiens	Control	Study Control	Japan	feces	40.0	20.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114737	SAMD00114737	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	21.1	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114738	SAMD00114738	Homo sapiens	colorectal carcinoma	Case	Japan	feces	76.0	19.2	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115037	SAMD00115037	Homo sapiens	Control	Study Control	Japan	feces	38.0	18.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114739	SAMD00114739	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	22.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114744	SAMD00114744	Homo sapiens	colorectal carcinoma	Case	Japan	feces	52.0	31.0	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114745	SAMD00114745	Homo sapiens	Control	Study Control	Japan	feces	50.0	24.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114746	SAMD00114746	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	36.5	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114747	SAMD00114747	Homo sapiens	Control	Study Control	Japan	feces	65.0	24.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114831	SAMD00114831	Homo sapiens	Adenoma	Case	Japan	feces	72.0	23.7	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114748	SAMD00114748	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	22.5	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114832	SAMD00114832	Homo sapiens	Control	Study Control	Japan	feces	77.0	21.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114740	SAMD00114740	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	18.8	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114741	SAMD00114741	Homo sapiens	Control	Study Control	Japan	feces	78.0	24.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114833	SAMD00114833	Homo sapiens	Control	Study Control	Japan	feces	59.0	22.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114742	SAMD00114742	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	24.3	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114743	SAMD00114743	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	22.8	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114757	SAMD00114757	Homo sapiens	Control	Study Control	Japan	feces	61.0	26.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114758	SAMD00114758	Homo sapiens	Adenoma	Case	Japan	feces	51.0	21.8	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114759	SAMD00114759	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	26.2	colorectal carcinoma	Male	0	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00114760	SAMD00114760	Homo sapiens	colorectal carcinoma	Case	Japan	feces	78.0	22.7	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114834	SAMD00114834	Homo sapiens	Control	Study Control	Japan	feces	76.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114761	SAMD00114761	Homo sapiens	colorectal carcinoma	Case	Japan	feces	30.0	25.7	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114762	SAMD00114762	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	23.6	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114763	SAMD00114763	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	23.6	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114802	SAMD00114802	Homo sapiens	Adenoma	Case	Japan	feces	52.0	22.6	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114815	SAMD00114815	Homo sapiens	Control	Study Control	Japan	feces	68.0	23.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114764	SAMD00114764	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	21.7	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114974	SAMD00114974	Homo sapiens	Control	Study Control	Japan	feces	71.0	18.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114755	SAMD00114755	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	25.5	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114756	SAMD00114756	Homo sapiens	Adenoma	Case	Japan	feces	58.0	22.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114765	SAMD00114765	Homo sapiens	colorectal carcinoma	Case	Japan	feces	57.0	18.4	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114978	SAMD00114978	Homo sapiens	colorectal carcinoma	Case	Japan	feces	76.0	29.0	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114766	SAMD00114766	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	23.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114979	SAMD00114979	Homo sapiens	Control	Study Control	Japan	feces	49.0	19.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114767	SAMD00114767	Homo sapiens	colorectal carcinoma	Case	Japan	feces	38.0	24.4	colorectal carcinoma	Male	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114768	SAMD00114768	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	27.1	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114769	SAMD00114769	Homo sapiens	Control	Study Control	Japan	feces	71.0	25.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114770	SAMD00114770	Homo sapiens	Control	Study Control	Japan	feces	73.0	25.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114771	SAMD00114771	Homo sapiens	Control	Study Control	Japan	feces	77.0	24.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114980	SAMD00114980	Homo sapiens	Adenoma	Case	Japan	feces	64.0	31.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114975	SAMD00114975	Homo sapiens	Control	Study Control	Japan	feces	70.0	29.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114772	SAMD00114772	Homo sapiens	colorectal carcinoma	Case	Japan	feces	49.0	26.1	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114773	SAMD00114773	Homo sapiens	Control	Study Control	Japan	feces	78.0	20.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114718	SAMD00114718	Homo sapiens	Control	Study Control	Japan	feces	68.0	21.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115040	SAMD00115040	Homo sapiens	Control	Study Control	Japan	feces	67.0	22.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114976	SAMD00114976	Homo sapiens	Control	Study Control	Japan	feces	70.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114977	SAMD00114977	Homo sapiens	Control	Study Control	Japan	feces	66.0	23.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114719	SAMD00114719	Homo sapiens	Control	Study Control	Japan	feces	60.0	22.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114720	SAMD00114720	Homo sapiens	Control	Study Control	Japan	feces	66.0	24.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115042	SAMD00115042	Homo sapiens	Control	Study Control	Japan	feces	50.0	28.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114721	SAMD00114721	Homo sapiens	Control	Study Control	Japan	feces	72.0	25.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114722	SAMD00114722	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	22.5	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115043	SAMD00115043	Homo sapiens	Control	Study Control	Japan	feces	55.0	19.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114984	SAMD00114984	Homo sapiens	Control	Study Control	Japan	feces	62.0	22.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114723	SAMD00114723	Homo sapiens	colorectal carcinoma	Case	Japan	feces	47.0	23.6	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114724	SAMD00114724	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	22.6	colorectal carcinoma	Female	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115041	SAMD00115041	Homo sapiens	Control	Study Control	Japan	feces	42.0	19.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114981	SAMD00114981	Homo sapiens	Adenoma	Case	Japan	feces	58.0	34.8	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114800	SAMD00114800	Homo sapiens	Control	Study Control	Japan	feces	74.0	25.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114982	SAMD00114982	Homo sapiens	Control	Study Control	Japan	feces	64.0	23.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114793	SAMD00114793	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	24.0	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114794	SAMD00114794	Homo sapiens	colorectal carcinoma	Case	Japan	feces	47.0	21.5	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114795	SAMD00114795	Homo sapiens	Control	Study Control	Japan	feces	47.0	20.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114985	SAMD00114985	Homo sapiens	Adenoma	Case	Japan	feces	64.0	21.8	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00115045	SAMD00115045	Homo sapiens	Control	Study Control	Japan	feces	55.0	18.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114986	SAMD00114986	Homo sapiens	Control	Study Control	Japan	feces	67.0	19.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115046	SAMD00115046	Homo sapiens	Control	Study Control	Japan	feces	64.0	24.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115047	SAMD00115047	Homo sapiens	Control	Study Control	Japan	feces	70.0	27.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114796	SAMD00114796	Homo sapiens	Control	Study Control	Japan	feces	42.0	33.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114987	SAMD00114987	Homo sapiens	Control	Study Control	Japan	feces	69.0	24.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114797	SAMD00114797	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	20.1	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114988	SAMD00114988	Homo sapiens	Adenoma	Case	Japan	feces	70.0	25.5	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114798	SAMD00114798	Homo sapiens	Control	Study Control	Japan	feces	45.0	22.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114799	SAMD00114799	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	24.6	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114753	SAMD00114753	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	21.3	colorectal carcinoma	Male	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114754	SAMD00114754	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	20.8	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115044	SAMD00115044	Homo sapiens	Control	Study Control	Japan	feces	70.0	20.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114989	SAMD00114989	Homo sapiens	Control	Study Control	Japan	feces	76.0	25.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114990	SAMD00114990	Homo sapiens	Control	Study Control	Japan	feces	68.0	22.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114991	SAMD00114991	Homo sapiens	Control	Study Control	Japan	feces	69.0	23.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114992	SAMD00114992	Homo sapiens	Control	Study Control	Japan	feces	62.0	19.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115048	SAMD00115048	Homo sapiens	Control	Study Control	Japan	feces	69.0	23.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114749	SAMD00114749	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	16.9	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115049	SAMD00115049	Homo sapiens	Control	Study Control	Japan	feces	38.0	20.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115050	SAMD00115050	Homo sapiens	Control	Study Control	Japan	feces	72.0	26.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115051	SAMD00115051	Homo sapiens	Control	Study Control	Japan	feces	72.0	24.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115052	SAMD00115052	Homo sapiens	Control	Study Control	Japan	feces	77.0	30.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114750	SAMD00114750	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	23.3	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115053	SAMD00115053	Homo sapiens	Control	Study Control	Japan	feces	57.0	21.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115054	SAMD00115054	Homo sapiens	Control	Study Control	Japan	feces	57.0	23.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114993	SAMD00114993	Homo sapiens	Adenoma	Case	Japan	feces	59.0	20.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00115055	SAMD00115055	Homo sapiens	Control	Study Control	Japan	feces	68.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114751	SAMD00114751	Homo sapiens	Adenoma	Case	Japan	feces	74.0	19.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114752	SAMD00114752	Homo sapiens	Adenoma	Case	Japan	feces	78.0	27.3	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114780	SAMD00114780	Homo sapiens	Control	Study Control	Japan	feces	77.0	22.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114781	SAMD00114781	Homo sapiens	Control	Study Control	Japan	feces	64.0	20.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114782	SAMD00114782	Homo sapiens	colorectal carcinoma	Case	Japan	feces	44.0	26.7	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114994	SAMD00114994	Homo sapiens	Control	Study Control	Japan	feces	44.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114774	SAMD00114774	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	19.4	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114775	SAMD00114775	Homo sapiens	colorectal carcinoma	Case	Japan	feces	49.0	22.6	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114776	SAMD00114776	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	20.6	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114777	SAMD00114777	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	26.8	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115056	SAMD00115056	Homo sapiens	Control	Study Control	Japan	feces	64.0	17.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115058	SAMD00115058	Homo sapiens	Control	Study Control	Japan	feces	62.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114778	SAMD00114778	Homo sapiens	Control	Study Control	Japan	feces	59.0	20.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114779	SAMD00114779	Homo sapiens	Control	Study Control	Japan	feces	68.0	23.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114730	SAMD00114730	Homo sapiens	Control	Study Control	Japan	feces	75.0	18.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115001	SAMD00115001	Homo sapiens	Control	Study Control	Japan	feces	70.0	25.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114731	SAMD00114731	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	21.9	colorectal carcinoma	Female	III	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00114732	SAMD00114732	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	21.8	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114733	SAMD00114733	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	24.7	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114734	SAMD00114734	Homo sapiens	Control	Study Control	Japan	feces	72.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114725	SAMD00114725	Homo sapiens	Adenoma	Case	Japan	feces	60.0	28.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00115057	SAMD00115057	Homo sapiens	Control	Study Control	Japan	feces	65.0	22.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114726	SAMD00114726	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	22.1	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114727	SAMD00114727	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	28.3	colorectal carcinoma	Male	IV	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00114728	SAMD00114728	Homo sapiens	colorectal carcinoma	Case	Japan	feces	45.0	20.6	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114729	SAMD00114729	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	21.4	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115002	SAMD00115002	Homo sapiens	Control	Study Control	Japan	feces	75.0	22.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114787	SAMD00114787	Homo sapiens	Adenoma	Case	Japan	feces	67.0	23.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114788	SAMD00114788	Homo sapiens	colorectal carcinoma	Case	Japan	feces	57.0	25.4	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115003	SAMD00115003	Homo sapiens	Control	Study Control	Japan	feces	76.0	23.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115004	SAMD00115004	Homo sapiens	Control	Study Control	Japan	feces	45.0	19.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114789	SAMD00114789	Homo sapiens	Control	Study Control	Japan	feces	58.0	22.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114790	SAMD00114790	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	26.6	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114791	SAMD00114791	Homo sapiens	Control	Study Control	Japan	feces	62.0	19.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114792	SAMD00114792	Homo sapiens	Control	Study Control	Japan	feces	67.0	26.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114783	SAMD00114783	Homo sapiens	Control	Study Control	Japan	feces	50.0	20.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114784	SAMD00114784	Homo sapiens	Control	Study Control	Japan	feces	60.0	21.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115008	SAMD00115008	Homo sapiens	Control	Study Control	Japan	feces	76.0	23.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114785	SAMD00114785	Homo sapiens	Control	Study Control	Japan	feces	71.0	24.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114786	SAMD00114786	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	24.6	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115009	SAMD00115009	Homo sapiens	Control	Study Control	Japan	feces	76.0	25.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115005	SAMD00115005	Homo sapiens	Control	Study Control	Japan	feces	66.0	23.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115006	SAMD00115006	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	20.9	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115038	SAMD00115038	Homo sapiens	Control	Study Control	Japan	feces	41.0	22.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00115007	SAMD00115007	Homo sapiens	colorectal carcinoma	Case	Japan	feces	57.0	24.5	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115059	SAMD00115059	Homo sapiens	Control	Study Control	Japan	feces	49.0	22.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115011	SAMD00115011	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	22.2	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00115012	SAMD00115012	Homo sapiens	Control	Study Control	Japan	feces	74.0	19.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00115013	SAMD00115013	Homo sapiens	colorectal carcinoma	Case	Japan	feces	28.0	26.3	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00115010	SAMD00115010	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	27.3	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114816	SAMD00114816	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	21.0	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114819	SAMD00114819	Homo sapiens	Control	Study Control	Japan	feces	74.0	20.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114804	SAMD00114804	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	19.6	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114805	SAMD00114805	Homo sapiens	colorectal carcinoma	Case	Japan	feces	46.0	19.2	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114806	SAMD00114806	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	21.6	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114807	SAMD00114807	Homo sapiens	Control	Study Control	Japan	feces	76.0	19.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114808	SAMD00114808	Homo sapiens	colorectal carcinoma	Case	Japan	feces	76.0	24.7	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114809	SAMD00114809	Homo sapiens	Control	Study Control	Japan	feces	47.0	22.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114810	SAMD00114810	Homo sapiens	colorectal carcinoma	Case	Japan	feces	52.0	23.3	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114811	SAMD00114811	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	16.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114820	SAMD00114820	Homo sapiens	Adenoma	Case	Japan	feces	66.0	18.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114821	SAMD00114821	Homo sapiens	Adenoma	Case	Japan	feces	75.0	21.5	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114812	SAMD00114812	Homo sapiens	Control	Study Control	Japan	feces	71.0	22.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114813	SAMD00114813	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	17.3	colorectal carcinoma	Female	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114814	SAMD00114814	Homo sapiens	colorectal carcinoma	Case	Japan	feces	53.0	20.8	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114826	SAMD00114826	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	17.5	colorectal carcinoma	Female	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114827	SAMD00114827	Homo sapiens	Adenoma	Case	Japan	feces	73.0	21.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114828	SAMD00114828	Homo sapiens	Adenoma	Case	Japan	feces	74.0	28.7	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114829	SAMD00114829	Homo sapiens	Control	Study Control	Japan	feces	65.0	19.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114830	SAMD00114830	Homo sapiens	Control	Study Control	Japan	feces	78.0	21.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114862	SAMD00114862	Homo sapiens	Control	Study Control	Japan	feces	78.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114822	SAMD00114822	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	24.9	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114823	SAMD00114823	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	25.7	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114857	SAMD00114857	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	18.0	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114858	SAMD00114858	Homo sapiens	Control	Study Control	Japan	feces	67.0	21.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114824	SAMD00114824	Homo sapiens	Control	Study Control	Japan	feces	52.0	21.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114825	SAMD00114825	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	20.6	colorectal carcinoma	Male	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114817	SAMD00114817	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	24.8	colorectal carcinoma	Male	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114818	SAMD00114818	Homo sapiens	Control	Study Control	Japan	feces	71.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114835	SAMD00114835	Homo sapiens	colorectal carcinoma	Case	Japan	feces	50.0	23.5	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114836	SAMD00114836	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	23.9	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114803	SAMD00114803	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	24.6	colorectal carcinoma	Male	IV	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114841	SAMD00114841	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	23.2	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114842	SAMD00114842	Homo sapiens	Control	Study Control	Japan	feces	76.0	23.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114843	SAMD00114843	Homo sapiens	Control	Study Control	Japan	feces	53.0	18.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114844	SAMD00114844	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	31.1	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114845	SAMD00114845	Homo sapiens	Control	Study Control	Japan	feces	55.0	26.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114846	SAMD00114846	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	20.4	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114847	SAMD00114847	Homo sapiens	Adenoma	Case	Japan	feces	71.0	21.2	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114848	SAMD00114848	Homo sapiens	colorectal carcinoma	Case	Japan	feces	74.0	25.7	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114849	SAMD00114849	Homo sapiens	colorectal carcinoma	Case	Japan	feces	45.0	23.4	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114850	SAMD00114850	Homo sapiens	Control	Study Control	Japan	feces	41.0	20.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114863	SAMD00114863	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	22.7	colorectal carcinoma	Female	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114864	SAMD00114864	Homo sapiens	Adenoma	Case	Japan	feces	65.0	24.9	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114865	SAMD00114865	Homo sapiens	Control	Study Control	Japan	feces	45.0	24.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114866	SAMD00114866	Homo sapiens	Adenoma	Case	Japan	feces	64.0	22.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114851	SAMD00114851	Homo sapiens	Adenoma	Case	Japan	feces	58.0	23.9	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114852	SAMD00114852	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	22.0	colorectal carcinoma	Male	0	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00114867	SAMD00114867	Homo sapiens	Control	Study Control	Japan	feces	61.0	27.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114853	SAMD00114853	Homo sapiens	Adenoma	Case	Japan	feces	72.0	17.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114868	SAMD00114868	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	22.7	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114869	SAMD00114869	Homo sapiens	Control	Study Control	Japan	feces	66.0	31.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114854	SAMD00114854	Homo sapiens	Control	Study Control	Japan	feces	78.0	22.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114859	SAMD00114859	Homo sapiens	Control	Study Control	Japan	feces	75.0	22.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114837	SAMD00114837	Homo sapiens	Control	Study Control	Japan	feces	51.0	29.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114838	SAMD00114838	Homo sapiens	Control	Study Control	Japan	feces	54.0	23.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114860	SAMD00114860	Homo sapiens	Control	Study Control	Japan	feces	61.0	26.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114839	SAMD00114839	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	25.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114840	SAMD00114840	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	21.5	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114855	SAMD00114855	Homo sapiens	Adenoma	Case	Japan	feces	73.0	21.8	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114856	SAMD00114856	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	18.2	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114861	SAMD00114861	Homo sapiens	Adenoma	Case	Japan	feces	59.0	24.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114887	SAMD00114887	Homo sapiens	Adenoma	Case	Japan	feces	59.0	22.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114870	SAMD00114870	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	19.0	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114871	SAMD00114871	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	23.1	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114926	SAMD00114926	Homo sapiens	Control	Study Control	Japan	feces	73.0	20.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114937	SAMD00114937	Homo sapiens	Adenoma	Case	Japan	feces	58.0	22.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114888	SAMD00114888	Homo sapiens	Control	Study Control	Japan	feces	63.0	20.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114889	SAMD00114889	Homo sapiens	Control	Study Control	Japan	feces	60.0	20.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114872	SAMD00114872	Homo sapiens	Control	Study Control	Japan	feces	62.0	18.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114873	SAMD00114873	Homo sapiens	Control	Study Control	Japan	feces	57.0	23.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114927	SAMD00114927	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	18.3	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114928	SAMD00114928	Homo sapiens	Adenoma	Case	Japan	feces	52.0	21.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114938	SAMD00114938	Homo sapiens	Control	Study Control	Japan	feces	76.0	26.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114890	SAMD00114890	Homo sapiens	Adenoma	Case	Japan	feces	70.0	20.9	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114891	SAMD00114891	Homo sapiens	colorectal carcinoma	Case	Japan	feces	77.0	23.3	colorectal carcinoma	Male	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114929	SAMD00114929	Homo sapiens	Control	Study Control	Japan	feces	40.0	23.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114930	SAMD00114930	Homo sapiens	Adenoma	Case	Japan	feces	60.0	26.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114939	SAMD00114939	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	22.7	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114892	SAMD00114892	Homo sapiens	colorectal carcinoma	Case	Japan	feces	49.0	19.4	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114893	SAMD00114893	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	20.2	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114874	SAMD00114874	Homo sapiens	Control	Study Control	Japan	feces	76.0	21.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114875	SAMD00114875	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	23.1	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114931	SAMD00114931	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	24.2	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114932	SAMD00114932	Homo sapiens	Control	Study Control	Japan	feces	69.0	24.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114940	SAMD00114940	Homo sapiens	Control	Study Control	Japan	feces	76.0	20.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114894	SAMD00114894	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	25.4	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114895	SAMD00114895	Homo sapiens	Control	Study Control	Japan	feces	49.0	22.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114876	SAMD00114876	Homo sapiens	Control	Study Control	Japan	feces	73.0	24.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114933	SAMD00114933	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	20.4	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114941	SAMD00114941	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	24.8	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114896	SAMD00114896	Homo sapiens	colorectal carcinoma	Case	Japan	feces	74.0	26.0	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114897	SAMD00114897	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	19.4	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114877	SAMD00114877	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	22.5	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114878	SAMD00114878	Homo sapiens	colorectal carcinoma	Case	Japan	feces	47.0	35.2	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114934	SAMD00114934	Homo sapiens	colorectal carcinoma	Case	Japan	feces	55.0	26.2	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114942	SAMD00114942	Homo sapiens	Control	Study Control	Japan	feces	46.0	20.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114898	SAMD00114898	Homo sapiens	Control	Study Control	Japan	feces	61.0	18.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114935	SAMD00114935	Homo sapiens	colorectal carcinoma	Case	Japan	feces	53.0	26.4	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114936	SAMD00114936	Homo sapiens	Adenoma	Case	Japan	feces	53.0	28.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114943	SAMD00114943	Homo sapiens	colorectal carcinoma	Case	Japan	feces	47.0	18.1	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114908	SAMD00114908	Homo sapiens	Control	Study Control	Japan	feces	71.0	23.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114944	SAMD00114944	Homo sapiens	colorectal carcinoma	Case	Japan	feces	77.0	24.6	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114918	SAMD00114918	Homo sapiens	Control	Study Control	Japan	feces	42.0	26.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114909	SAMD00114909	Homo sapiens	colorectal carcinoma	Case	Japan	feces	56.0	23.0	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114919	SAMD00114919	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	19.8	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114920	SAMD00114920	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	21.0	colorectal carcinoma	Female	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114949	SAMD00114949	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	23.4	colorectal carcinoma	Male	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114950	SAMD00114950	Homo sapiens	Control	Study Control	Japan	feces	49.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114910	SAMD00114910	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	22.8	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114911	SAMD00114911	Homo sapiens	colorectal carcinoma	Case	Japan	feces	52.0	23.7	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114921	SAMD00114921	Homo sapiens	colorectal carcinoma	Case	Japan	feces	39.0	19.4	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114922	SAMD00114922	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	21.5	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114951	SAMD00114951	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	23.3	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114912	SAMD00114912	Homo sapiens	colorectal carcinoma	Case	Japan	feces	78.0	25.9	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114913	SAMD00114913	Homo sapiens	Control	Study Control	Japan	feces	69.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114923	SAMD00114923	Homo sapiens	Adenoma	Case	Japan	feces	63.0	23.6	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114952	SAMD00114952	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	21.3	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114953	SAMD00114953	Homo sapiens	Control	Study Control	Japan	feces	63.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114945	SAMD00114945	Homo sapiens	Control	Study Control	Japan	feces	70.0	24.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114924	SAMD00114924	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	19.8	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114954	SAMD00114954	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	25.6	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114914	SAMD00114914	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	24.9	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114946	SAMD00114946	Homo sapiens	colorectal carcinoma	Case	Japan	feces	46.0	17.4	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114925	SAMD00114925	Homo sapiens	colorectal carcinoma	Case	Japan	feces	50.0	22.1	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114955	SAMD00114955	Homo sapiens	Adenoma	Case	Japan	feces	63.0	20.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114956	SAMD00114956	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	20.5	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114915	SAMD00114915	Homo sapiens	colorectal carcinoma	Case	Japan	feces	54.0	20.6	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114916	SAMD00114916	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	19.8	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114917	SAMD00114917	Homo sapiens	colorectal carcinoma	Case	Japan	feces	49.0	37.6	colorectal carcinoma	Male	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114947	SAMD00114947	Homo sapiens	Adenoma	Case	Japan	feces	69.0	25.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114948	SAMD00114948	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	24.7	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114957	SAMD00114957	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	25.1	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114958	SAMD00114958	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	23.6	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114879	SAMD00114879	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	18.7	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114880	SAMD00114880	Homo sapiens	Control	Study Control	Japan	feces	42.0	25.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114959	SAMD00114959	Homo sapiens	Control	Study Control	Japan	feces	49.0	27.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114960	SAMD00114960	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	22.0	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114899	SAMD00114899	Homo sapiens	Control	Study Control	Japan	feces	54.0	22.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114881	SAMD00114881	Homo sapiens	Control	Study Control	Japan	feces	68.0	19.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114882	SAMD00114882	Homo sapiens	Control	Study Control	Japan	feces	74.0	24.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114900	SAMD00114900	Homo sapiens	Control	Study Control	Japan	feces	54.0	19.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114901	SAMD00114901	Homo sapiens	Control	Study Control	Japan	feces	74.0	20.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114961	SAMD00114961	Homo sapiens	Adenoma	Case	Japan	feces	66.0	20.2	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114962	SAMD00114962	Homo sapiens	Adenoma	Case	Japan	feces	48.0	19.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114883	SAMD00114883	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	23.8	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114884	SAMD00114884	Homo sapiens	colorectal carcinoma	Case	Japan	feces	32.0	22.3	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114902	SAMD00114902	Homo sapiens	colorectal carcinoma	Case	Japan	feces	78.0	29.7	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114903	SAMD00114903	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	23.1	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114963	SAMD00114963	Homo sapiens	Control	Study Control	Japan	feces	65.0	24.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114964	SAMD00114964	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	22.2	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114904	SAMD00114904	Homo sapiens	Adenoma	Case	Japan	feces	74.0	23.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00114905	SAMD00114905	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	22.9	colorectal carcinoma	Male	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114965	SAMD00114965	Homo sapiens	colorectal carcinoma	Case	Japan	feces	52.0	26.4	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114885	SAMD00114885	Homo sapiens	Control	Study Control	Japan	feces	74.0	20.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114906	SAMD00114906	Homo sapiens	Control	Study Control	Japan	feces	75.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00114907	SAMD00114907	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	19.6	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00114966	SAMD00114966	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	20.5	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00114967	SAMD00114967	Homo sapiens	Control	Study Control	Japan	feces	51.0	28.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00114886	SAMD00114886	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	27.2	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164694	SAMD00164694	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	22.5	colorectal carcinoma	Female	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164695	SAMD00164695	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	24.0	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164708	SAMD00164708	Homo sapiens	Control	Study Control	Japan	feces	61.0	25.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164713	SAMD00164713	Homo sapiens	Control	Study Control	Japan	feces	42.0	20.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00136653	SAMD00136653	Homo sapiens	Control	Study Control	Japan	feces	68.0	18.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164717	SAMD00164717	Homo sapiens	Adenoma	Case	Japan	feces	50.0	23.7	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164721	SAMD00164721	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	18.0	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164723	SAMD00164723	Homo sapiens	Control	Study Control	Japan	feces	43.0	21.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164727	SAMD00164727	Homo sapiens	Control	Study Control	Japan	feces	44.0	24.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164728	SAMD00164728	Homo sapiens	Adenoma	Case	Japan	feces	78.0	23.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164729	SAMD00164729	Homo sapiens	Control	Study Control	Japan	feces	76.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164734	SAMD00164734	Homo sapiens	Adenoma	Case	Japan	feces	44.0	22.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164744	SAMD00164744	Homo sapiens	Control	Study Control	Japan	feces	50.0	20.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164745	SAMD00164745	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	28.1	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164746	SAMD00164746	Homo sapiens	Adenoma	Case	Japan	feces	64.0	24.2	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164748	SAMD00164748	Homo sapiens	Control	Study Control	Japan	feces	68.0	24.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164750	SAMD00164750	Homo sapiens	Adenoma	Case	Japan	feces	64.0	18.8	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00154991	SAMD00154991	Homo sapiens	Control	Study Control	Japan	feces	65.0	21.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164755	SAMD00164755	Homo sapiens	Adenoma	Case	Japan	feces	71.0	18.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164756	SAMD00164756	Homo sapiens	Control	Study Control	Japan	feces	67.0	21.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164757	SAMD00164757	Homo sapiens	Adenoma	Case	Japan	feces	65.0	20.4	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164758	SAMD00164758	Homo sapiens	Control	Study Control	Japan	feces	78.0	20.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00154992	SAMD00154992	Homo sapiens	Control	Study Control	Japan	feces	66.0	22.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164760	SAMD00164760	Homo sapiens	Adenoma	Case	Japan	feces	52.0	22.6	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00154993	SAMD00154993	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	23.0	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164764	SAMD00164764	Homo sapiens	Adenoma	Case	Japan	feces	72.0	19.3	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164765	SAMD00164765	Homo sapiens	Adenoma	Case	Japan	feces	53.0	23.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00136648	SAMD00136648	Homo sapiens	Control	Study Control	Japan	feces	56.0	26.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164767	SAMD00164767	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	22.4	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164769	SAMD00164769	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	22.5	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00154994	SAMD00154994	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	21.4	colorectal carcinoma	Male	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164771	SAMD00164771	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	24.6	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164772	SAMD00164772	Homo sapiens	Adenoma	Case	Japan	feces	58.0	25.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00154995	SAMD00154995	Homo sapiens	colorectal carcinoma	Case	Japan	feces	70.0	19.0	colorectal carcinoma	Male	IV	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164773	SAMD00164773	Homo sapiens	Control	Study Control	Japan	feces	67.0	25.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164774	SAMD00164774	Homo sapiens	Control	Study Control	Japan	feces	62.0	25.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164776	SAMD00164776	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	20.5	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164778	SAMD00164778	Homo sapiens	colorectal carcinoma	Case	Japan	feces	74.0	19.4	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164779	SAMD00164779	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	20.2	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164780	SAMD00164780	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	22.9	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164791	SAMD00164791	Homo sapiens	Adenoma	Case	Japan	feces	72.0	49.5	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164801	SAMD00164801	Homo sapiens	Adenoma	Case	Japan	feces	77.0	19.5	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164803	SAMD00164803	Homo sapiens	Control	Study Control	Japan	feces	74.0	22.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164804	SAMD00164804	Homo sapiens	Adenoma	Case	Japan	feces	55.0	25.2	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164805	SAMD00164805	Homo sapiens	Control	Study Control	Japan	feces	70.0	25.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164806	SAMD00164806	Homo sapiens	Control	Study Control	Japan	feces	77.0	20.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164807	SAMD00164807	Homo sapiens	Control	Study Control	Japan	feces	78.0	24.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164808	SAMD00164808	Homo sapiens	Control	Study Control	Japan	feces	51.0	18.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164809	SAMD00164809	Homo sapiens	Control	Study Control	Japan	feces	60.0	19.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164812	SAMD00164812	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	29.3	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164813	SAMD00164813	Homo sapiens	Adenoma	Case	Japan	feces	58.0	22.9	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164814	SAMD00164814	Homo sapiens	Control	Study Control	Japan	feces	55.0	24.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164817	SAMD00164817	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	24.5	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164818	SAMD00164818	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	28.3	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164819	SAMD00164819	Homo sapiens	Control	Study Control	Japan	feces	69.0	22.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164820	SAMD00164820	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	30.5	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164821	SAMD00164821	Homo sapiens	colorectal carcinoma	Case	Japan	feces	46.0	22.9	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164822	SAMD00164822	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	23.7	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164823	SAMD00164823	Homo sapiens	Control	Study Control	Japan	feces	54.0	20.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164824	SAMD00164824	Homo sapiens	Control	Study Control	Japan	feces	68.0	18.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164825	SAMD00164825	Homo sapiens	Control	Study Control	Japan	feces	37.0	25.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164826	SAMD00164826	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	27.5	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164827	SAMD00164827	Homo sapiens	Control	Study Control	Japan	feces	46.0	22.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164828	SAMD00164828	Homo sapiens	Control	Study Control	Japan	feces	46.0	23.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164829	SAMD00164829	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	24.7	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164830	SAMD00164830	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	22.1	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164831	SAMD00164831	Homo sapiens	colorectal carcinoma	Case	Japan	feces	74.0	22.5	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164832	SAMD00164832	Homo sapiens	colorectal carcinoma	Case	Japan	feces	55.0	25.4	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164833	SAMD00164833	Homo sapiens	Control	Study Control	Japan	feces	58.0	20.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164834	SAMD00164834	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	22.1	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164835	SAMD00164835	Homo sapiens	Control	Study Control	Japan	feces	43.0	16.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164836	SAMD00164836	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	20.0	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164837	SAMD00164837	Homo sapiens	Control	Study Control	Japan	feces	52.0	25.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164838	SAMD00164838	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	18.3	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164839	SAMD00164839	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	20.0	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164840	SAMD00164840	Homo sapiens	Control	Study Control	Japan	feces	58.0	18.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164841	SAMD00164841	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	23.1	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164842	SAMD00164842	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	19.7	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164843	SAMD00164843	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	22.5	colorectal carcinoma	Female	0	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00164844	SAMD00164844	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	22.9	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164845	SAMD00164845	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	23.7	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164846	SAMD00164846	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	23.9	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164847	SAMD00164847	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	17.2	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164848	SAMD00164848	Homo sapiens	Control	Study Control	Japan	feces	66.0	24.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164849	SAMD00164849	Homo sapiens	Control	Study Control	Japan	feces	73.0	21.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164850	SAMD00164850	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	25.6	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164851	SAMD00164851	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	23.9	colorectal carcinoma	Male	I	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00164852	SAMD00164852	Homo sapiens	colorectal carcinoma	Case	Japan	feces	65.0	20.3	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164853	SAMD00164853	Homo sapiens	Control	Study Control	Japan	feces	61.0	21.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164854	SAMD00164854	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	21.0	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164855	SAMD00164855	Homo sapiens	Control	Study Control	Japan	feces	71.0	17.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164856	SAMD00164856	Homo sapiens	Control	Study Control	Japan	feces	48.0	21.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164857	SAMD00164857	Homo sapiens	Control	Study Control	Japan	feces	42.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164858	SAMD00164858	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	19.9	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164859	SAMD00164859	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	23.5	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164860	SAMD00164860	Homo sapiens	colorectal carcinoma	Case	Japan	feces	79.0	17.7	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164861	SAMD00164861	Homo sapiens	colorectal carcinoma	Case	Japan	feces	44.0	29.0	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164862	SAMD00164862	Homo sapiens	Control	Study Control	Japan	feces	44.0	23.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164863	SAMD00164863	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	22.6	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164864	SAMD00164864	Homo sapiens	colorectal carcinoma	Case	Japan	feces	46.0	25.4	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164865	SAMD00164865	Homo sapiens	Control	Study Control	Japan	feces	77.0	20.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164866	SAMD00164866	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	21.3	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164867	SAMD00164867	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	19.8	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164868	SAMD00164868	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	21.2	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164869	SAMD00164869	Homo sapiens	colorectal carcinoma	Case	Japan	feces	76.0	19.0	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164870	SAMD00164870	Homo sapiens	Control	Study Control	Japan	feces	63.0	27.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164871	SAMD00164871	Homo sapiens	colorectal carcinoma	Case	Japan	feces	62.0	21.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164872	SAMD00164872	Homo sapiens	Control	Study Control	Japan	feces	55.0	23.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164873	SAMD00164873	Homo sapiens	Control	Study Control	Japan	feces	32.0	18.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164874	SAMD00164874	Homo sapiens	Control	Study Control	Japan	feces	77.0	20.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164875	SAMD00164875	Homo sapiens	Control	Study Control	Japan	feces	34.0	21.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164876	SAMD00164876	Homo sapiens	Control	Study Control	Japan	feces	37.0	25.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164877	SAMD00164877	Homo sapiens	Control	Study Control	Japan	feces	68.0	19.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164878	SAMD00164878	Homo sapiens	Control	Study Control	Japan	feces	51.0	19.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164879	SAMD00164879	Homo sapiens	Control	Study Control	Japan	feces	63.0	21.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164880	SAMD00164880	Homo sapiens	colorectal carcinoma	Case	Japan	feces	78.0	21.2	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164881	SAMD00164881	Homo sapiens	Control	Study Control	Japan	feces	51.0	19.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164882	SAMD00164882	Homo sapiens	Control	Study Control	Japan	feces	72.0	23.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164883	SAMD00164883	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	22.1	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164884	SAMD00164884	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	21.2	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164885	SAMD00164885	Homo sapiens	colorectal carcinoma	Case	Japan	feces	54.0	25.5	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164887	SAMD00164887	Homo sapiens	Adenoma	Case	Japan	feces	73.0	16.7	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164888	SAMD00164888	Homo sapiens	Control	Study Control	Japan	feces	47.0	26.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164889	SAMD00164889	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	22.4	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164890	SAMD00164890	Homo sapiens	Control	Study Control	Japan	feces	57.0	26.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164891	SAMD00164891	Homo sapiens	Control	Study Control	Japan	feces	54.0	23.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164892	SAMD00164892	Homo sapiens	Control	Study Control	Japan	feces	63.0	24.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164893	SAMD00164893	Homo sapiens	Adenoma	Case	Japan	feces	70.0	18.8	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164894	SAMD00164894	Homo sapiens	Control	Study Control	Japan	feces	70.0	20.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164895	SAMD00164895	Homo sapiens	Control	Study Control	Japan	feces	44.0	21.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164896	SAMD00164896	Homo sapiens	Control	Study Control	Japan	feces	55.0	24.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164897	SAMD00164897	Homo sapiens	Control	Study Control	Japan	feces	55.0	21.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164898	SAMD00164898	Homo sapiens	Control	Study Control	Japan	feces	79.0	24.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164899	SAMD00164899	Homo sapiens	Control	Study Control	Japan	feces	38.0	22.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164900	SAMD00164900	Homo sapiens	Adenoma	Case	Japan	feces	41.0	20.9	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164901	SAMD00164901	Homo sapiens	Control	Study Control	Japan	feces	54.0	20.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164902	SAMD00164902	Homo sapiens	Control	Study Control	Japan	feces	61.0	26.4	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164903	SAMD00164903	Homo sapiens	colorectal carcinoma	Case	Japan	feces	50.0	23.7	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164904	SAMD00164904	Homo sapiens	Control	Study Control	Japan	feces	55.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164905	SAMD00164905	Homo sapiens	colorectal carcinoma	Case	Japan	feces	66.0	28.9	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164906	SAMD00164906	Homo sapiens	Control	Study Control	Japan	feces	65.0	27.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164907	SAMD00164907	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	26.6	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164908	SAMD00164908	Homo sapiens	Control	Study Control	Japan	feces	58.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164909	SAMD00164909	Homo sapiens	Control	Study Control	Japan	feces	74.0	24.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164910	SAMD00164910	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	19.1	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164911	SAMD00164911	Homo sapiens	Control	Study Control	Japan	feces	64.0	16.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164912	SAMD00164912	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	17.8	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164913	SAMD00164913	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	23.0	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164914	SAMD00164914	Homo sapiens	Control	Study Control	Japan	feces	40.0	17.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164915	SAMD00164915	Homo sapiens	Control	Study Control	Japan	feces	46.0	20.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164916	SAMD00164916	Homo sapiens	Control	Study Control	Japan	feces	72.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164917	SAMD00164917	Homo sapiens	Control	Study Control	Japan	feces	62.0	21.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164918	SAMD00164918	Homo sapiens	Control	Study Control	Japan	feces	47.0	21.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164919	SAMD00164919	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	18.5	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164920	SAMD00164920	Homo sapiens	Control	Study Control	Japan	feces	47.0	18.4	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164921	SAMD00164921	Homo sapiens	Adenoma	Case	Japan	feces	65.0	19.7	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164922	SAMD00164922	Homo sapiens	Adenoma	Case	Japan	feces	62.0	25.0	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164923	SAMD00164923	Homo sapiens	Control	Study Control	Japan	feces	67.0	23.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164924	SAMD00164924	Homo sapiens	Adenoma	Case	Japan	feces	74.0	20.1	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164925	SAMD00164925	Homo sapiens	Adenoma	Case	Japan	feces	57.0	19.4	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164926	SAMD00164926	Homo sapiens	Control	Study Control	Japan	feces	56.0	23.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164927	SAMD00164927	Homo sapiens	Control	Study Control	Japan	feces	72.0	21.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164928	SAMD00164928	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	21.1	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164929	SAMD00164929	Homo sapiens	Control	Study Control	Japan	feces	54.0	27.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164930	SAMD00164930	Homo sapiens	Control	Study Control	Japan	feces	63.0	19.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164931	SAMD00164931	Homo sapiens	Control	Study Control	Japan	feces	75.0	20.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164932	SAMD00164932	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	25.7	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164933	SAMD00164933	Homo sapiens	Control	Study Control	Japan	feces	66.0	23.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164934	SAMD00164934	Homo sapiens	Control	Study Control	Japan	feces	62.0	20.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164935	SAMD00164935	Homo sapiens	Control	Study Control	Japan	feces	66.0	23.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164936	SAMD00164936	Homo sapiens	Control	Study Control	Japan	feces	55.0	23.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164937	SAMD00164937	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	24.5	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164938	SAMD00164938	Homo sapiens	Control	Study Control	Japan	feces	69.0	23.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164939	SAMD00164939	Homo sapiens	Control	Study Control	Japan	feces	71.0	26.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164940	SAMD00164940	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	20.5	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164941	SAMD00164941	Homo sapiens	Control	Study Control	Japan	feces	68.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164942	SAMD00164942	Homo sapiens	Adenoma	Case	Japan	feces	63.0	21.2	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164943	SAMD00164943	Homo sapiens	Adenoma	Case	Japan	feces	64.0	19.8	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164944	SAMD00164944	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	22.6	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164945	SAMD00164945	Homo sapiens	Adenoma	Case	Japan	feces	72.0	22.1	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164946	SAMD00164946	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	18.2	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164947	SAMD00164947	Homo sapiens	Control	Study Control	Japan	feces	37.0	19.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164948	SAMD00164948	Homo sapiens	Adenoma	Case	Japan	feces	47.0	30.8	Adenoma	Female		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164949	SAMD00164949	Homo sapiens	Control	Study Control	Japan	feces	49.0	19.7	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164950	SAMD00164950	Homo sapiens	Control	Study Control	Japan	feces	31.0	39.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164951	SAMD00164951	Homo sapiens	Control	Study Control	Japan	feces	52.0	22.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164952	SAMD00164952	Homo sapiens	Control	Study Control	Japan	feces	35.0	22.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164953	SAMD00164953	Homo sapiens	Control	Study Control	Japan	feces	57.0	30.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164954	SAMD00164954	Homo sapiens	Control	Study Control	Japan	feces	21.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164955	SAMD00164955	Homo sapiens	Control	Study Control	Japan	feces	70.0	30.0	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164956	SAMD00164956	Homo sapiens	Control	Study Control	Japan	feces	50.0	21.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164957	SAMD00164957	Homo sapiens	Control	Study Control	Japan	feces	57.0	21.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164958	SAMD00164958	Homo sapiens	Control	Study Control	Japan	feces	52.0	27.6	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164959	SAMD00164959	Homo sapiens	Adenoma	Case	Japan	feces	67.0	25.4	Adenoma	Male		nd	Public_study__YachidaS_2019	Adenoma
+SAMD00164960	SAMD00164960	Homo sapiens	Control	Study Control	Japan	feces	51.0	21.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164961	SAMD00164961	Homo sapiens	Control	Study Control	Japan	feces	61.0	17.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164962	SAMD00164962	Homo sapiens	Control	Study Control	Japan	feces	63.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164963	SAMD00164963	Homo sapiens	Control	Study Control	Japan	feces	40.0	22.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164964	SAMD00164964	Homo sapiens	Control	Study Control	Japan	feces	70.0	18.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164965	SAMD00164965	Homo sapiens	Control	Study Control	Japan	feces	27.0	25.0	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164966	SAMD00164966	Homo sapiens	Control	Study Control	Japan	feces	34.0	21.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164967	SAMD00164967	Homo sapiens	Control	Study Control	Japan	feces	75.0	30.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164968	SAMD00164968	Homo sapiens	colorectal carcinoma	Case	Japan	feces	75.0	21.3	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164969	SAMD00164969	Homo sapiens	Control	Study Control	Japan	feces	37.0	22.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164970	SAMD00164970	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	24.9	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164971	SAMD00164971	Homo sapiens	colorectal carcinoma	Case	Japan	feces	49.0	19.3	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164972	SAMD00164972	Homo sapiens	Control	Study Control	Japan	feces	52.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164973	SAMD00164973	Homo sapiens	Control	Study Control	Japan	feces	55.0	21.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00164974	SAMD00164974	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	21.9	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164975	SAMD00164975	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	29.5	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164976	SAMD00164976	Homo sapiens	colorectal carcinoma	Case	Japan	feces	43.0	21.6	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164977	SAMD00164977	Homo sapiens	colorectal carcinoma	Case	Japan	feces	60.0	19.2	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164978	SAMD00164978	Homo sapiens	colorectal carcinoma	Case	Japan	feces	51.0	22.2	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164979	SAMD00164979	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	22.8	colorectal carcinoma	Male	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164980	SAMD00164980	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	25.7	colorectal carcinoma	Male	II	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00164981	SAMD00164981	Homo sapiens	colorectal carcinoma	Case	Japan	feces	76.0	21.9	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164982	SAMD00164982	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	25.3	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164983	SAMD00164983	Homo sapiens	Control	Study Control	Japan	feces	78.0	23.3	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164984	SAMD00164984	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	29.7	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164985	SAMD00164985	Homo sapiens	colorectal carcinoma	Case	Japan	feces	63.0	23.6	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164986	SAMD00164986	Homo sapiens	Control	Study Control	Japan	feces	73.0	22.9	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164987	SAMD00164987	Homo sapiens	colorectal carcinoma	Case	Japan	feces	71.0	21.0	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164988	SAMD00164988	Homo sapiens	colorectal carcinoma	Case	Japan	feces	72.0	20.3	colorectal carcinoma	Female	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164989	SAMD00164989	Homo sapiens	colorectal carcinoma	Case	Japan	feces	53.0	31.2	colorectal carcinoma	Male	0	multiple_sites	Public_study__YachidaS_2019	CRC
+SAMD00164990	SAMD00164990	Homo sapiens	colorectal carcinoma	Case	Japan	feces	64.0	26.3	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164991	SAMD00164991	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	28.1	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164992	SAMD00164992	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	25.3	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164993	SAMD00164993	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	23.4	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164994	SAMD00164994	Homo sapiens	colorectal carcinoma	Case	Japan	feces	40.0	22.6	colorectal carcinoma	Male	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00164995	SAMD00164995	Homo sapiens	colorectal carcinoma	Case	Japan	feces	58.0	22.5	colorectal carcinoma	Female	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164996	SAMD00164996	Homo sapiens	Control	Study Control	Japan	feces	58.0	22.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00164997	SAMD00164997	Homo sapiens	colorectal carcinoma	Case	Japan	feces	57.0	27.0	colorectal carcinoma	Male	0	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164998	SAMD00164998	Homo sapiens	colorectal carcinoma	Case	Japan	feces	61.0	27.1	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00164999	SAMD00164999	Homo sapiens	Control	Study Control	Japan	feces	76.0	21.5	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165000	SAMD00165000	Homo sapiens	colorectal carcinoma	Case	Japan	feces	77.0	20.3	colorectal carcinoma	Female	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165001	SAMD00165001	Homo sapiens	Control	Study Control	Japan	feces	70.0	22.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165002	SAMD00165002	Homo sapiens	colorectal carcinoma	Case	Japan	feces	45.0	22.3	colorectal carcinoma	Male	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165003	SAMD00165003	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	20.2	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165004	SAMD00165004	Homo sapiens	Control	Study Control	Japan	feces	41.0	26.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165005	SAMD00165005	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	23.6	colorectal carcinoma	Male	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165006	SAMD00165006	Homo sapiens	colorectal carcinoma	Case	Japan	feces	69.0	23.9	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165007	SAMD00165007	Homo sapiens	colorectal carcinoma	Case	Japan	feces	68.0	22.4	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165008	SAMD00165008	Homo sapiens	Control	Study Control	Japan	feces	62.0	21.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165009	SAMD00165009	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	21.5	colorectal carcinoma	Female	0	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165010	SAMD00165010	Homo sapiens	Control	Study Control	Japan	feces	51.0	21.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165011	SAMD00165011	Homo sapiens	colorectal carcinoma	Case	Japan	feces	55.0	22.6	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165012	SAMD00165012	Homo sapiens	colorectal carcinoma	Case	Japan	feces	48.0	23.2	colorectal carcinoma	Female	III	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165013	SAMD00165013	Homo sapiens	Control	Study Control	Japan	feces	45.0	18.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165014	SAMD00165014	Homo sapiens	colorectal carcinoma	Case	Japan	feces	59.0	26.0	colorectal carcinoma	Male	III	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165015	SAMD00165015	Homo sapiens	Control	Study Control	Japan	feces	60.0	18.6	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165016	SAMD00165016	Homo sapiens	colorectal carcinoma	Case	Japan	feces	67.0	24.4	colorectal carcinoma	Female	I	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165017	SAMD00165017	Homo sapiens	colorectal carcinoma	Case	Japan	feces	74.0	23.6	colorectal carcinoma	Female	II	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165018	SAMD00165018	Homo sapiens	colorectal carcinoma	Case	Japan	feces	73.0	19.8	colorectal carcinoma	Male	I	right_sided	Public_study__YachidaS_2019	CRC
+SAMD00165019	SAMD00165019	Homo sapiens	colorectal carcinoma	Case	Japan	feces	46.0	20.5	colorectal carcinoma	Female	II	left_sided	Public_study__YachidaS_2019	CRC
+SAMD00165020	SAMD00165020	Homo sapiens	Control	Study Control	Japan	feces	49.0	20.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165021	SAMD00165021	Homo sapiens	Control	Study Control	Japan	feces	30.0		Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165022	SAMD00165022	Homo sapiens	Control	Study Control	Japan	feces	56.0	24.1	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165023	SAMD00165023	Homo sapiens	Control	Study Control	Japan	feces	77.0	21.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165024	SAMD00165024	Homo sapiens	Control	Study Control	Japan	feces	64.0	21.1	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165025	SAMD00165025	Homo sapiens	Control	Study Control	Japan	feces	43.0	24.7	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165026	SAMD00165026	Homo sapiens	Control	Study Control	Japan	feces	55.0	19.8	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165027	SAMD00165027	Homo sapiens	Control	Study Control	Japan	feces	33.0	22.2	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165028	SAMD00165028	Homo sapiens	Control	Study Control	Japan	feces	74.0	19.9	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165029	SAMD00165029	Homo sapiens	Control	Study Control	Japan	feces	46.0	21.8	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165030	SAMD00165030	Homo sapiens	Control	Study Control	Japan	feces	59.0	26.5	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165031	SAMD00165031	Homo sapiens	Control	Study Control	Japan	feces	65.0	18.3	Control	Female		nd	Public_study__YachidaS_2019	Control
+SAMD00165032	SAMD00165032	Homo sapiens	Control	Study Control	Japan	feces	35.0	24.2	Control	Male		nd	Public_study__YachidaS_2019	Control
+SAMD00165033	SAMD00165033	Homo sapiens	Control	Study Control	Japan	feces	38.0	17.9	Control	Female		nd	Public_study__YachidaS_2019	Control

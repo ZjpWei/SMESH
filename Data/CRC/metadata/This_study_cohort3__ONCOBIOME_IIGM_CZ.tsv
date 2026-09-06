@@ -1,0 +1,125 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+Sample_S24761_CC_CRC698_FE_DNA_DIA	Sample_S24761_CC_CRC698_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	77.0	23.4	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24770_CC_CRC669_FE_DNA_DIA	Sample_S24770_CC_CRC669_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	77.0	24.2	colorectal carcinoma	Male	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24951_CC_CRC673_FE_DNA_DIA	Sample_S24951_CC_CRC673_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	54.0	20.7	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24763_CC_CRC703_FE_DNA_DIA	Sample_S24763_CC_CRC703_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	68.0	29.4	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24768_CC_CRC706_FE_DNA_DIA	Sample_S24768_CC_CRC706_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	76.0	26.3	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24764_CC_CRC710_FE_DNA_DIA	Sample_S24764_CC_CRC710_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	80.0		colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24699_CC_CRC639_FE_DNA_DIA	Sample_S24699_CC_CRC639_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	69.0	24.1	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24702_CC_CRC645_FE_DNA_DIA	Sample_S24702_CC_CRC645_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	60.0	18.5	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24704_CC_CRC692_FE_DNA_DIA	Sample_S24704_CC_CRC692_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	41.0	47.6	colorectal carcinoma	Female	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24947_CC_CRC695_FE_DNA_DIA	Sample_S24947_CC_CRC695_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	59.0	23.4	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24762_CC_CRC708_FE_DNA_DIA	Sample_S24762_CC_CRC708_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	43.0	31.2	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_CRC752_FE_DNA_DIA	CC_CRC752_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	58.0	19.5	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_CRC759_FE_DNA_DIA	CC_CRC759_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	77.0	23.0	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_CRC760_FE_DNA_DIA	CC_CRC760_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	52.0	16.9	colorectal carcinoma	Female	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24757_CC_P151_FE_DNA_DIA	Sample_S24757_CC_P151_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	26.4	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24938_CC_P155_FE_DNA_DIA	Sample_S24938_CC_P155_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	69.0	25.0	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24948_CC_P122_FE_DNA_DIA	Sample_S24948_CC_P122_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	70.0	23.8	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24936_CC_P127_FE_DNA_DIA	Sample_S24936_CC_P127_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	73.0	28.2	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24748_CC_P130_FE_DNA_DIA	Sample_S24748_CC_P130_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	75.0	21.8	colorectal carcinoma	Female	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24749_CC_P132_FE_DNA_DIA	Sample_S24749_CC_P132_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	61.0	24.7	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24750_CC_P133_FE_DNA_DIA	Sample_S24750_CC_P133_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	77.0	32.3	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24751_CC_P134_FE_DNA_DIA	Sample_S24751_CC_P134_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	60.0	22.9	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24752_CC_P138_FE_DNA_DIA	Sample_S24752_CC_P138_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	73.0	26.1	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24753_CC_P140_FE_DNA_DIA	Sample_S24753_CC_P140_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	74.0	31.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24754_CC_P143_FE_DNA_DIA	Sample_S24754_CC_P143_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	79.0	18.0	colorectal carcinoma	Female	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24755_CC_P149_FE_DNA_DIA	Sample_S24755_CC_P149_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	61.0	32.4	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24758_CC_P160_FE_DNA_DIA	Sample_S24758_CC_P160_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	78.0	23.4	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24694_CC_CRC627_FE_DNA_DIA	Sample_S24694_CC_CRC627_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	75.0	24.7	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24695_CC_CRC633_FE_DNA_DIA	Sample_S24695_CC_CRC633_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	76.0	30.4	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24696_CC_CRC634_FE_DNA_DIA	Sample_S24696_CC_CRC634_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	88.0	26.0	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24697_CC_CRC635_FE_DNA_DIA	Sample_S24697_CC_CRC635_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	31.7	colorectal carcinoma	Male	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24698_CC_CRC638_FE_DNA_DIA	Sample_S24698_CC_CRC638_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	74.0	25.6	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24700_CC_CRC641_FE_DNA_DIA	Sample_S24700_CC_CRC641_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	69.0	23.7	colorectal carcinoma	Male	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24701_CC_CRC642_FE_DNA_DIA	Sample_S24701_CC_CRC642_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	73.0	24.1	colorectal carcinoma	Male	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24703_CC_CRC652_FE_DNA_DIA	Sample_S24703_CC_CRC652_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	68.0	29.5	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24766_CC_CRC671_FE_DNA_DIA	Sample_S24766_CC_CRC671_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	76.0	43.9	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24767_CC_CRC691_FE_DNA_DIA	Sample_S24767_CC_CRC691_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	56.0	23.4	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24705_CC_CRC693_FE_DNA_DIA	Sample_S24705_CC_CRC693_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	33.9	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24765_CC_CRC694_FE_DNA_DIA	Sample_S24765_CC_CRC694_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	73.0	23.9	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_CRC757_FE_DNA_DIA	CC_CRC757_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	32.3	colorectal carcinoma	Male	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_CRC761_FE_DNA_DIA	CC_CRC761_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	44.0	24.2	colorectal carcinoma	Female	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24742_CC_P118_FE_DNA_DIA	Sample_S24742_CC_P118_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	74.0	27.4	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24743_CC_P119_FE_DNA_DIA	Sample_S24743_CC_P119_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	86.0	31.3	colorectal carcinoma	Female	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24744_CC_P120_FE_DNA_DIA	Sample_S24744_CC_P120_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	61.0	24.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24745_CC_P126_FE_DNA_DIA	Sample_S24745_CC_P126_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	88.0	26.0	colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24746_CC_P128_FE_DNA_DIA	Sample_S24746_CC_P128_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	74.0	29.4	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24756_CC_P150_FE_DNA_DIA	Sample_S24756_CC_P150_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	67.0	30.8	colorectal carcinoma	Female	0	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24769_CC_P154_FE_DNA_DIA	Sample_S24769_CC_P154_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	66.0	31.9	colorectal carcinoma	Male	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24939_CC_P158_FE_DNA_DIA	Sample_S24939_CC_P158_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	29.1	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24759_CC_P161_FE_DNA_DIA	Sample_S24759_CC_P161_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	65.0	28.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24760_CC_P162_FE_DNA_DIA	Sample_S24760_CC_P162_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	80.0	23.1	colorectal carcinoma	Female	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24940_CC_P163_FE_DNA_DIA	Sample_S24940_CC_P163_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	78.0	30.8	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24949_CC_P166_FE_DNA_DIA	Sample_S24949_CC_P166_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	40.0	26.7	colorectal carcinoma	Female	III	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24795_CC_P177_FE_DNA_DIA	Sample_S24795_CC_P177_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	50.0	31.1	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+CC_P181_DNA_DIA	CC_P181_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	73.0	22.6	colorectal carcinoma	Female	I	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24950_CC_CRC707_FE_DNA_DIA	Sample_S24950_CC_CRC707_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	67.0		colorectal carcinoma	Male	IV	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24937_CC_P145_FE_DNA_DIA	Sample_S24937_CC_P145_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	53.0	26.8	colorectal carcinoma	Male	II	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24717_CC_IK25_FE_DNA_DIA	Sample_S24717_CC_IK25_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	41.0	23.1	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24787_CC_IK64_FE_DNA_DIA	Sample_S24787_CC_IK64_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	51.0	28.1	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK105_FE_DNA_DIA	CC_IK105_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	64.0	28.7	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24712_CC_IK2_FE_DNA_DIA	Sample_S24712_CC_IK2_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	69.0	33.5	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24711_CC_IK19_FE_DNA_DIA	Sample_S24711_CC_IK19_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	55.0	25.5	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24793_CC_IK73_FE_DNA_DIA	Sample_S24793_CC_IK73_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	41.0	21.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK86_FE_DNA_DIA	CC_IK86_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	52.0	43.9	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK106_FE_DNA_DIA	CC_IK106_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	42.0	32.7	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK107_FE_DNA_DIA	CC_IK107_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	63.0	22.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK108_FE_DNA_DIA	CC_IK108_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	69.0	21.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK110_FE_DNA_DIA	CC_IK110_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	55.0	31.2	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24732_CC_IK5_FE_DNA_DIA	Sample_S24732_CC_IK5_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	69.0	29.7	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24781_CC_IK10_FE_DNA_DIA	Sample_S24781_CC_IK10_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	76.0	23.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24707_CC_IK13_FE_DNA_DIA	Sample_S24707_CC_IK13_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	71.0	22.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24709_CC_IK17_FE_DNA_DIA	Sample_S24709_CC_IK17_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	72.0	33.3	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24714_CC_IK22_FE_DNA_DIA	Sample_S24714_CC_IK22_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	51.0	28.0	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24779_CC_IK27_FE_DNA_DIA	Sample_S24779_CC_IK27_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	23.0	23.4	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24718_CC_IK28_FE_DNA_DIA	Sample_S24718_CC_IK28_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	66.0	34.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK33_FE_DNA_DIA	CC_IK33_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	71.0	34.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24726_CC_IK40_FE_DNA_DIA	Sample_S24726_CC_IK40_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	54.0	41.2	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24729_CC_IK45_FE_DNA_DIA	Sample_S24729_CC_IK45_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	66.0	27.1	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24734_CC_IK52_FE_DNA_DIA	Sample_S24734_CC_IK52_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	65.0	29.3	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24804_CC_IK54_FE_DNA_DIA	Sample_S24804_CC_IK54_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	44.0	22.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24780_CC_IK55_FE_DNA_DIA	Sample_S24780_CC_IK55_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	40.0	25.7	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24737_CC_IK57_FE_DNA_DIA	Sample_S24737_CC_IK57_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	48.0	23.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24788_CC_IK65_FE_DNA_DIA	Sample_S24788_CC_IK65_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	42.0	26.3	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24796_CC_IK67_FE_DNA_DIA	Sample_S24796_CC_IK67_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	56.0	23.0	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24797_CC_IK68_FE_DNA_DIA	Sample_S24797_CC_IK68_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	25.0	16.2	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24792_CC_IK72_FE_DNA_DIA	Sample_S24792_CC_IK72_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	50.0	37.3	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24794_CC_IK75_FE_DNA_DIA	Sample_S24794_CC_IK75_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	53.0	26.5	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S25189_CC_IK76_FE_DNA_DIA	Sample_S25189_CC_IK76_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	65.0	42.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24801_CC_IK80_FE_DNA_DIA	Sample_S24801_CC_IK80_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	66.0	23.9	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK81_FE_DNA_DIA	CC_IK81_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	54.0	25.0	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK82_FE_DNA_DIA	CC_IK82_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	53.0	23.7	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK103_FE_DNA_DIA	CC_IK103_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	54.0	32.0	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK111_FE_DNA_DIA	CC_IK111_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	57.0	23.1	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK112_FE_DNA_DIA	CC_IK112_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	60.0	23.4	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24725_CC_IK4_FE_DNA_DIA	Sample_S24725_CC_IK4_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	57.0	25.8	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24740_CC_IK7_FE_DNA_DIA	Sample_S24740_CC_IK7_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	55.0	23.1	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24708_CC_IK15_FE_DNA_DIA	Sample_S24708_CC_IK15_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	68.0	28.5	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24782_CC_IK30_FE_DNA_DIA	Sample_S24782_CC_IK30_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	59.0	28.4	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24720_CC_IK32_FE_DNA_DIA	Sample_S24720_CC_IK32_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	68.0	26.0	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24785_CC_IK62_FE_DNA_DIA	Sample_S24785_CC_IK62_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	59.0	22.6	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24798_CC_IK69_FE_DNA_DIA	Sample_S24798_CC_IK69_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	55.0	29.1	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+CC_IK93_FE_DNA_DIA	CC_IK93_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	51.0	28.6	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24773_CC_IK3_FE_DNA_DIA	Sample_S24773_CC_IK3_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	62.0	31.7	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24741_CC_IK9_FE_DNA_DIA	Sample_S24741_CC_IK9_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	62.0	34.3	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24775_CC_IK34_FE_DNA_DIA	Sample_S24775_CC_IK34_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	65.0	28.6	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24730_CC_IK47_FE_DNA_DIA	Sample_S24730_CC_IK47_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	76.0	23.6	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24733_CC_IK51_FE_DNA_DIA	Sample_S24733_CC_IK51_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	53.0	26.2	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24784_CC_IK61_FE_DNA_DIA	Sample_S24784_CC_IK61_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	63.0	34.0	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+CC_IK89_FE_DNA_DIA	CC_IK89_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	64.0	31.1	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S25187_CC_IK1_FE_DNA_DIA	Sample_S25187_CC_IK1_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	51.0	34.7	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24715_CC_IK23_FE_DNA_DIA	Sample_S24715_CC_IK23_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	64.0	30.5	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24771_CC_IK26_FE_DNA_DIA	Sample_S24771_CC_IK26_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	74.0	26.7	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24722_CC_IK36_FE_DNA_DIA	Sample_S24722_CC_IK36_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	65.0	34.2	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24723_CC_IK38_FE_DNA_DIA	Sample_S24723_CC_IK38_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	75.0	30.1	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24777_CC_IK42_FE_DNA_DIA	Sample_S24777_CC_IK42_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	58.0	25.3	Adenoma	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24728_CC_IK43_FE_DNA_DIA	Sample_S24728_CC_IK43_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	59.0	28.6	Control	Male		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24803_CC_IK44_FE_DNA_DIA	Sample_S24803_CC_IK44_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	69.0	28.5	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+CC_IK50_FE_DNA_DIA	CC_IK50_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	64.0	27.1	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24786_CC_IK63_FE_DNA_DIA	Sample_S24786_CC_IK63_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	68.0	31.6	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+CC_IK92_FE_DNA_DIA	CC_IK92_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	74.0	29.4	Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+CC_IK96_FE_DNA_DIA	CC_IK96_FE_DNA_DIA	Homo sapiens	Adenoma	Case	Czechia	feces	48.0	31.2	Adenoma	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Adenoma
+Sample_S24809_CC_IK77_FE_DNA_DIA	Sample_S24809_CC_IK77_FE_DNA_DIA	Homo sapiens	Control	Study Control	Czechia	feces	69.0		Control	Female		nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	Control
+Sample_S24747_CC_P129_FE_DNA_DIA	Sample_S24747_CC_P129_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	79.0		colorectal carcinoma	Male	CRC_stage_unlabelled	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC
+Sample_S24952_CC_P144_FE_DNA_DIA	Sample_S24952_CC_P144_FE_DNA_DIA	Homo sapiens	colorectal carcinoma	Case	Czechia	feces	74.0	26.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort3__ONCOBIOME_IIGM_CZ	CRC

@@ -1,0 +1,194 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+SAMN08335126	SAMN08335126	Homo sapiens	Control	Study Control	China	feces	51.0	25.2	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335128	SAMN08335128	Homo sapiens	Control	Study Control	China	feces	39.0	23.9	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335135	SAMN08335135	Homo sapiens	Control	Study Control	China	feces	38.0	21.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335136	SAMN08335136	Homo sapiens	Control	Study Control	China	feces	42.0	26.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335138	SAMN08335138	Homo sapiens	Control	Study Control	China	feces	56.0	21.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335140	SAMN08335140	Homo sapiens	Control	Study Control	China	feces	43.0	25.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335141	SAMN08335141	Homo sapiens	Control	Study Control	China	feces	49.0	22.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335033	SAMN08335033	Homo sapiens	Control	Study Control	China	feces	32.0	22.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335037	SAMN08335037	Homo sapiens	Control	Study Control	China	feces	40.0	24.9	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335038	SAMN08335038	Homo sapiens	Control	Study Control	China	feces	45.0	21.6	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335039	SAMN08335039	Homo sapiens	Control	Study Control	China	feces	40.0	24.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335042	SAMN08335042	Homo sapiens	Control	Study Control	China	feces	41.0	23.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335047	SAMN08335047	Homo sapiens	Control	Study Control	China	feces	56.0	26.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335049	SAMN08335049	Homo sapiens	Control	Study Control	China	feces	37.0	25.4	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335050	SAMN08335050	Homo sapiens	Control	Study Control	China	feces	59.0	20.6	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335053	SAMN08335053	Homo sapiens	Control	Study Control	China	feces	45.0	23.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335057	SAMN08335057	Homo sapiens	Control	Study Control	China	feces	27.0	23.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335058	SAMN08335058	Homo sapiens	Control	Study Control	China	feces	42.0	25.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335060	SAMN08335060	Homo sapiens	Control	Study Control	China	feces	50.0	25.6	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335062	SAMN08335062	Homo sapiens	Control	Study Control	China	feces	64.0	21.5	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335063	SAMN08335063	Homo sapiens	Control	Study Control	China	feces	20.0	20.5	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335065	SAMN08335065	Homo sapiens	Control	Study Control	China	feces	62.0	19.9	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335066	SAMN08335066	Homo sapiens	Control	Study Control	China	feces	42.0	21.9	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335067	SAMN08335067	Homo sapiens	Control	Study Control	China	feces	35.0	25.2	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335068	SAMN08335068	Homo sapiens	Control	Study Control	China	feces	32.0	22.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335069	SAMN08335069	Homo sapiens	Control	Study Control	China	feces	43.0	23.7	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335071	SAMN08335071	Homo sapiens	Control	Study Control	China	feces	34.0	24.5	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335072	SAMN08335072	Homo sapiens	Control	Study Control	China	feces	58.0	24.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335074	SAMN08335074	Homo sapiens	Control	Study Control	China	feces	50.0	24.4	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335078	SAMN08335078	Homo sapiens	Control	Study Control	China	feces	29.0	23.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335079	SAMN08335079	Homo sapiens	Control	Study Control	China	feces	45.0	22.9	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335919	SAMN08335919	Homo sapiens	Control	Study Control	China	feces	42.0	22.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335922	SAMN08335922	Homo sapiens	Control	Study Control	China	feces	31.0	21.2	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335923	SAMN08335923	Homo sapiens	Control	Study Control	China	feces	52.0	21.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335924	SAMN08335924	Homo sapiens	Control	Study Control	China	feces	27.0	21.4	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335925	SAMN08335925	Homo sapiens	Control	Study Control	China	feces	36.0	23.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335930	SAMN08335930	Homo sapiens	Control	Study Control	China	feces	22.0	22.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335931	SAMN08335931	Homo sapiens	Control	Study Control	China	feces	30.0	28.3	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335932	SAMN08335932	Homo sapiens	Control	Study Control	China	feces	42.0	22.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335934	SAMN08335934	Homo sapiens	Control	Study Control	China	feces	39.0	21.8	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335935	SAMN08335935	Homo sapiens	Control	Study Control	China	feces	45.0	23.4	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335936	SAMN08335936	Homo sapiens	Control	Study Control	China	feces	52.0	23.1	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335937	SAMN08335937	Homo sapiens	Control	Study Control	China	feces	46.0	23.7	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335941	SAMN08335941	Homo sapiens	Control	Study Control	China	feces	49.0	22.2	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335942	SAMN08335942	Homo sapiens	Control	Study Control	China	feces	48.0	23.2	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335943	SAMN08335943	Homo sapiens	Control	Study Control	China	feces	29.0	23.7	Control	Female		nd	Public_study__YangJ_2020	Control
+SAMN08335127	SAMN08335127	Homo sapiens	Control	Study Control	China	feces	43.0	20.9	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335129	SAMN08335129	Homo sapiens	Control	Study Control	China	feces	45.0	23.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335130	SAMN08335130	Homo sapiens	Control	Study Control	China	feces	27.0	21.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335131	SAMN08335131	Homo sapiens	Control	Study Control	China	feces	65.0	24.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335132	SAMN08335132	Homo sapiens	Control	Study Control	China	feces	39.0	22.7	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335133	SAMN08335133	Homo sapiens	Control	Study Control	China	feces	37.0	21.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335134	SAMN08335134	Homo sapiens	Control	Study Control	China	feces	44.0	21.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335137	SAMN08335137	Homo sapiens	Control	Study Control	China	feces	38.0	25.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335139	SAMN08335139	Homo sapiens	Control	Study Control	China	feces	41.0	21.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335142	SAMN08335142	Homo sapiens	Control	Study Control	China	feces	41.0	22.1	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335143	SAMN08335143	Homo sapiens	Control	Study Control	China	feces	28.0	24.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335144	SAMN08335144	Homo sapiens	Control	Study Control	China	feces	55.0	22.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335034	SAMN08335034	Homo sapiens	Control	Study Control	China	feces	42.0	20.6	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335035	SAMN08335035	Homo sapiens	Control	Study Control	China	feces	41.0	25.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335036	SAMN08335036	Homo sapiens	Control	Study Control	China	feces	37.0	20.6	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335040	SAMN08335040	Homo sapiens	Control	Study Control	China	feces	49.0	21.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335041	SAMN08335041	Homo sapiens	Control	Study Control	China	feces	72.0	25.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335043	SAMN08335043	Homo sapiens	Control	Study Control	China	feces	42.0	24.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335044	SAMN08335044	Homo sapiens	Control	Study Control	China	feces	47.0	27.6	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335045	SAMN08335045	Homo sapiens	Control	Study Control	China	feces	44.0	22.8	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335046	SAMN08335046	Homo sapiens	Control	Study Control	China	feces	72.0	21.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335048	SAMN08335048	Homo sapiens	Control	Study Control	China	feces	40.0	25.8	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335051	SAMN08335051	Homo sapiens	Control	Study Control	China	feces	32.0	23.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335052	SAMN08335052	Homo sapiens	Control	Study Control	China	feces	34.0	21.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335054	SAMN08335054	Homo sapiens	Control	Study Control	China	feces	39.0	24.7	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335055	SAMN08335055	Homo sapiens	Control	Study Control	China	feces	52.0	21.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335056	SAMN08335056	Homo sapiens	Control	Study Control	China	feces	52.0	24.1	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335059	SAMN08335059	Homo sapiens	Control	Study Control	China	feces	35.0	24.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335061	SAMN08335061	Homo sapiens	Control	Study Control	China	feces	54.0	22.8	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335064	SAMN08335064	Homo sapiens	Control	Study Control	China	feces	49.0	22.6	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335070	SAMN08335070	Homo sapiens	Control	Study Control	China	feces	32.0	19.9	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335073	SAMN08335073	Homo sapiens	Control	Study Control	China	feces	33.0	26.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335075	SAMN08335075	Homo sapiens	Control	Study Control	China	feces	52.0	25.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335076	SAMN08335076	Homo sapiens	Control	Study Control	China	feces	24.0	19.9	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335077	SAMN08335077	Homo sapiens	Control	Study Control	China	feces	37.0	22.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335080	SAMN08335080	Homo sapiens	Control	Study Control	China	feces	48.0	22.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335081	SAMN08335081	Homo sapiens	Control	Study Control	China	feces	66.0	25.7	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335082	SAMN08335082	Homo sapiens	Control	Study Control	China	feces	38.0	24.3	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335083	SAMN08335083	Homo sapiens	Control	Study Control	China	feces	36.0	25.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335920	SAMN08335920	Homo sapiens	Control	Study Control	China	feces	33.0	20.3	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335921	SAMN08335921	Homo sapiens	Control	Study Control	China	feces	43.0	20.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335926	SAMN08335926	Homo sapiens	Control	Study Control	China	feces	43.0	22.6	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335928	SAMN08335928	Homo sapiens	Control	Study Control	China	feces	33.0	21.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335929	SAMN08335929	Homo sapiens	Control	Study Control	China	feces	41.0	23.4	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335933	SAMN08335933	Homo sapiens	Control	Study Control	China	feces	51.0	23.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335938	SAMN08335938	Homo sapiens	Control	Study Control	China	feces	37.0	19.0	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335939	SAMN08335939	Homo sapiens	Control	Study Control	China	feces	60.0	23.5	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335940	SAMN08335940	Homo sapiens	Control	Study Control	China	feces	51.0	23.2	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08335944	SAMN08335944	Homo sapiens	Control	Study Control	China	feces	48.0	22.7	Control	Male		nd	Public_study__YangJ_2020	Control
+SAMN08329222	SAMN08329222	Homo sapiens	colorectal carcinoma	Case	China	feces	42.0	22.3	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08329225	SAMN08329225	Homo sapiens	colorectal carcinoma	Case	China	feces	39.0	25.1	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08329227	SAMN08329227	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	21.4	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08329229	SAMN08329229	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	19.1	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330723	SAMN08330723	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	21.6	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330730	SAMN08330730	Homo sapiens	colorectal carcinoma	Case	China	feces	41.0	21.6	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330739	SAMN08330739	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	24.2	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330746	SAMN08330746	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	19.1	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330748	SAMN08330748	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	30.4	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330749	SAMN08330749	Homo sapiens	colorectal carcinoma	Case	China	feces	57.0	24.7	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330751	SAMN08330751	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	28.3	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330752	SAMN08330752	Homo sapiens	colorectal carcinoma	Case	China	feces	29.0	21.6	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335119	SAMN08335119	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	23.9	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335022	SAMN08335022	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	25.2	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335024	SAMN08335024	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	20.8	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335025	SAMN08335025	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	20.8	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335028	SAMN08335028	Homo sapiens	colorectal carcinoma	Case	China	feces	45.0	19.5	colorectal carcinoma	Female	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08335031	SAMN08335031	Homo sapiens	colorectal carcinoma	Case	China	feces	39.0	22.8	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335032	SAMN08335032	Homo sapiens	colorectal carcinoma	Case	China	feces	72.0	25.8	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335084	SAMN08335084	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	28.9	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335085	SAMN08335085	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	21.8	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335086	SAMN08335086	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	19.7	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335089	SAMN08335089	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	26.7	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335091	SAMN08335091	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	26.7	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335096	SAMN08335096	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	21.2	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335097	SAMN08335097	Homo sapiens	colorectal carcinoma	Case	China	feces	44.0	24.4	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335099	SAMN08335099	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	23.6	colorectal carcinoma	Female	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08335102	SAMN08335102	Homo sapiens	colorectal carcinoma	Case	China	feces	69.0	21.4	colorectal carcinoma	Female	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335108	SAMN08335108	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	23.6	colorectal carcinoma	Female	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335113	SAMN08335113	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	24.2	colorectal carcinoma	Female	II	nd	Public_study__YangJ_2020	CRC
+SAMN08329223	SAMN08329223	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	23.4	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08329224	SAMN08329224	Homo sapiens	colorectal carcinoma	Case	China	feces	49.0	17.9	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08329226	SAMN08329226	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	22.3	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08329228	SAMN08329228	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	20.3	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08329230	SAMN08329230	Homo sapiens	colorectal carcinoma	Case	China	feces	76.0	21.5	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330722	SAMN08330722	Homo sapiens	colorectal carcinoma	Case	China	feces	72.0	22.0	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330724	SAMN08330724	Homo sapiens	colorectal carcinoma	Case	China	feces	39.0	27.7	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330725	SAMN08330725	Homo sapiens	colorectal carcinoma	Case	China	feces	28.0	22.7	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330726	SAMN08330726	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	28.7	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08330727	SAMN08330727	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	25.5	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330728	SAMN08330728	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	24.6	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330729	SAMN08330729	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	26.0	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330731	SAMN08330731	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	25.6	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330732	SAMN08330732	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	20.6	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330733	SAMN08330733	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	23.3	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330734	SAMN08330734	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	23.9	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330735	SAMN08330735	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	27.8	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330736	SAMN08330736	Homo sapiens	colorectal carcinoma	Case	China	feces	33.0	18.7	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330737	SAMN08330737	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	26.1	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330738	SAMN08330738	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	28.3	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330740	SAMN08330740	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	26.2	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330741	SAMN08330741	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	22.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08330742	SAMN08330742	Homo sapiens	colorectal carcinoma	Case	China	feces	46.0	20.9	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08330743	SAMN08330743	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	29.1	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330744	SAMN08330744	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	21.9	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08330745	SAMN08330745	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	24.5	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08330747	SAMN08330747	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	24.8	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08330750	SAMN08330750	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	25.7	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335115	SAMN08335115	Homo sapiens	colorectal carcinoma	Case	China	feces	53.0	21.2	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335116	SAMN08335116	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	28.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335117	SAMN08335117	Homo sapiens	colorectal carcinoma	Case	China	feces	43.0	23.6	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335118	SAMN08335118	Homo sapiens	colorectal carcinoma	Case	China	feces	46.0	22.1	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335120	SAMN08335120	Homo sapiens	colorectal carcinoma	Case	China	feces	43.0	22.2	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335121	SAMN08335121	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	19.4	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335122	SAMN08335122	Homo sapiens	colorectal carcinoma	Case	China	feces	52.0	27.4	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335123	SAMN08335123	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	23.9	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335124	SAMN08335124	Homo sapiens	colorectal carcinoma	Case	China	feces	52.0	22.2	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335125	SAMN08335125	Homo sapiens	colorectal carcinoma	Case	China	feces	33.0	23.5	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335145	SAMN08335145	Homo sapiens	colorectal carcinoma	Case	China	feces	69.0	22.7	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335146	SAMN08335146	Homo sapiens	colorectal carcinoma	Case	China	feces	52.0	26.1	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335147	SAMN08335147	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	21.1	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335148	SAMN08335148	Homo sapiens	colorectal carcinoma	Case	China	feces	41.0	22.1	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335149	SAMN08335149	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	18.3	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335023	SAMN08335023	Homo sapiens	colorectal carcinoma	Case	China	feces	42.0	28.7	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335026	SAMN08335026	Homo sapiens	colorectal carcinoma	Case	China	feces	42.0	26.5	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08335027	SAMN08335027	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	20.2	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335029	SAMN08335029	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	23.2	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335030	SAMN08335030	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	17.7	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335087	SAMN08335087	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	20.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335088	SAMN08335088	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	28.6	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335090	SAMN08335090	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	24.8	colorectal carcinoma	Male	IV	nd	Public_study__YangJ_2020	CRC
+SAMN08335092	SAMN08335092	Homo sapiens	colorectal carcinoma	Case	China	feces	43.0	17.5	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335093	SAMN08335093	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	21.7	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335094	SAMN08335094	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	24.2	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335095	SAMN08335095	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	23.5	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335098	SAMN08335098	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	21.8	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335100	SAMN08335100	Homo sapiens	colorectal carcinoma	Case	China	feces	36.0	22.8	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335101	SAMN08335101	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	22.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335103	SAMN08335103	Homo sapiens	colorectal carcinoma	Case	China	feces	44.0	25.6	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335104	SAMN08335104	Homo sapiens	colorectal carcinoma	Case	China	feces	38.0	24.4	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335105	SAMN08335105	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	22.6	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335106	SAMN08335106	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	22.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335107	SAMN08335107	Homo sapiens	colorectal carcinoma	Case	China	feces	52.0	21.6	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335109	SAMN08335109	Homo sapiens	colorectal carcinoma	Case	China	feces	52.0	25.0	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC
+SAMN08335110	SAMN08335110	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	25.7	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335111	SAMN08335111	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	26.2	colorectal carcinoma	Male	III	nd	Public_study__YangJ_2020	CRC
+SAMN08335112	SAMN08335112	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	22.0	colorectal carcinoma	Male	II	nd	Public_study__YangJ_2020	CRC
+SAMN08335114	SAMN08335114	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	21.1	colorectal carcinoma	Male	I	nd	Public_study__YangJ_2020	CRC

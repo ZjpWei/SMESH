@@ -1,0 +1,2 @@
+Taxa	Run ID	Abundance
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides_H	SRR14792648	0.0369321679182568

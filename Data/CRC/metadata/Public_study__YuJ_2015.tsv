@@ -1,0 +1,129 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+SZAXPI003409-8	SZAXPI003409-8	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	23.1	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003410-3	SZAXPI003410-3	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	23.8	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003411-6	SZAXPI003411-6	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	24.7	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003412-1	SZAXPI003412-1	Homo sapiens	colorectal carcinoma	Case	China	feces	56.0	25.6	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003413-4	SZAXPI003413-4	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	20.7	colorectal carcinoma	Female	IV	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003414-3	SZAXPI003414-3	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	25.2	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003415-12	SZAXPI003415-12	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	23.2	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003416-4	SZAXPI003416-4	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	17.7	colorectal carcinoma	Female	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003417-4	SZAXPI003417-4	Homo sapiens	Control	Study Control	China	feces	62.0	21.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI003418-8	SZAXPI003418-8	Homo sapiens	colorectal carcinoma	Case	China	feces	72.0	26.3	colorectal carcinoma	Female	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI003419-6	SZAXPI003419-6	Homo sapiens	Control	Study Control	China	feces	65.0	20.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI003420-4	SZAXPI003420-4	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	24.8	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003421-5	SZAXPI003421-5	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	25.8	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003422-11	SZAXPI003422-11	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	25.2	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003423-8	SZAXPI003423-8	Homo sapiens	colorectal carcinoma	Case	China	feces	55.0	22.2	colorectal carcinoma	Male	IV	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003424-12	SZAXPI003424-12	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	21.7	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003425-1	SZAXPI003425-1	Homo sapiens	colorectal carcinoma	Case	China	feces	45.0	23.0	colorectal carcinoma	Female	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003426-11	SZAXPI003426-11	Homo sapiens	colorectal carcinoma	Case	China	feces	89.0	23.7	colorectal carcinoma	Female	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI003427-1	SZAXPI003427-1	Homo sapiens	Control	Study Control	China	feces	58.0	21.6	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI003428-6	SZAXPI003428-6	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	23.9	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003429-3	SZAXPI003429-3	Homo sapiens	Control	Study Control	China	feces	68.0	21.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI003430-5	SZAXPI003430-5	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	29.1	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003431-1	SZAXPI003431-1	Homo sapiens	colorectal carcinoma	Case	China	feces	75.0	28.7	colorectal carcinoma	Female	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003432-12	SZAXPI003432-12	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	22.7	colorectal carcinoma	Male	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI003433-7	SZAXPI003433-7	Homo sapiens	Control	Study Control	China	feces	62.0	21.4	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI003434-7	SZAXPI003434-7	Homo sapiens	colorectal carcinoma	Case	China	feces	80.0	24.0	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003435-11	SZAXPI003435-11	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	23.1	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003436-7	SZAXPI003436-7	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	22.0	colorectal carcinoma	Female	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI003437-3	SZAXPI003437-3	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	24.4	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015209-133	SZAXPI015209-133	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	19.6	colorectal carcinoma	Female	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015210-17	SZAXPI015210-17	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0		colorectal carcinoma	Male	I	nd	Public_study__YuJ_2015	CRC
+SZAXPI015211-166	SZAXPI015211-166	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	28.7	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015212-113	SZAXPI015212-113	Homo sapiens	Control	Study Control	China	feces	68.0	20.4	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015213-15	SZAXPI015213-15	Homo sapiens	colorectal carcinoma	Case	China	feces	83.0	30.4	colorectal carcinoma	Female	III	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI015214-19	SZAXPI015214-19	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	24.6	colorectal carcinoma	Male	I	nd	Public_study__YuJ_2015	CRC
+SZAXPI015215-20	SZAXPI015215-20	Homo sapiens	colorectal carcinoma	Case	China	feces	56.0	25.9	colorectal carcinoma	Male	I	nd	Public_study__YuJ_2015	CRC
+SZAXPI015216-169	SZAXPI015216-169	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	17.9	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015217-140	SZAXPI015217-140	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	26.8	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015218-16	SZAXPI015218-16	Homo sapiens	colorectal carcinoma	Case	China	feces	57.0	23.2	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015219-129	SZAXPI015219-129	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	29.7	colorectal carcinoma	Female	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015220-136	SZAXPI015220-136	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	22.7	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015221-142	SZAXPI015221-142	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	25.6	colorectal carcinoma	Female	IV	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015222-123	SZAXPI015222-123	Homo sapiens	colorectal carcinoma	Case	China	feces	69.0	29.0	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015223-158	SZAXPI015223-158	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	24.8	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015224-13	SZAXPI015224-13	Homo sapiens	colorectal carcinoma	Case	China	feces	44.0	22.5	colorectal carcinoma	Male	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015225-18	SZAXPI015225-18	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	17.3	colorectal carcinoma	Male	IV	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015226-14	SZAXPI015226-14	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	24.5	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI015227-13	SZAXPI015227-13	Homo sapiens	Control	Study Control	China	feces	62.0	32.5	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015228-14	SZAXPI015228-14	Homo sapiens	Control	Study Control	China	feces	58.0	22.3	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015229-15	SZAXPI015229-15	Homo sapiens	Control	Study Control	China	feces	64.0	24.8	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015230-16	SZAXPI015230-16	Homo sapiens	Control	Study Control	China	feces	65.0	35.1	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015231-17	SZAXPI015231-17	Homo sapiens	Control	Study Control	China	feces	62.0	23.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015232-18	SZAXPI015232-18	Homo sapiens	Control	Study Control	China	feces	69.0	24.9	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015233-19	SZAXPI015233-19	Homo sapiens	Control	Study Control	China	feces	55.0	26.4	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015234-20	SZAXPI015234-20	Homo sapiens	Control	Study Control	China	feces	64.0	26.4	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015235-21	SZAXPI015235-21	Homo sapiens	Control	Study Control	China	feces	59.0	25.6	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015237-23	SZAXPI015237-23	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	21.0	colorectal carcinoma	Male	III	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI015238-24	SZAXPI015238-24	Homo sapiens	Control	Study Control	China	feces	71.0	26.7	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015239-25	SZAXPI015239-25	Homo sapiens	Control	Study Control	China	feces	51.0	21.9	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015240-26	SZAXPI015240-26	Homo sapiens	Control	Study Control	China	feces	50.0	20.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015241-27	SZAXPI015241-27	Homo sapiens	Control	Study Control	China	feces	64.0	24.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015242-30	SZAXPI015242-30	Homo sapiens	Control	Study Control	China	feces	50.0	23.3	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015243-31	SZAXPI015243-31	Homo sapiens	Control	Study Control	China	feces	66.0	22.4	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015244-32	SZAXPI015244-32	Homo sapiens	Control	Study Control	China	feces	52.0	28.4	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015245-33	SZAXPI015245-33	Homo sapiens	Control	Study Control	China	feces	64.0	25.6	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015246-34	SZAXPI015246-34	Homo sapiens	Control	Study Control	China	feces	58.0	23.1	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015247-35	SZAXPI015247-35	Homo sapiens	Control	Study Control	China	feces	64.0	17.1	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015248-36	SZAXPI015248-36	Homo sapiens	Control	Study Control	China	feces	65.0	22.4	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015249-37	SZAXPI015249-37	Homo sapiens	Control	Study Control	China	feces	53.0	19.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015250-39	SZAXPI015250-39	Homo sapiens	Control	Study Control	China	feces	64.0	21.1	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015251-41	SZAXPI015251-41	Homo sapiens	Control	Study Control	China	feces	68.0	24.9	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015252-43	SZAXPI015252-43	Homo sapiens	Control	Study Control	China	feces	53.0	23.4	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015253-44	SZAXPI015253-44	Homo sapiens	Control	Study Control	China	feces	64.0	22.7	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015254-45	SZAXPI015254-45	Homo sapiens	Control	Study Control	China	feces	61.0	21.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015255-46	SZAXPI015255-46	Homo sapiens	Control	Study Control	China	feces	62.0	21.1	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015256-47	SZAXPI015256-47	Homo sapiens	Control	Study Control	China	feces	64.0	24.1	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015257-56	SZAXPI015257-56	Homo sapiens	Control	Study Control	China	feces	55.0	22.3	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015258-57	SZAXPI015258-57	Homo sapiens	Control	Study Control	China	feces	64.0	22.6	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015259-62	SZAXPI015259-62	Homo sapiens	Control	Study Control	China	feces	71.0	23.0	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015260-74	SZAXPI015260-74	Homo sapiens	Control	Study Control	China	feces	64.0	22.2	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015261-75	SZAXPI015261-75	Homo sapiens	Control	Study Control	China	feces	65.0	22.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015262-79	SZAXPI015262-79	Homo sapiens	Control	Study Control	China	feces	73.0	24.1	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015263-84	SZAXPI015263-84	Homo sapiens	Control	Study Control	China	feces	54.0	27.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015264-87	SZAXPI015264-87	Homo sapiens	Control	Study Control	China	feces	65.0	21.2	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015265-88	SZAXPI015265-88	Homo sapiens	Control	Study Control	China	feces	60.0	22.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015266-89	SZAXPI015266-89	Homo sapiens	Control	Study Control	China	feces	58.0	26.3	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015267-102	SZAXPI015267-102	Homo sapiens	Control	Study Control	China	feces	64.0	21.3	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015268-109	SZAXPI015268-109	Homo sapiens	Control	Study Control	China	feces	69.0	23.8	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015269-94	SZAXPI015269-94	Homo sapiens	Control	Study Control	China	feces	65.0	20.0	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015270-90	SZAXPI015270-90	Homo sapiens	Control	Study Control	China	feces	59.0	23.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015271-93	SZAXPI015271-93	Homo sapiens	Control	Study Control	China	feces	70.0	22.2	Control	Female		nd	Public_study__YuJ_2015	Control
+SZAXPI015272-108	SZAXPI015272-108	Homo sapiens	Control	Study Control	China	feces	61.0	23.7	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015273-95	SZAXPI015273-95	Homo sapiens	Control	Study Control	China	feces	52.0	24.6	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI015274-111	SZAXPI015274-111	Homo sapiens	Control	Study Control	China	feces	58.0	24.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI017451-16	SZAXPI017451-16	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	20.0	colorectal carcinoma	Male	I	nd	Public_study__YuJ_2015	CRC
+SZAXPI017452-17	SZAXPI017452-17	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	24.5	colorectal carcinoma	Male	II	nd	Public_study__YuJ_2015	CRC
+SZAXPI017453-19	SZAXPI017453-19	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	27.0	colorectal carcinoma	Female	II	nd	Public_study__YuJ_2015	CRC
+SZAXPI017454-20	SZAXPI017454-20	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	21.2	colorectal carcinoma	Female	III	nd	Public_study__YuJ_2015	CRC
+SZAXPI017455-21	SZAXPI017455-21	Homo sapiens	colorectal carcinoma	Case	China	feces	56.0	31.3	colorectal carcinoma	Male	III	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017456-23	SZAXPI017456-23	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	22.0	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017457-24	SZAXPI017457-24	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	23.5	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017458-25	SZAXPI017458-25	Homo sapiens	colorectal carcinoma	Case	China	feces	83.0	22.8	colorectal carcinoma	Female	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017459-26	SZAXPI017459-26	Homo sapiens	colorectal carcinoma	Case	China	feces	79.0	25.8	colorectal carcinoma	Female	IV	nd	Public_study__YuJ_2015	CRC
+SZAXPI017460-27	SZAXPI017460-27	Homo sapiens	colorectal carcinoma	Case	China	feces	69.0	28.3	colorectal carcinoma	Female	IV	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017461-32	SZAXPI017461-32	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	23.5	colorectal carcinoma	Male	I	nd	Public_study__YuJ_2015	CRC
+SZAXPI017462-33	SZAXPI017462-33	Homo sapiens	colorectal carcinoma	Case	China	feces	78.0	27.0	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017463-36	SZAXPI017463-36	Homo sapiens	colorectal carcinoma	Case	China	feces	49.0	22.6	colorectal carcinoma	Female	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017464-37	SZAXPI017464-37	Homo sapiens	colorectal carcinoma	Case	China	feces	81.0	18.2	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017465-43	SZAXPI017465-43	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	28.0	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017466-84	SZAXPI017466-84	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	24.5	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017467-87	SZAXPI017467-87	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	22.1	colorectal carcinoma	Male	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017468-88	SZAXPI017468-88	Homo sapiens	colorectal carcinoma	Case	China	feces	76.0	21.9	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017580-90	SZAXPI017580-90	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	17.9	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017581-93	SZAXPI017581-93	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	26.9	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017582-94	SZAXPI017582-94	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	24.2	colorectal carcinoma	Male	III	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017583-102	SZAXPI017583-102	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	20.2	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017584-108	SZAXPI017584-108	Homo sapiens	colorectal carcinoma	Case	China	feces	34.0	19.4	colorectal carcinoma	Male	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017585-109	SZAXPI017585-109	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	26.7	colorectal carcinoma	Female	I	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017586-111	SZAXPI017586-111	Homo sapiens	colorectal carcinoma	Case	China	feces	83.0	18.9	colorectal carcinoma	Female	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017587-113	SZAXPI017587-113	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	21.5	colorectal carcinoma	Male	II	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017588-123	SZAXPI017588-123	Homo sapiens	colorectal carcinoma	Case	China	feces	79.0	26.8	colorectal carcinoma	Male	II	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017589-133	SZAXPI017589-133	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	28.3	colorectal carcinoma	Female	IV	right_sided	Public_study__YuJ_2015	CRC
+SZAXPI017590-136	SZAXPI017590-136	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	24.9	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017591-140	SZAXPI017591-140	Homo sapiens	Control	Study Control	China	feces	61.0	23.8	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI017592-142	SZAXPI017592-142	Homo sapiens	Control	Study Control	China	feces	62.0	21.5	Control	Male		nd	Public_study__YuJ_2015	Control
+SZAXPI017593-158	SZAXPI017593-158	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	23.7	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017594-166	SZAXPI017594-166	Homo sapiens	colorectal carcinoma	Case	China	feces	55.0	25.8	colorectal carcinoma	Male	III	left_sided	Public_study__YuJ_2015	CRC
+SZAXPI017595-169	SZAXPI017595-169	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	22.5	colorectal carcinoma	Male	IV	left_sided	Public_study__YuJ_2015	CRC

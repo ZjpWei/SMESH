@@ -1,0 +1,61 @@
+Selected project id: PRJNA421352
+Project ID	Run ID	Sample name	Assay type	Sequencing method	Phenotype name	Sample description	Phenotype ID	country	Geographic location	Longitude	lattitude	age	sex	BMI	Antibiotic use	Antibiotic name	Bodysite	Batch	Batch2	QC bacteria	QC fungi	QC State
+PRJNA421352	SRR6391466	29	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	NA	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391498	11	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	3	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	Failed	0	NA	NA
+PRJNA421352	SRR6391499	5	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391503	11	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	5	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391515	40	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	6	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391531	32	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	7	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391533	41	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391567	31	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	12	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6391588	26	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	5	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389500	13	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389502	35	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389516	35	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389519	36	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	3	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389524	35	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389529	3	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	13	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389660	1	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	9	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389878	42	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389879	23	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	15	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389882	8	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	5	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389884	4	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389894	1	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	9	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389895	6	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389912	14	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	8	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389914	8	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	5	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389915	4	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389917	42	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	10	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389929	15	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389930	32	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	16	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389931	36	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	6	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389935	9	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	6	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6389941	28	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	5	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390582	33	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	4	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390586	12	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390587	41	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	12	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390588	34	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	17	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390589	34	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	11	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390591	26	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390596	29	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	9	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390597	43	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	5	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390600	34	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	17	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390602	10	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	7	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390608	14	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	5	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390612	15	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	8	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390615	10	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	7	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390617	14	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	5	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390627	2	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	17	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390631	13	16S	Illumina MiSeq	Health	Healthy Control-1Y	D006262	USA	Orange County	117.49 W	33.48 N	6	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390646	40	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	4	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390649	7	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	3	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390653	31	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	13	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390655	13	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	6	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390659	33	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	5	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390663	18	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	7	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390669	10	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	7	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390675	28	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	2	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390678	21	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	18	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390687	5	16S	Illumina MiSeq	Health	Healthy Control	D006262	USA	Orange County	117.49 W	33.48 N	1	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390688	4	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	4	female	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA
+PRJNA421352	SRR6390695	8	16S	Illumina MiSeq	Precursor Cell Lymphoblastic Leukemia-Lymphoma	Diagnosis	D054198	USA	Orange County	117.49 W	33.48 N	6	male	NA	NA	NA	Fecal	PRJNA421352	PRJNA421352	1	1	NA	NA

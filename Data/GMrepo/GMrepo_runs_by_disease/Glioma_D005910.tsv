@@ -1,0 +1,58 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJNA626591	SRR11575896	D005910	Glioma				SRS6506740	SAMN14645577	AMPLICON	Illumina HiSeq 2500	71289.0	Glioma-27	55.0	female		China		245								N					1.0
+PRJNA626591	SRR11575894	D005910	Glioma				SRS6506742	SAMN14645579	AMPLICON	Illumina HiSeq 2500	70200.0	Glioma-29	50.0	female		China		271								N					1.0
+PRJNA626591	SRR11575893	D005910	Glioma				SRS6506743	SAMN14645580	AMPLICON	Illumina HiSeq 2500	67181.0	Glioma-30	53.0	female		China		277								N					1.0
+PRJNA626591	SRR11575889	D005910	Glioma				SRS6506747	SAMN14645584	AMPLICON	Illumina HiSeq 2500	63139.0	Glioma-34	71.0	male		China		315								N					1.0
+PRJNA626591	SRR11575891	D005910	Glioma				SRS6506745	SAMN14645582	AMPLICON	Illumina HiSeq 2500	62989.0	Glioma-32	36.0	male		China		287								N					1.0
+PRJNA626591	SRR11575914	D005910	Glioma				SRS6506722	SAMN14645561	AMPLICON	Illumina HiSeq 2500	59547.0	Glioma-11	40.0	female		China		A_89								N					1.0
+PRJNA626591	SRR11575897	D005910	Glioma				SRS6506739	SAMN14645576	AMPLICON	Illumina HiSeq 2500	59441.0	Glioma-26	55.0	male		China		227								N					1.0
+PRJNA626591	SRR11575890	D005910	Glioma				SRS6506746	SAMN14645583	AMPLICON	Illumina HiSeq 2500	58308.0	Glioma-33	29.0	male		China		309								N					1.0
+PRJNA626591	SRR11575916	D005910	Glioma				SRS6506720	SAMN14645559	AMPLICON	Illumina HiSeq 2500	58213.0	Glioma-9	49.0	male		China		A_81								N					1.0
+PRJNA626591	SRR11575925	D005910	Glioma				SRS6506711	SAMN14645551	AMPLICON	Illumina HiSeq 2500	56800.0	Glioma-1	43.0	female		China		A_13								N					1.0
+PRJNA626591	SRR11575887	D005910	Glioma				SRS6506749	SAMN14645585	AMPLICON	Illumina HiSeq 2500	56448.0	Glioma-35	28.0	female		China		327								N					1.0
+PRJNA626591	SRR11575903	D005910	Glioma				SRS6506733	SAMN14645571	AMPLICON	Illumina HiSeq 2500	54470.0	Glioma-21	24.0	male		China		A_183								N					1.0
+PRJNA626591	SRR11575920	D005910	Glioma				SRS6506716	SAMN14645555	AMPLICON	Illumina HiSeq 2500	54068.0	Glioma-5	49.0	female		China		A_41								N					1.0
+PRJNA626591	SRR11575898	D005910	Glioma				SRS6506738	SAMN14645575	AMPLICON	Illumina HiSeq 2500	52268.0	Glioma-25	51.0	male		China		A_207								N					1.0
+PRJNA626591	SRR11575892	D005910	Glioma				SRS6506744	SAMN14645581	AMPLICON	Illumina HiSeq 2500	52019.0	Glioma-31	34.0	male		China		279								N					1.0
+PRJNA626591	SRR11575924	D005910	Glioma				SRS6506712	SAMN14645552	AMPLICON	Illumina HiSeq 2500	51167.0	Glioma-2	24.0	female		China		A_15								N					1.0
+PRJNA626591	SRR11575908	D005910	Glioma				SRS6506728	SAMN14645566	AMPLICON	Illumina HiSeq 2500	50004.0	Glioma-16	36.0	female		China		A_157								N					1.0
+PRJNA626591	SRR11575895	D005910	Glioma				SRS6506741	SAMN14645578	AMPLICON	Illumina HiSeq 2500	49098.0	Glioma-28	50.0	male		China		257								N					1.0
+PRJNA626591	SRR11575919	D005910	Glioma				SRS6506717	SAMN14645556	AMPLICON	Illumina HiSeq 2500	49076.0	Glioma-6	16.0	female		China		A_55								N					1.0
+PRJNA626591	SRR11575900	D005910	Glioma				SRS6506736	SAMN14645574	AMPLICON	Illumina HiSeq 2500	49027.0	Glioma-24	43.0	female		China		A_201								N					1.0
+PRJNA626591	SRR11575918	D005910	Glioma				SRS6506718	SAMN14645557	AMPLICON	Illumina HiSeq 2500	48381.0	Glioma-7	26.0	female		China		A_57								N					1.0
+PRJNA626591	SRR11575913	D005910	Glioma				SRS6506723	SAMN14645562	AMPLICON	Illumina HiSeq 2500	47986.0	Glioma-12	17.0	female		China		A_93								N					1.0
+PRJNA626591	SRR11575917	D005910	Glioma				SRS6506719	SAMN14645558	AMPLICON	Illumina HiSeq 2500	47721.0	Glioma-8	83.0	female		China		A_59								N					1.0
+PRJNA626591	SRR11575905	D005910	Glioma				SRS6506731	SAMN14645569	AMPLICON	Illumina HiSeq 2500	47339.0	Glioma-19	52.0	female		China		A_173								N					1.0
+PRJNA626591	SRR11575909	D005910	Glioma				SRS6506727	SAMN14645565	AMPLICON	Illumina HiSeq 2500	45754.0	Glioma-15	55.0	male		China		A_137								N					1.0
+PRJNA626591	SRR11575911	D005910	Glioma				SRS6506725	SAMN14645564	AMPLICON	Illumina HiSeq 2500	45683.0	Glioma-14	20.0	female		China		A_129								N					1.0
+PRJNA626591	SRR11575902	D005910	Glioma				SRS6506734	SAMN14645572	AMPLICON	Illumina HiSeq 2500	45332.0	Glioma-22	50.0	male		China		A_187								N					1.0
+PRJNA626591	SRR11575912	D005910	Glioma				SRS6506724	SAMN14645563	AMPLICON	Illumina HiSeq 2500	44488.0	Glioma-13	27.0	female		China		A_105								N					1.0
+PRJNA626591	SRR11575923	D005910	Glioma				SRS6506713	SAMN14645553	AMPLICON	Illumina HiSeq 2500	43883.0	Glioma-3	44.0	female		China		A_27								N					1.0
+PRJNA626591	SRR11575901	D005910	Glioma				SRS6506735	SAMN14645573	AMPLICON	Illumina HiSeq 2500	43101.0	Glioma-23	45.0	female		China		A_195								N					1.0
+PRJNA626591	SRR11575922	D005910	Glioma				SRS6506714	SAMN14645554	AMPLICON	Illumina HiSeq 2500	42748.0	Glioma-4	51.0	male		China		A_32								N					1.0
+PRJNA626591	SRR11575906	D005910	Glioma				SRS6506730	SAMN14645568	AMPLICON	Illumina HiSeq 2500	41662.0	Glioma-18	67.0	male		China		A_165								N					1.0
+PRJNA626591	SRR11575904	D005910	Glioma				SRS6506732	SAMN14645570	AMPLICON	Illumina HiSeq 2500	36721.0	Glioma-20	54.0	female		China		A_181								N					1.0
+PRJNA626591	SRR11575915	D005910	Glioma				SRS6506721	SAMN14645560	AMPLICON	Illumina HiSeq 2500	36701.0	Glioma-10	54.0	male		China		A_83								N					1.0
+PRJNA626591	SRR11575907	D005910	Glioma				SRS6506729	SAMN14645567	AMPLICON	Illumina HiSeq 2500	36343.0	Glioma-17	45.0	female		China		A_159								N					1.0
+PRJNA841181	SRR19361289	D005910	Glioma				SRS13143596	SAMN28576991	AMPLICON	Illumina MiSeq	222958.0	gut microbiota of patients with glioma in northwest China	43.0	male		China		2								N					0.0
+PRJNA841181	SRR19361290	D005910	Glioma				SRS13143595	SAMN28576990	AMPLICON	Illumina MiSeq	189845.0	gut microbiota of patients with glioma in northwest China	55.0	male		China		1								N					0.0
+PRJNA841181	SRR19361278	D005910	Glioma				SRS13143607	SAMN28576992	AMPLICON	Illumina MiSeq	102616.0	gut microbiota of patients with glioma in northwest China	49.0	female		China		3								N					0.0
+PRJNA841181	SRR19361285	D005910	Glioma				SRS13143600	SAMN28577003	AMPLICON	Illumina MiSeq	98440.0	gut microbiota of patients with glioma in northwest China	47.0	female		China		14								N					0.0
+PRJNA841181	SRR19361276	D005910	Glioma				SRS13143609	SAMN28577011	AMPLICON	Illumina MiSeq	96824.0	gut microbiota of patients with glioma in northwest China	55.0	male		China		22								N					0.0
+PRJNA841181	SRR19361267	D005910	Glioma				SRS13143618	SAMN28576993	AMPLICON	Illumina MiSeq	94090.0	gut microbiota of patients with glioma in northwest China	21.0	male		China		4								N					0.0
+PRJNA841181	SRR19361284	D005910	Glioma				SRS13143601	SAMN28577004	AMPLICON	Illumina MiSeq	90611.0	gut microbiota of patients with glioma in northwest China	28.0	male		China		15								N					0.0
+PRJNA841181	SRR19361281	D005910	Glioma				SRS13143604	SAMN28577007	AMPLICON	Illumina MiSeq	83260.0	gut microbiota of patients with glioma in northwest China	52.0	male		China		18								N					0.0
+PRJNA841181	SRR19361263	D005910	Glioma				SRS13143622	SAMN28576994	AMPLICON	Illumina MiSeq	78695.0	gut microbiota of patients with glioma in northwest China	65.0	female		China		5								N					0.0
+PRJNA841181	SRR19361287	D005910	Glioma				SRS13143598	SAMN28577001	AMPLICON	Illumina MiSeq	74842.0	gut microbiota of patients with glioma in northwest China	55.0	male		China		12								N					0.0
+PRJNA841181	SRR19361259	D005910	Glioma				SRS13143626	SAMN28576998	AMPLICON	Illumina MiSeq	74595.0	gut microbiota of patients with glioma in northwest China	20.0	male		China		9								N					0.0
+PRJNA841181	SRR19361279	D005910	Glioma				SRS13143606	SAMN28577009	AMPLICON	Illumina MiSeq	73492.0	gut microbiota of patients with glioma in northwest China	37.0	male		China		20								N					0.0
+PRJNA841181	SRR19361258	D005910	Glioma				SRS13143627	SAMN28576999	AMPLICON	Illumina MiSeq	64249.0	gut microbiota of patients with glioma in northwest China	37.0	female		China		10								N					0.0
+PRJNA841181	SRR19361280	D005910	Glioma				SRS13143605	SAMN28577008	AMPLICON	Illumina MiSeq	60872.0	gut microbiota of patients with glioma in northwest China	47.0	male		China		19								N					0.0
+PRJNA841181	SRR19361260	D005910	Glioma				SRS13143625	SAMN28576997	AMPLICON	Illumina MiSeq	53636.0	gut microbiota of patients with glioma in northwest China	62.0	male		China		8								N					0.0
+PRJNA841181	SRR19361262	D005910	Glioma				SRS13143623	SAMN28576995	AMPLICON	Illumina MiSeq	48355.0	gut microbiota of patients with glioma in northwest China	40.0	male		China		6								N					0.0
+PRJNA841181	SRR19361277	D005910	Glioma				SRS13143608	SAMN28577010	AMPLICON	Illumina MiSeq	46786.0	gut microbiota of patients with glioma in northwest China	33.0	female		China		21								N					0.0
+PRJNA841181	SRR19361286	D005910	Glioma				SRS13143599	SAMN28577002	AMPLICON	Illumina MiSeq	46129.0	gut microbiota of patients with glioma in northwest China	38.0	male		China		13								N					0.0
+PRJNA841181	SRR19361282	D005910	Glioma				SRS13143603	SAMN28577006	AMPLICON	Illumina MiSeq	45615.0	gut microbiota of patients with glioma in northwest China	48.0	male		China		17								N					0.0
+PRJNA841181	SRR19361261	D005910	Glioma				SRS13143624	SAMN28576996	AMPLICON	Illumina MiSeq	43145.0	gut microbiota of patients with glioma in northwest China	49.0	male		China		7								N					0.0
+PRJNA841181	SRR19361283	D005910	Glioma				SRS13143602	SAMN28577005	AMPLICON	Illumina MiSeq	42235.0	gut microbiota of patients with glioma in northwest China	57.0	female		China		16								N					0.0
+PRJNA841181	SRR19361288	D005910	Glioma				SRS13143597	SAMN28577000	AMPLICON	Illumina MiSeq	34304.0	gut microbiota of patients with glioma in northwest China	54.0	male		China		11								N					0.0

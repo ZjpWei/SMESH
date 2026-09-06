@@ -1,0 +1,19 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJNA626591	SRR11575930	D008579	Meningioma				SRS6506706	SAMN14645546	AMPLICON	Illumina HiSeq 2500	63645.0	MEG-14	39.0	female		China		281								N					1.0
+PRJNA626591	SRR11575928	D008579	Meningioma				SRS6506708	SAMN14645548	AMPLICON	Illumina HiSeq 2500	62663.0	MEG-16	43.0	female		China		301								N					1.0
+PRJNA626591	SRR11575935	D008579	Meningioma				SRS6506701	SAMN14645542	AMPLICON	Illumina HiSeq 2500	59857.0	MEG-10	37.0	male		China		F_75								N					1.0
+PRJNA626591	SRR11575944	D008579	Meningioma				SRS6506692	SAMN14645534	AMPLICON	Illumina HiSeq 2500	59245.0	MEG-2	52.0	male		China		F_119								N					1.0
+PRJNA626591	SRR11575940	D008579	Meningioma				SRS6506696	SAMN14645537	AMPLICON	Illumina HiSeq 2500	59092.0	MEG-5	64.0	female		China		F_153								N					1.0
+PRJNA626591	SRR11575941	D008579	Meningioma				SRS6506695	SAMN14645536	AMPLICON	Illumina HiSeq 2500	56511.0	MEG-4	53.0	female		China		F_149								N					1.0
+PRJNA626591	SRR11575942	D008579	Meningioma				SRS6506694	SAMN14645535	AMPLICON	Illumina HiSeq 2500	55281.0	MEG-3	52.0	female		China		F_145								N					1.0
+PRJNA626591	SRR11575933	D008579	Meningioma				SRS6506703	SAMN14645544	AMPLICON	Illumina HiSeq 2500	54801.0	MEG-12	37.0	female		China		345								N					1.0
+PRJNA626591	SRR11575931	D008579	Meningioma				SRS6506705	SAMN14645545	AMPLICON	Illumina HiSeq 2500	54062.0	MEG-13	60.0	female		China		259								N					1.0
+PRJNA626591	SRR11575938	D008579	Meningioma				SRS6506698	SAMN14645539	AMPLICON	Illumina HiSeq 2500	52526.0	MEG-7	51.0	female		China		F_185								N					1.0
+PRJNA626591	SRR11575945	D008579	Meningioma				SRS6506691	SAMN14645533	AMPLICON	Illumina HiSeq 2500	51527.0	MEG-1	43.0	male		China		F_21								N					1.0
+PRJNA626591	SRR11575929	D008579	Meningioma				SRS6506707	SAMN14645547	AMPLICON	Illumina HiSeq 2500	50476.0	MEG-15	38.0	male		China		297								N					1.0
+PRJNA626591	SRR11575936	D008579	Meningioma				SRS6506700	SAMN14645541	AMPLICON	Illumina HiSeq 2500	49650.0	MEG-9	32.0	female		China		F_51								N					1.0
+PRJNA626591	SRR11575939	D008579	Meningioma				SRS6506697	SAMN14645538	AMPLICON	Illumina HiSeq 2500	48812.0	MEG-6	55.0	female		China		F_163								N					1.0
+PRJNA626591	SRR11575927	D008579	Meningioma				SRS6506709	SAMN14645549	AMPLICON	Illumina HiSeq 2500	48393.0	MEG-17	61.0	male		China		323								N					1.0
+PRJNA626591	SRR11575926	D008579	Meningioma				SRS6506710	SAMN14645550	AMPLICON	Illumina HiSeq 2500	45619.0	MEG-18	61.0	male		China		331								N					1.0
+PRJNA626591	SRR11575934	D008579	Meningioma				SRS6506702	SAMN14645543	AMPLICON	Illumina HiSeq 2500	43889.0	MEG-11	56.0	female		China		141								N					1.0
+PRJNA626591	SRR11575937	D008579	Meningioma				SRS6506699	SAMN14645540	AMPLICON	Illumina HiSeq 2500	43767.0	MEG-8	50.0	female		China		F_197								N					1.0

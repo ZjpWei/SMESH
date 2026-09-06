@@ -1,0 +1,22 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJNA506309	SRR8237196	D004827	Epilepsy				SRS4072127	SAMN10457921	AMPLICON	Illumina HiSeq 2500	77114.0	human fecal bacteria				China	2017-12-17 00:00:00	Ae09								N					1.0
+PRJNA506309	SRR8237181	D004827	Epilepsy				SRS4072142	SAMN10457926	AMPLICON	Illumina HiSeq 2500	70481.0	human fecal bacteria				China	2018-01-22 00:00:00	Ae14								N					1.0
+PRJNA506309	SRR8237191	D004827	Epilepsy				SRS4072132	SAMN10457920	AMPLICON	Illumina HiSeq 2500	67137.0	human fecal bacteria				China	2017-12-10 00:00:00	Ae08								N					1.0
+PRJNA506309	SRR8237184	D004827	Epilepsy				SRS4072139	SAMN10457929	AMPLICON	Illumina HiSeq 2500	66923.0	human fecal bacteria				China	2018-02-01 00:00:00	Ae17								N					1.0
+PRJNA506309	SRR8237186	D004827	Epilepsy				SRS4072137	SAMN10457931	AMPLICON	Illumina HiSeq 2500	64961.0	human fecal bacteria				China	2018-02-05 00:00:00	Ae19								N					1.0
+PRJNA506309	SRR8237185	D004827	Epilepsy				SRS4072138	SAMN10457930	AMPLICON	Illumina HiSeq 2500	63826.0	human fecal bacteria				China	2018-02-02 00:00:00	Ae18								N					1.0
+PRJNA506309	SRR8237190	D004827	Epilepsy				SRS4072133	SAMN10457919	AMPLICON	Illumina HiSeq 2500	62296.0	human fecal bacteria				China	2017-12-09 00:00:00	Ae07								N					1.0
+PRJNA506309	SRR8237180	D004827	Epilepsy				SRS4072143	SAMN10457925	AMPLICON	Illumina HiSeq 2500	61231.0	human fecal bacteria				China	2018-01-20 00:00:00	Ae13								N					1.0
+PRJNA506309	SRR8237187	D004827	Epilepsy				SRS4072136	SAMN10457932	AMPLICON	Illumina HiSeq 2500	60999.0	human fecal bacteria				China	2018-02-08 00:00:00	Ae20								N					1.0
+PRJNA506309	SRR8237207	D004827	Epilepsy				SRS4072116	SAMN10457933	AMPLICON	Illumina HiSeq 2500	60246.0	human fecal bacteria				China	2018-02-10 00:00:00	Ae21								N					1.0
+PRJNA506309	SRR8237178	D004827	Epilepsy				SRS4072145	SAMN10457923	AMPLICON	Illumina HiSeq 2500	58434.0	human fecal bacteria				China	2018-01-07 00:00:00	Ae11								N					1.0
+PRJNA506309	SRR8237179	D004827	Epilepsy				SRS4072144	SAMN10457924	AMPLICON	Illumina HiSeq 2500	58359.0	human fecal bacteria				China	2018-01-13 00:00:00	Ae12								N					1.0
+PRJNA506309	SRR8237183	D004827	Epilepsy				SRS4072140	SAMN10457928	AMPLICON	Illumina HiSeq 2500	57771.0	human fecal bacteria				China	2018-01-27 00:00:00	Ae16								N					1.0
+PRJNA506309	SRR8237194	D004827	Epilepsy				SRS4072129	SAMN10457915	AMPLICON	Illumina HiSeq 2500	56898.0	human fecal bacteria				China	2017-12-03 00:00:00	Ae03								N					1.0
+PRJNA506309	SRR8237193	D004827	Epilepsy				SRS4072130	SAMN10457914	AMPLICON	Illumina HiSeq 2500	56763.0	human fecal bacteria				China	2017-12-02 00:00:00	Ae02								N					1.0
+PRJNA506309	SRR8237188	D004827	Epilepsy				SRS4072135	SAMN10457917	AMPLICON	Illumina HiSeq 2500	56052.0	human fecal bacteria				China	2017-12-07 00:00:00	Ae05								N					1.0
+PRJNA506309	SRR8237182	D004827	Epilepsy				SRS4072141	SAMN10457927	AMPLICON	Illumina HiSeq 2500	56041.0	human fecal bacteria				China	2018-01-25 00:00:00	Ae15								N					1.0
+PRJNA506309	SRR8237195	D004827	Epilepsy				SRS4072128	SAMN10457916	AMPLICON	Illumina HiSeq 2500	55733.0	human fecal bacteria				China	2017-12-05 00:00:00	Ae04								N					1.0
+PRJNA506309	SRR8237192	D004827	Epilepsy				SRS4072131	SAMN10457913	AMPLICON	Illumina HiSeq 2500	53197.0	human fecal bacteria				China	2017-11-27 00:00:00	Ae01								N					1.0
+PRJNA506309	SRR8237189	D004827	Epilepsy				SRS4072134	SAMN10457918	AMPLICON	Illumina HiSeq 2500	47859.0	human fecal bacteria				China	2017-12-08 00:00:00	Ae06								N					1.0
+PRJNA506309	SRR8237197	D004827	Epilepsy				SRS4072126	SAMN10457922	AMPLICON	Illumina HiSeq 2500	47697.0	human fecal bacteria				China	2018-01-05 00:00:00	Ae10								N					1.0

@@ -1,0 +1,82 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJNA838083	SRR19212816	D019694	Hepatitis B, Chronic				SRS13006090	SAMN28403868	AMPLICON	Illumina NovaSeq 6000	232089.0	CHB	54.0	male		China		B12								N					0.0
+PRJNA838083	SRR19212822	D019694	Hepatitis B, Chronic				SRS13006084	SAMN28403862	AMPLICON	Illumina NovaSeq 6000	229695.0	CHB	62.0	male		China		B6								N					0.0
+PRJNA838083	SRR19212820	D019694	Hepatitis B, Chronic				SRS13006086	SAMN28403864	AMPLICON	Illumina NovaSeq 6000	228268.0	CHB	41.0	male		China		B8								N					0.0
+PRJNA838083	SRR19212825	D019694	Hepatitis B, Chronic				SRS13006082	SAMN28403860	AMPLICON	Illumina NovaSeq 6000	223745.0	CHB	38.0	male		China		B4								N					0.0
+PRJNA838083	SRR19212809	D019694	Hepatitis B, Chronic				SRS13006099	SAMN28403874	AMPLICON	Illumina NovaSeq 6000	207290.0	CHB	42.0	male		China		B18								N					0.0
+PRJNA838083	SRR19212813	D019694	Hepatitis B, Chronic				SRS13006094	SAMN28403871	AMPLICON	Illumina NovaSeq 6000	201906.0	CHB	53.0	female		China		B15								N					0.0
+PRJNA838083	SRR19212817	D019694	Hepatitis B, Chronic				SRS13006091	SAMN28403867	AMPLICON	Illumina NovaSeq 6000	200968.0	CHB	32.0	male		China		B11								N					0.0
+PRJNA838083	SRR19212826	D019694	Hepatitis B, Chronic				SRS13006080	SAMN28403859	AMPLICON	Illumina NovaSeq 6000	193135.0	CHB	27.0	male		China		B3								N					0.0
+PRJNA838083	SRR19212828	D019694	Hepatitis B, Chronic				SRS13006079	SAMN28403857	AMPLICON	Illumina NovaSeq 6000	190730.0	CHB	27.0	male		China		B1								N					0.0
+PRJNA838083	SRR19212827	D019694	Hepatitis B, Chronic				SRS13006081	SAMN28403858	AMPLICON	Illumina NovaSeq 6000	187949.0	CHB	46.0	male		China		B2								N					0.0
+PRJNA838083	SRR19212804	D019694	Hepatitis B, Chronic				SRS13006104	SAMN28403879	AMPLICON	Illumina NovaSeq 6000	162288.0	CHB	29.0	female		China		B23								N					0.0
+PRJNA838083	SRR19212814	D019694	Hepatitis B, Chronic				SRS13006092	SAMN28403870	AMPLICON	Illumina NovaSeq 6000	159585.0	CHB	38.0	male		China		B14								N					0.0
+PRJNA838083	SRR19212808	D019694	Hepatitis B, Chronic				SRS13006098	SAMN28403875	AMPLICON	Illumina NovaSeq 6000	156434.0	CHB	54.0	female		China		B19								N					0.0
+PRJNA838083	SRR19212821	D019694	Hepatitis B, Chronic				SRS13006088	SAMN28403863	AMPLICON	Illumina NovaSeq 6000	156073.0	CHB	33.0	male		China		B7								N					0.0
+PRJNA838083	SRR19212818	D019694	Hepatitis B, Chronic				SRS13006089	SAMN28403866	AMPLICON	Illumina NovaSeq 6000	154222.0	CHB	45.0	male		China		B10								N					0.0
+PRJNA838083	SRR19212815	D019694	Hepatitis B, Chronic				SRS13006093	SAMN28403869	AMPLICON	Illumina NovaSeq 6000	152520.0	CHB	48.0	male		China		B13								N					0.0
+PRJNA838083	SRR19212824	D019694	Hepatitis B, Chronic				SRS13006083	SAMN28403861	AMPLICON	Illumina NovaSeq 6000	142870.0	CHB	42.0	male		China		B5								N					0.0
+PRJNA838083	SRR19212810	D019694	Hepatitis B, Chronic				SRS13006096	SAMN28403873	AMPLICON	Illumina NovaSeq 6000	142477.0	CHB	28.0	female		China		B17								N					0.0
+PRJNA838083	SRR19212819	D019694	Hepatitis B, Chronic				SRS13006087	SAMN28403865	AMPLICON	Illumina NovaSeq 6000	118372.0	CHB	26.0	male		China		B9								N					0.0
+PRJNA838083	SRR19212807	D019694	Hepatitis B, Chronic				SRS13006100	SAMN28403876	AMPLICON	Illumina NovaSeq 6000	114371.0	CHB	37.0	female		China		B20								N					0.0
+PRJNA838083	SRR19212811	D019694	Hepatitis B, Chronic				SRS13006097	SAMN28403872	AMPLICON	Illumina NovaSeq 6000	112978.0	CHB	36.0	male		China		B16								N					0.0
+PRJNA838083	SRR19212806	D019694	Hepatitis B, Chronic				SRS13006101	SAMN28403877	AMPLICON	Illumina NovaSeq 6000	97395.0	CHB	44.0	male		China		B21								N					0.0
+PRJNA838083	SRR19212805	D019694	Hepatitis B, Chronic				SRS13006102	SAMN28403878	AMPLICON	Illumina NovaSeq 6000	89913.0	CHB	56.0	male		China		B22								N					0.0
+PRJNA872871	SRR21460941	D019694	Hepatitis B, Chronic				SRS15018082	SAMN30674221	AMPLICON	Illumina MiSeq	190569.0	human gut metagenome Metagenome				China		Chronic hepatitis B_32								N			25.03	121.157	1.0
+PRJNA872871	SRR21460922	D019694	Hepatitis B, Chronic				SRS15018101	SAMN30674239	AMPLICON	Illumina MiSeq	184869.0	human gut metagenome Metagenome				China		Chronic hepatitis B_50								N			25.03	121.175	1.0
+PRJNA872871	SRR21460917	D019694	Hepatitis B, Chronic				SRS15018106	SAMN30674243	AMPLICON	Illumina MiSeq	179090.0	human gut metagenome Metagenome				China		Chronic hepatitis B_54								N			25.03	121.179	1.0
+PRJNA872871	SRR21460876	D019694	Hepatitis B, Chronic				SRS15018148	SAMN30674218	AMPLICON	Illumina MiSeq	173436.0	human gut metagenome Metagenome				China		Chronic hepatitis B_29								N			25.03	121.154	1.0
+PRJNA872871	SRR21460872	D019694	Hepatitis B, Chronic				SRS15018151	SAMN30674246	AMPLICON	Illumina MiSeq	165763.0	human gut metagenome Metagenome				China		Chronic hepatitis B_57								N			25.03	121.182	1.0
+PRJNA872871	SRR21460929	D019694	Hepatitis B, Chronic				SRS15018094	SAMN30674232	AMPLICON	Illumina MiSeq	162553.0	human gut metagenome Metagenome				China		Chronic hepatitis B_43								N			25.03	121.168	1.0
+PRJNA872871	SRR21460873	D019694	Hepatitis B, Chronic				SRS15018150	SAMN30674245	AMPLICON	Illumina MiSeq	161839.0	human gut metagenome Metagenome				China		Chronic hepatitis B_56								N			25.03	121.181	1.0
+PRJNA872871	SRR21460933	D019694	Hepatitis B, Chronic				SRS15018090	SAMN30674229	AMPLICON	Illumina MiSeq	158900.0	human gut metagenome Metagenome				China		Chronic hepatitis B_40								N			25.03	121.165	1.0
+PRJNA872871	SRR21460924	D019694	Hepatitis B, Chronic				SRS15018099	SAMN30674237	AMPLICON	Illumina MiSeq	157049.0	human gut metagenome Metagenome				China		Chronic hepatitis B_48								N			25.03	121.173	1.0
+PRJNA872871	SRR21460927	D019694	Hepatitis B, Chronic				SRS15018096	SAMN30674234	AMPLICON	Illumina MiSeq	156649.0	human gut metagenome Metagenome				China		Chronic hepatitis B_45								N			25.03	121.17	1.0
+PRJNA872871	SRR21460919	D019694	Hepatitis B, Chronic				SRS15018104	SAMN30674241	AMPLICON	Illumina MiSeq	151026.0	human gut metagenome Metagenome				China		Chronic hepatitis B_52								N			25.03	121.177	1.0
+PRJNA872871	SRR21460926	D019694	Hepatitis B, Chronic				SRS15018097	SAMN30674235	AMPLICON	Illumina MiSeq	150337.0	human gut metagenome Metagenome				China		Chronic hepatitis B_46								N			25.03	121.171	1.0
+PRJNA872871	SRR21460791	D019694	Hepatitis B, Chronic				SRS15018233	SAMN30674203	AMPLICON	Illumina MiSeq	150038.0	human gut metagenome Metagenome				China		Chronic hepatitis B_14								N			25.03	121.139	1.0
+PRJNA872871	SRR21460942	D019694	Hepatitis B, Chronic				SRS15018081	SAMN30674220	AMPLICON	Illumina MiSeq	149861.0	human gut metagenome Metagenome				China		Chronic hepatitis B_31								N			25.03	121.156	1.0
+PRJNA872871	SRR21460789	D019694	Hepatitis B, Chronic				SRS15018234	SAMN30674205	AMPLICON	Illumina MiSeq	147570.0	human gut metagenome Metagenome				China		Chronic hepatitis B_16								N			25.03	121.141	1.0
+PRJNA872871	SRR21460937	D019694	Hepatitis B, Chronic				SRS15018086	SAMN30674225	AMPLICON	Illumina MiSeq	147093.0	human gut metagenome Metagenome				China		Chronic hepatitis B_36								N			25.03	121.161	1.0
+PRJNA872871	SRR21460871	D019694	Hepatitis B, Chronic				SRS15018152	SAMN30674247	AMPLICON	Illumina MiSeq	146831.0	human gut metagenome Metagenome				China		Chronic hepatitis B_58								N			25.03	121.183	1.0
+PRJNA872871	SRR21460938	D019694	Hepatitis B, Chronic				SRS15018085	SAMN30674224	AMPLICON	Illumina MiSeq	146752.0	human gut metagenome Metagenome				China		Chronic hepatitis B_35								N			25.03	121.16	1.0
+PRJNA872871	SRR21460788	D019694	Hepatitis B, Chronic				SRS15018235	SAMN30674206	AMPLICON	Illumina MiSeq	145162.0	human gut metagenome Metagenome				China		Chronic hepatitis B_17								N			25.03	121.142	1.0
+PRJNA872871	SRR21460939	D019694	Hepatitis B, Chronic				SRS15018084	SAMN30674223	AMPLICON	Illumina MiSeq	144152.0	human gut metagenome Metagenome				China		Chronic hepatitis B_34								N			25.03	121.159	1.0
+PRJNA872871	SRR21460884	D019694	Hepatitis B, Chronic				SRS15018140	SAMN30674210	AMPLICON	Illumina MiSeq	143956.0	human gut metagenome Metagenome				China		Chronic hepatitis B_21								N			25.03	121.146	1.0
+PRJNA872871	SRR21460923	D019694	Hepatitis B, Chronic				SRS15018100	SAMN30674238	AMPLICON	Illumina MiSeq	142613.0	human gut metagenome Metagenome				China		Chronic hepatitis B_49								N			25.03	121.174	1.0
+PRJNA872871	SRR21460918	D019694	Hepatitis B, Chronic				SRS15018105	SAMN30674242	AMPLICON	Illumina MiSeq	141805.0	human gut metagenome Metagenome				China		Chronic hepatitis B_53								N			25.03	121.178	1.0
+PRJNA872871	SRR21460786	D019694	Hepatitis B, Chronic				SRS15018237	SAMN30674208	AMPLICON	Illumina MiSeq	141159.0	human gut metagenome Metagenome				China		Chronic hepatitis B_19								N			25.03	121.144	1.0
+PRJNA872871	SRR21460796	D019694	Hepatitis B, Chronic				SRS15018227	SAMN30674199	AMPLICON	Illumina MiSeq	140734.0	human gut metagenome Metagenome				China		Chronic hepatitis B_10								N			25.03	121.135	1.0
+PRJNA872871	SRR21460794	D019694	Hepatitis B, Chronic				SRS15018229	SAMN30674200	AMPLICON	Illumina MiSeq	137873.0	human gut metagenome Metagenome				China		Chronic hepatitis B_11								N			25.03	121.136	1.0
+PRJNA872871	SRR21460878	D019694	Hepatitis B, Chronic				SRS15018146	SAMN30674216	AMPLICON	Illumina MiSeq	136298.0	human gut metagenome Metagenome				China		Chronic hepatitis B_27								N			25.03	121.152	1.0
+PRJNA872871	SRR21460883	D019694	Hepatitis B, Chronic				SRS15018141	SAMN30674211	AMPLICON	Illumina MiSeq	134766.0	human gut metagenome Metagenome				China		Chronic hepatitis B_22								N			25.03	121.147	1.0
+PRJNA872871	SRR21460881	D019694	Hepatitis B, Chronic				SRS15018143	SAMN30674213	AMPLICON	Illumina MiSeq	134117.0	human gut metagenome Metagenome				China		Chronic hepatitis B_24								N			25.03	121.149	1.0
+PRJNA872871	SRR21460800	D019694	Hepatitis B, Chronic				SRS15018223	SAMN30674195	AMPLICON	Illumina MiSeq	133673.0	human gut metagenome Metagenome				China		Chronic hepatitis B_6								N			25.03	121.131	1.0
+PRJNA872871	SRR21460785	D019694	Hepatitis B, Chronic				SRS15018239	SAMN30674209	AMPLICON	Illumina MiSeq	133031.0	human gut metagenome Metagenome				China		Chronic hepatitis B_20								N			25.03	121.145	1.0
+PRJNA872871	SRR21460801	D019694	Hepatitis B, Chronic				SRS15018222	SAMN30674194	AMPLICON	Illumina MiSeq	133031.0	human gut metagenome Metagenome				China		Chronic hepatitis B_5								N			25.03	121.13	1.0
+PRJNA872871	SRR21460793	D019694	Hepatitis B, Chronic				SRS15018230	SAMN30674201	AMPLICON	Illumina MiSeq	132826.0	human gut metagenome Metagenome				China		Chronic hepatitis B_12								N			25.03	121.137	1.0
+PRJNA872871	SRR21460790	D019694	Hepatitis B, Chronic				SRS15018232	SAMN30674204	AMPLICON	Illumina MiSeq	130926.0	human gut metagenome Metagenome				China		Chronic hepatitis B_15								N			25.03	121.14	1.0
+PRJNA872871	SRR21460802	D019694	Hepatitis B, Chronic				SRS15018221	SAMN30674193	AMPLICON	Illumina MiSeq	129810.0	human gut metagenome Metagenome				China		Chronic hepatitis B_4								N			25.03	121.129	1.0
+PRJNA872871	SRR21460874	D019694	Hepatitis B, Chronic				SRS15018149	SAMN30674219	AMPLICON	Illumina MiSeq	129608.0	human gut metagenome Metagenome				China		Chronic hepatitis B_30								N			25.03	121.155	1.0
+PRJNA872871	SRR21460935	D019694	Hepatitis B, Chronic				SRS15018088	SAMN30674227	AMPLICON	Illumina MiSeq	128989.0	human gut metagenome Metagenome				China		Chronic hepatitis B_38								N			25.03	121.163	1.0
+PRJNA872871	SRR21460928	D019694	Hepatitis B, Chronic				SRS15018095	SAMN30674233	AMPLICON	Illumina MiSeq	127558.0	human gut metagenome Metagenome				China		Chronic hepatitis B_44								N			25.03	121.169	1.0
+PRJNA872871	SRR21460879	D019694	Hepatitis B, Chronic				SRS15018145	SAMN30674215	AMPLICON	Illumina MiSeq	125953.0	human gut metagenome Metagenome				China		Chronic hepatitis B_26								N			25.03	121.151	1.0
+PRJNA872871	SRR21460804	D019694	Hepatitis B, Chronic				SRS15018219	SAMN30674191	AMPLICON	Illumina MiSeq	125046.0	human gut metagenome Metagenome				China		Chronic hepatitis B_2								N			25.03	121.127	1.0
+PRJNA872871	SRR21460798	D019694	Hepatitis B, Chronic				SRS15018225	SAMN30674197	AMPLICON	Illumina MiSeq	124459.0	human gut metagenome Metagenome				China		Chronic hepatitis B_8								N			25.03	121.133	1.0
+PRJNA872871	SRR21460805	D019694	Hepatitis B, Chronic				SRS15018218	SAMN30674190	AMPLICON	Illumina MiSeq	123599.0	human gut metagenome Metagenome				China		Chronic hepatitis B_1								N			25.03	121.126	1.0
+PRJNA872871	SRR21460936	D019694	Hepatitis B, Chronic				SRS15018087	SAMN30674226	AMPLICON	Illumina MiSeq	123528.0	human gut metagenome Metagenome				China		Chronic hepatitis B_37								N			25.03	121.162	1.0
+PRJNA872871	SRR21460882	D019694	Hepatitis B, Chronic				SRS15018142	SAMN30674212	AMPLICON	Illumina MiSeq	121678.0	human gut metagenome Metagenome				China		Chronic hepatitis B_23								N			25.03	121.148	1.0
+PRJNA872871	SRR21460787	D019694	Hepatitis B, Chronic				SRS15018236	SAMN30674207	AMPLICON	Illumina MiSeq	121464.0	human gut metagenome Metagenome				China		Chronic hepatitis B_18								N			25.03	121.143	1.0
+PRJNA872871	SRR21460925	D019694	Hepatitis B, Chronic				SRS15018098	SAMN30674236	AMPLICON	Illumina MiSeq	120104.0	human gut metagenome Metagenome				China		Chronic hepatitis B_47								N			25.03	121.172	1.0
+PRJNA872871	SRR21460930	D019694	Hepatitis B, Chronic				SRS15018093	SAMN30674231	AMPLICON	Illumina MiSeq	119367.0	human gut metagenome Metagenome				China		Chronic hepatitis B_42								N			25.03	121.167	1.0
+PRJNA872871	SRR21460799	D019694	Hepatitis B, Chronic				SRS15018224	SAMN30674196	AMPLICON	Illumina MiSeq	117115.0	human gut metagenome Metagenome				China		Chronic hepatitis B_7								N			25.03	121.132	1.0
+PRJNA872871	SRR21460792	D019694	Hepatitis B, Chronic				SRS15018231	SAMN30674202	AMPLICON	Illumina MiSeq	114367.0	human gut metagenome Metagenome				China		Chronic hepatitis B_13								N			25.03	121.138	1.0
+PRJNA872871	SRR21460931	D019694	Hepatitis B, Chronic				SRS15018092	SAMN30674230	AMPLICON	Illumina MiSeq	113236.0	human gut metagenome Metagenome				China		Chronic hepatitis B_41								N			25.03	121.166	1.0
+PRJNA872871	SRR21460797	D019694	Hepatitis B, Chronic				SRS15018226	SAMN30674198	AMPLICON	Illumina MiSeq	112069.0	human gut metagenome Metagenome				China		Chronic hepatitis B_9								N			25.03	121.134	1.0
+PRJNA872871	SRR21460920	D019694	Hepatitis B, Chronic				SRS15018103	SAMN30674240	AMPLICON	Illumina MiSeq	110603.0	human gut metagenome Metagenome				China		Chronic hepatitis B_51								N			25.03	121.176	1.0
+PRJNA872871	SRR21460880	D019694	Hepatitis B, Chronic				SRS15018144	SAMN30674214	AMPLICON	Illumina MiSeq	106417.0	human gut metagenome Metagenome				China		Chronic hepatitis B_25								N			25.03	121.15	1.0
+PRJNA872871	SRR21460934	D019694	Hepatitis B, Chronic				SRS15018089	SAMN30674228	AMPLICON	Illumina MiSeq	105382.0	human gut metagenome Metagenome				China		Chronic hepatitis B_39								N			25.03	121.164	1.0
+PRJNA872871	SRR21460940	D019694	Hepatitis B, Chronic				SRS15018083	SAMN30674222	AMPLICON	Illumina MiSeq	102904.0	human gut metagenome Metagenome				China		Chronic hepatitis B_33								N			25.03	121.158	1.0
+PRJNA872871	SRR21460877	D019694	Hepatitis B, Chronic				SRS15018147	SAMN30674217	AMPLICON	Illumina MiSeq	102766.0	human gut metagenome Metagenome				China		Chronic hepatitis B_28								N			25.03	121.153	1.0
+PRJNA872871	SRR21460875	D019694	Hepatitis B, Chronic				SRS15018107	SAMN30674244	AMPLICON	Illumina MiSeq	101577.0	human gut metagenome Metagenome				China		Chronic hepatitis B_55								N			25.03	121.18	1.0
+PRJNA872871	SRR21460803	D019694	Hepatitis B, Chronic				SRS15018220	SAMN30674192	AMPLICON	Illumina MiSeq	68458.0	human gut metagenome Metagenome				China		Chronic hepatitis B_3								N			25.03	121.128	1.0

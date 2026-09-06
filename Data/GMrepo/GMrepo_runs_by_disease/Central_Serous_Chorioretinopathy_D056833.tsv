@@ -1,0 +1,20 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJEB38997	ERR4316494	D056833	Central Serous Chorioretinopathy				ERS4801253	SAMEA7037059	Metagenomics	Illumina HiSeq 3000	70873266.0	patient				Sweden		RCS009								N					1.0
+PRJEB38997	ERR4316497	D056833	Central Serous Chorioretinopathy				ERS4801256	SAMEA7037062	Metagenomics	Illumina HiSeq 3000	58772802.0	patient				Sweden		RCS012								N					1.0
+PRJEB38997	ERR4316491	D056833	Central Serous Chorioretinopathy				ERS4801250	SAMEA7037056	Metagenomics	Illumina HiSeq 3000	49678668.0	patient				Sweden		RCS005								N					1.0
+PRJEB38997	ERR4316503	D056833	Central Serous Chorioretinopathy				ERS4801262	SAMEA7037068	Metagenomics	Illumina HiSeq 3000	48604037.0	patient				Sweden		RCS018								N					1.0
+PRJEB38997	ERR4316498	D056833	Central Serous Chorioretinopathy				ERS4801257	SAMEA7037063	Metagenomics	Illumina HiSeq 3000	47161848.0	patient				Sweden		RCS013								N					1.0
+PRJEB38997	ERR4316487	D056833	Central Serous Chorioretinopathy				ERS4801246	SAMEA7037052	Metagenomics	Illumina HiSeq 3000	44752154.0	patient				Sweden		RCS001								N					1.0
+PRJEB38997	ERR4316489	D056833	Central Serous Chorioretinopathy				ERS4801248	SAMEA7037054	Metagenomics	Illumina HiSeq 3000	36064715.0	patient				Sweden		RCS003								N					1.0
+PRJEB38997	ERR4316488	D056833	Central Serous Chorioretinopathy				ERS4801247	SAMEA7037053	Metagenomics	Illumina HiSeq 3000	34279515.0	patient				Sweden		RCS002								N					1.0
+PRJEB38997	ERR4316495	D056833	Central Serous Chorioretinopathy				ERS4801254	SAMEA7037060	Metagenomics	Illumina HiSeq 3000	33336465.0	patient				Sweden		RCS010								N					1.0
+PRJEB38997	ERR4316493	D056833	Central Serous Chorioretinopathy				ERS4801252	SAMEA7037058	Metagenomics	Illumina HiSeq 3000	29902780.0	patient				Sweden		RCS008								N					1.0
+PRJEB38997	ERR4316501	D056833	Central Serous Chorioretinopathy				ERS4801260	SAMEA7037066	Metagenomics	Illumina HiSeq 3000	24043714.0	patient				Sweden		RCS016								N					1.0
+PRJEB38997	ERR4316500	D056833	Central Serous Chorioretinopathy				ERS4801259	SAMEA7037065	Metagenomics	Illumina HiSeq 3000	22893607.0	patient				Sweden		RCS015								N					1.0
+PRJEB38997	ERR4316490	D056833	Central Serous Chorioretinopathy				ERS4801249	SAMEA7037055	Metagenomics	Illumina HiSeq 3000	22792121.0	patient				Sweden		RCS004								N					1.0
+PRJEB38997	ERR4316492	D056833	Central Serous Chorioretinopathy				ERS4801251	SAMEA7037057	Metagenomics	Illumina HiSeq 3000	22062327.0	patient				Sweden		RCS007								N					1.0
+PRJEB38997	ERR4316502	D056833	Central Serous Chorioretinopathy				ERS4801261	SAMEA7037067	Metagenomics	Illumina HiSeq 3000	17968043.0	patient				Sweden		RCS017								N					1.0
+PRJEB38997	ERR4316499	D056833	Central Serous Chorioretinopathy				ERS4801258	SAMEA7037064	Metagenomics	Illumina HiSeq 3000	16886420.0	patient				Sweden		RCS014								N					1.0
+PRJEB38997	ERR4316496	D056833	Central Serous Chorioretinopathy				ERS4801255	SAMEA7037061	Metagenomics	Illumina HiSeq 3000	12924275.0	patient				Sweden		RCS011								N					1.0
+PRJEB38997	ERR4316504	D056833	Central Serous Chorioretinopathy				ERS4801263	SAMEA7037069	Metagenomics	Illumina HiSeq 3000	8884833.0	patient				Sweden		RCS019								N					1.0
+PRJEB38997	ERR4316505	D056833	Central Serous Chorioretinopathy				ERS4801264	SAMEA7037070	Metagenomics	Illumina HiSeq 3000	2130668.0	patient				Sweden		RCS021								N					1.0

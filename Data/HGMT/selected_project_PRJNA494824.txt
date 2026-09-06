@@ -1,0 +1,33 @@
+Selected project id: PRJNA494824
+Project ID	Run ID	Sample name	Assay type	Sequencing method	Phenotype name	Sample description	Phenotype ID	country	Geographic location	Longitude	lattitude	age	sex	BMI	Antibiotic use	Antibiotic name	Bodysite	Batch	Batch2	QC bacteria	QC fungi	QC State
+PRJNA494824	SRR8387647	19	WGS	Illumina HiSeq 1500	Rectal Neoplasms	19A1;IVA;Caucasian	D012004	USA	NA	NA	NA	55	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387649	2	WGS	Illumina HiSeq 1500	Breast Neoplasms	2A1;III;Caucasian	D001943	USA	NA	NA	NA	60	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387650	1	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	1A1;IV;Black	D000077192	USA	NA	NA	NA	53	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387651	1	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	1A2;IV;Black	D000077192	USA	NA	NA	NA	53	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387654	2	WGS	Illumina HiSeq 1500	Breast Neoplasms	2A2;III;Caucasian	D001943	USA	NA	NA	NA	60	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387657	16	WGS	Illumina HiSeq 1500	Prostatic Neoplasms	16A1;IV;Hispanic	D011471	USA	NA	NA	NA	64	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387662	9	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	9A1;IV;Caucasian	D000077192	USA	NA	NA	NA	52	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387667	5	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	5A1;IV;Caucasian	D000077192	USA	NA	NA	NA	54	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387668	5	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	5A2;IV;Caucasian	D000077192	USA	NA	NA	NA	54	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387669	8	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	8A1;IV;Caucasian	D000077192	USA	NA	NA	NA	51	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387670	8	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	8A2;IV;Caucasian	D000077192	USA	NA	NA	NA	51	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387671	7	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	7A;IV;Caucasian	D000077192	USA	NA	NA	NA	53	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387685	17	WGS	Illumina HiSeq 1500	Rectal Neoplasms	17A1;IIA;Caucasian	D012004	USA	NA	NA	NA	61	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387686	21	WGS	Illumina HiSeq 1500	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	21A1;N/A;Hispanic	D015464	USA	NA	NA	NA	35	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387687	22	WGS	Illumina HiSeq 1500	Breast Neoplasms	22A1;IA;Caucasian	D001943	USA	NA	NA	NA	64	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387690	4	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	4A1;IV;Caucasian	D000077192	USA	NA	NA	NA	41	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387699	12	WGS	Illumina HiSeq 1500	Adenocarcinoma of Lung	12A1;IV;Hispanic	D000077192	USA	NA	NA	NA	64	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387704	14	WGS	Illumina HiSeq 1500	Breast Neoplasms	14A1;I;Caucasian	D001943	USA	NA	NA	NA	58	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387708	15	WGS	Illumina HiSeq 1500	Prostatic Neoplasms	15A2;IV;Caucasian	D011471	USA	NA	NA	NA	64	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387709	15	WGS	Illumina HiSeq 1500	Prostatic Neoplasms	15A1;IV;Caucasian	D011471	USA	NA	NA	NA	64	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387659	40	WGS	Illumina HiSeq 1500	Pancreatic Neoplasms	response:NR;response_group:NR;40A1;IV;Caucasian;Capecitabine/irinotecan/nivolumab	D010190	USA	NA	NA	NA	54	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387676	30	WGS	Illumina HiSeq 1500	Ovarian Neoplasms	response:NR;response_group:NR;30A1;IV;Black;Liposomal doxorubicin/pembrolizumab	D010051	USA	NA	NA	NA	43	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387677	28	WGS	Illumina HiSeq 1500	Breast Neoplasms	response:NR;response_group:NR;28A1;IV;Caucasian;Gemcitabine/vinorelbine/pembrolizumab	D001943	USA	NA	NA	NA	58	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387679	25	WGS	Illumina HiSeq 1500	Small Cell Lung Carcinoma	response:R;response_group:R;25A1;IV;Caucasian;Irinotecan/pembrolizumab	D055752	USA	NA	NA	NA	60	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387681	45	WGS	Illumina HiSeq 1500	Ovarian Neoplasms	response:R;response_group:R;45A1;IV;Caucasian;Liposomal doxorubicin/pembrolizumab	D010051	USA	NA	NA	NA	38	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387683	32	WGS	Illumina HiSeq 1500	Colonic Neoplasms	response:R;response_group:R;32A1;IV;Black;Capecitabine/irinotecan/nivolumab	D003110	USA	NA	NA	NA	51	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387691	44	WGS	Illumina HiSeq 1500	Breast Neoplasms	response:R;response_group:R;44A1;IV;Asian;Trastuzumab/pembrolizumab	D001943	USA	NA	NA	NA	36	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387697	38	WGS	Illumina HiSeq 1500	Breast Neoplasms	response:NR;response_group:NR;38A1;IV;Caucasian;Ado-trastuzumab/pembrolizumab	D001943	USA	NA	NA	NA	42	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387707	39	WGS	Illumina HiSeq 1500	Pancreatic Neoplasms	response:NR;response_group:NR;39A1;IV;Caucasian;Capecitabine/irinotecan/nivolumab	D010190	USA	NA	NA	NA	54	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387710	27	WGS	Illumina HiSeq 1500	Colonic Neoplasms	response:R;response_group:R;27A1;IV;Caucasian;Capecitabine/irinotecan/nivolumab	D003110	USA	NA	NA	NA	72	male	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1
+PRJNA494824	SRR8387712	36	WGS	Illumina HiSeq 1500	Breast Neoplasms	response:R;response_group:R;36A1;IV;Caucasian;Gemcitabine/vinorelbine/pembrolizumab	D001943	USA	NA	NA	NA	46	female	NA	NA	NA	Fecal	PRJNA494824	PRJNA494824	1	1	1	1

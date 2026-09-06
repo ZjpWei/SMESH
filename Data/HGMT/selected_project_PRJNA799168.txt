@@ -1,0 +1,18 @@
+Selected project id: PRJNA799168
+Project ID	Run ID	Sample name	Assay type	Sequencing method	Phenotype name	Sample description	Phenotype ID	country	Geographic location	Longitude	lattitude	age	sex	BMI	Antibiotic use	Antibiotic name	Bodysite	Batch	Batch2	QC bacteria	QC fungi	QC State
+PRJNA799168	SRR17687219	SAMN25146259	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687220	SAMN25146258	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	25	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687223	SAMN25146255	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	26	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687225	SAMN25146267	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687227	SAMN25146265	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687228	SAMN25146264	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687229	SAMN25146263	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687230	SAMN25146262	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687232	SAMN25146252	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	30	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687217	SAMN25146261	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687218	SAMN25146260	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687221	SAMN25146257	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	26	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687222	SAMN25146256	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	25	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687224	SAMN25146254	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	29	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687226	SAMN25146266	16S	Illumina MiSeq	Colorectal Neoplasms	adenocarcinoma	D015179	China	Shanghai	NA	NA	NA	female	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA
+PRJNA799168	SRR17687231	SAMN25146253	16S	Illumina MiSeq	Health	healthy	D006262	China	Shanghai	NA	NA	33	male	NA	NA	NA	Fecal	PRJNA799168	PRJNA799168	1	1	NA	NA

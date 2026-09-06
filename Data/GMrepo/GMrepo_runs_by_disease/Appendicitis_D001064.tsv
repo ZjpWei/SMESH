@@ -1,0 +1,13 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJDB8606	DRR186389	D001064	Appendicitis				DRS196493	SAMD00180720	AMPLICON	Illumina MiSeq	105672.0	acute appendicitis				Japan	2019-06-17 00:00:00	20_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186374	D001064	Appendicitis				DRS196478	SAMD00180705	AMPLICON	Illumina MiSeq	87386.0	acute appendicitis				Japan	2019-06-17 00:00:00	3_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186394	D001064	Appendicitis				DRS196498	SAMD00180725	AMPLICON	Illumina MiSeq	82455.0	acute appendicitis				Japan	2019-06-17 00:00:00	25_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186376	D001064	Appendicitis				DRS196480	SAMD00180707	AMPLICON	Illumina MiSeq	79920.0	acute appendicitis				Japan	2019-06-17 00:00:00	5_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186373	D001064	Appendicitis				DRS196477	SAMD00180704	AMPLICON	Illumina MiSeq	75934.0	acute appendicitis				Japan	2019-06-17 00:00:00	2_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186372	D001064	Appendicitis				DRS196476	SAMD00180703	AMPLICON	Illumina MiSeq	69905.0	acute appendicitis				Japan	2019-06-17 00:00:00	1_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186385	D001064	Appendicitis				DRS196489	SAMD00180716	AMPLICON	Illumina MiSeq	68955.0	acute appendicitis				Japan	2019-06-17 00:00:00	16_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186379	D001064	Appendicitis				DRS196483	SAMD00180710	AMPLICON	Illumina MiSeq	68641.0	acute appendicitis				Japan	2019-06-17 00:00:00	10_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186384	D001064	Appendicitis				DRS196488	SAMD00180715	AMPLICON	Illumina MiSeq	68592.0	acute appendicitis				Japan	2019-06-17 00:00:00	15_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186382	D001064	Appendicitis				DRS196486	SAMD00180713	AMPLICON	Illumina MiSeq	64970.0	acute appendicitis				Japan	2019-06-17 00:00:00	13_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186381	D001064	Appendicitis				DRS196485	SAMD00180712	AMPLICON	Illumina MiSeq	49967.0	acute appendicitis				Japan	2019-06-17 00:00:00	12_LpAppe								N			35.7	139.76	1.0
+PRJDB8606	DRR186375	D001064	Appendicitis				DRS196479	SAMD00180706	AMPLICON	Illumina MiSeq	45091.0	acute appendicitis				Japan	2019-06-17 00:00:00	4_LpAppe								N			35.7	139.76	1.0

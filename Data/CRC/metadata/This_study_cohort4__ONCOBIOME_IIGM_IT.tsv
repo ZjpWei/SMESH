@@ -1,0 +1,182 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+VF421	VF421	Homo sapiens	colorectal carcinoma	Case	Italy	feces	49.0	38.9	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF378	LILT_VF378	Homo sapiens	colorectal carcinoma	Case	Italy	feces	54.0	23.4	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF399	VF399	Homo sapiens	colorectal carcinoma	Case	Italy	feces	54.0	28.6	colorectal carcinoma	Female	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF334	LILT_VF334	Homo sapiens	colorectal carcinoma	Case	Italy	feces	55.0	22.1	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF419	VF419	Homo sapiens	colorectal carcinoma	Case	Italy	feces	56.0	27.7	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF300_T016	LILT_VF300_T016	Homo sapiens	colorectal carcinoma	Case	Italy	feces	57.0	30.1	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF73_16	LILT_VF73_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	58.0	24.9	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF417	VF417	Homo sapiens	colorectal carcinoma	Case	Italy	feces	58.0	21.3	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF318	LILT_VF318	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	20.4	colorectal carcinoma	Male	IV	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF270_T017	LILT_VF270_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	60.0	21.6	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF360	LILT_VF360	Homo sapiens	colorectal carcinoma	Case	Italy	feces	60.0	30.9	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF234_T017	LILT_VF234_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	61.0	23.1	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF403	VF403	Homo sapiens	colorectal carcinoma	Case	Italy	feces	62.0	27.1	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF425	VF425	Homo sapiens	colorectal carcinoma	Case	Italy	feces	62.0	25.7	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF106_16	LILT_VF106_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	44.1	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF120_16	LILT_VF120_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	37.0	colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF155_T017	LILT_VF155_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	19.6	colorectal carcinoma	Female	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF207_T017	LILT_VF207_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	25.5	colorectal carcinoma	Male	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF379	LILT_VF379	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	16.5	colorectal carcinoma	Female	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF100_T016	LILT_VF100_T016	Homo sapiens	colorectal carcinoma	Case	Italy	feces	64.0	30.1	colorectal carcinoma	Male	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF176_T017	LILT_VF176_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	64.0	23.2	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF394	LILT_VF394	Homo sapiens	colorectal carcinoma	Case	Italy	feces	64.0	33.8	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF174_T017	LILT_VF174_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	66.0	24.2	colorectal carcinoma	Male	IV	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF363	LILT_VF363	Homo sapiens	colorectal carcinoma	Case	Italy	feces	66.0	33.1	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF71_16	LILT_VF71_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	67.0	21.2	colorectal carcinoma	Female	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF142_T017	LILT_VF142_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	67.0	27.7	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF145_T017	LILT_VF145_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	67.0	35.5	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF401	VF401	Homo sapiens	colorectal carcinoma	Case	Italy	feces	68.0	25.1	colorectal carcinoma	Male	IV	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF402	VF402	Homo sapiens	colorectal carcinoma	Case	Italy	feces	68.0	28.0	colorectal carcinoma	Female	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF65_16	LILT_VF65_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	29.2	colorectal carcinoma	Female	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF232_T017	LILT_VF232_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	27.3	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF412	VF412	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	25.8	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF77_16	LILT_VF77_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	70.0	24.1	colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF95_16	LILT_VF95_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	70.0	29.8	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF385	LILT_VF385	Homo sapiens	colorectal carcinoma	Case	Italy	feces	71.0	20.2	colorectal carcinoma	Female	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF392	LILT_VF392	Homo sapiens	colorectal carcinoma	Case	Italy	feces	71.0	21.2	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF377	LILT_VF377	Homo sapiens	colorectal carcinoma	Case	Italy	feces	72.0	22.8	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF29_16	LILT_VF29_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	74.0	24.9	colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF208_T017	LILT_VF208_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	74.0	22.8	colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF348	LILT_VF348	Homo sapiens	colorectal carcinoma	Case	Italy	feces	74.0		colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_GF15_16	LILT_GF15_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	75.0		colorectal carcinoma	Male	CRC_stage_unlabelled	nd	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF281_T017	LILT_VF281_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	76.0	26.1	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF114_T017	LILT_VF114_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	22.6	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF154_T017	LILT_VF154_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	22.5	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF240_T017	LILT_VF240_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	28.7	colorectal carcinoma	Female	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF400	VF400	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	23.4	colorectal carcinoma	Male	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF107_16	LILT_VF107_16	Homo sapiens	colorectal carcinoma	Case	Italy	feces	78.0	30.4	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF264_T017	LILT_VF264_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	78.0	24.1	colorectal carcinoma	Male	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF313	LILT_VF313	Homo sapiens	colorectal carcinoma	Case	Italy	feces	78.0	21.3	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF222	LILT_VF222	Homo sapiens	colorectal carcinoma	Case	Italy	feces	79.0	16.0	colorectal carcinoma	Female	IV	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF406	VF406	Homo sapiens	colorectal carcinoma	Case	Italy	feces	79.0		colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF328	LILT_VF328	Homo sapiens	colorectal carcinoma	Case	Italy	feces	81.0	29.4	colorectal carcinoma	Male	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF217_T017	LILT_VF217_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	82.0	28.0	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF423	VF423	Homo sapiens	colorectal carcinoma	Case	Italy	feces	82.0		colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF166_T017	LILT_VF166_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	83.0	19.0	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF251_T017	LILT_VF251_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	84.0	22.8	colorectal carcinoma	Female	II	transverse	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF315	LILT_VF315	Homo sapiens	colorectal carcinoma	Case	Italy	feces	84.0	21.3	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF404	VF404	Homo sapiens	colorectal carcinoma	Case	Italy	feces	85.0		colorectal carcinoma	Female	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF167_T017	LILT_VF167_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	86.0	22.9	colorectal carcinoma	Male	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF273_T017	LILT_VF273_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	86.0	23.9	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF138_T017	LILT_VF138_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	87.0		colorectal carcinoma	Female	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF109_16	LILT_VF109_16	Homo sapiens	Control	Study Control	Italy	feces	22.0	16.8	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF63_16	LILT_VF63_16	Homo sapiens	Control	Study Control	Italy	feces	24.0	17.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_GF11_16	LILT_GF11_16	Homo sapiens	Control	Study Control	Italy	feces	31.0	20.9	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF311	LILT_VF311	Homo sapiens	Control	Study Control	Italy	feces	39.0	23.6	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF110_16	LILT_VF110_16	Homo sapiens	Control	Study Control	Italy	feces	40.0	28.4	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_GF04_16	LILT_GF04_16	Homo sapiens	Control	Study Control	Italy	feces	41.0		Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF05_16	LILT_VF05_16	Homo sapiens	Control	Study Control	Italy	feces	43.0	24.7	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF306	LILT_VF306	Homo sapiens	Control	Study Control	Italy	feces	43.0	26.9	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF75_16	LILT_VF75_16	Homo sapiens	Control	Study Control	Italy	feces	45.0	32.6	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF74_16	LILT_VF74_16	Homo sapiens	Control	Study Control	Italy	feces	46.0	27.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF303	LILT_VF303	Homo sapiens	Control	Study Control	Italy	feces	46.0	16.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF337	LILT_VF337	Homo sapiens	Control	Study Control	Italy	feces	47.0	29.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF12_16	LILT_VF12_16	Homo sapiens	Control	Study Control	Italy	feces	49.0	18.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF41_16	LILT_VF41_16	Homo sapiens	Control	Study Control	Italy	feces	50.0	28.3	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF76_16	LILT_VF76_16	Homo sapiens	Control	Study Control	Italy	feces	50.0	22.5	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF78_16_A	LILT_VF78_16_A	Homo sapiens	Control	Study Control	Italy	feces	50.0	15.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF243	LILT_VF243	Homo sapiens	Control	Study Control	Italy	feces	50.0	21.1	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF01_16	LILT_VF01_16	Homo sapiens	Control	Study Control	Italy	feces	53.0	28.7	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF14_16	LILT_VF14_16	Homo sapiens	Control	Study Control	Italy	feces	54.0	26.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF34_16	LILT_VF34_16	Homo sapiens	Control	Study Control	Italy	feces	54.0	40.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF298	LILT_VF298	Homo sapiens	Control	Study Control	Italy	feces	54.0	23.7	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF81_16	LILT_VF81_16	Homo sapiens	Control	Study Control	Italy	feces	56.0	36.9	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF39_16	LILT_VF39_16	Homo sapiens	Control	Study Control	Italy	feces	57.0	22.5	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF84_16	LILT_VF84_16	Homo sapiens	Control	Study Control	Italy	feces	58.0	23.7	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF31_16	LILT_VF31_16	Homo sapiens	Control	Study Control	Italy	feces	59.0	25.6	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF10_T016	LILT_VF10_T016	Homo sapiens	Control	Study Control	Italy	feces	60.0	20.3	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF43_16	LILT_VF43_16	Homo sapiens	Control	Study Control	Italy	feces	60.0	21.6	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF339	LILT_VF339	Homo sapiens	Control	Study Control	Italy	feces	60.0	19.9	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF380	LILT_VF380	Homo sapiens	Control	Study Control	Italy	feces	60.0	31.2	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF82_T016	LILT_VF82_T016	Homo sapiens	Control	Study Control	Italy	feces	61.0	32.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF279_T016	LILT_VF279_T016	Homo sapiens	Control	Study Control	Italy	feces	61.0	22.5	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF326	LILT_VF326	Homo sapiens	Control	Study Control	Italy	feces	62.0	17.3	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF370	LILT_VF370	Homo sapiens	Control	Study Control	Italy	feces	62.0	17.9	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF28_T016	LILT_VF28_T016	Homo sapiens	Control	Study Control	Italy	feces	63.0	28.2	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF18_T016	LILT_VF18_T016	Homo sapiens	Control	Study Control	Italy	feces	64.0	26.6	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF262_T016	LILT_VF262_T016	Homo sapiens	Control	Study Control	Italy	feces	64.0	27.0	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF265_T016	LILT_VF265_T016	Homo sapiens	Control	Study Control	Italy	feces	64.0	24.8	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF189_T016	LILT_VF189_T016	Homo sapiens	Control	Study Control	Italy	feces	66.0	33.9	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF40_16	LILT_VF40_16	Homo sapiens	Control	Study Control	Italy	feces	67.0	22.1	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF140_T016	LILT_VF140_T016	Homo sapiens	Control	Study Control	Italy	feces	67.0	24.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF255_T016	LILT_VF255_T016	Homo sapiens	Control	Study Control	Italy	feces	69.0	30.5	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF261_T016	LILT_VF261_T016	Homo sapiens	Control	Study Control	Italy	feces	69.0	24.2	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF06_16	LILT_VF06_16	Homo sapiens	Control	Study Control	Italy	feces	70.0	20.2	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF170_T016	LILT_VF170_T016	Homo sapiens	Control	Study Control	Italy	feces	70.0	25.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF259_T016	LILT_VF259_T016	Homo sapiens	Control	Study Control	Italy	feces	71.0	23.9	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF00TL_16	LILT_VF00TL_16	Homo sapiens	Control	Study Control	Italy	feces	71.0	25.2	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF335	LILT_VF335	Homo sapiens	Control	Study Control	Italy	feces	72.0	29.4	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF171_T016	LILT_VF171_T016	Homo sapiens	Control	Study Control	Italy	feces	77.0		Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_GF06_16	LILT_GF06_16	Homo sapiens	Control	Study Control	Italy	feces	77.0	24.8	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF293	LILT_VF293	Homo sapiens	Control	Study Control	Italy	feces	79.0	30.4	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF206_T016	LILT_VF206_T016	Homo sapiens	Control	Study Control	Italy	feces	80.0	23.7	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF212_T016	LILT_VF212_T016	Homo sapiens	Control	Study Control	Italy	feces	80.0	33.0	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF263_T016	LILT_VF263_T016	Homo sapiens	Control	Study Control	Italy	feces	81.0	28.5	Control	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF351	LILT_VF351	Homo sapiens	Control	Study Control	Italy	feces	81.0	31.0	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF192_T017	LILT_VF192_T017	Homo sapiens	Adenoma	Case	Italy	feces	78.0	25.9	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF314	LILT_VF314	Homo sapiens	Adenoma	Case	Italy	feces	77.0	36.0	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+VF416	VF416	Homo sapiens	Adenoma	Case	Italy	feces	77.0	34.5	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF02_T016	LILT_VF02_T016	Homo sapiens	Adenoma	Case	Italy	feces	73.0	30.6	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF04_16	LILT_VF04_16	Homo sapiens	Adenoma	Case	Italy	feces	70.0	21.4	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF07_16	LILT_VF07_16	Homo sapiens	Adenoma	Case	Italy	feces	64.0	25.4	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF30_16	LILT_VF30_16	Homo sapiens	Adenoma	Case	Italy	feces	52.0	20.7	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF32_T016	LILT_VF32_T016	Homo sapiens	Adenoma	Case	Italy	feces	55.0	30.1	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF35_16	LILT_VF35_16	Homo sapiens	Adenoma	Case	Italy	feces	59.0	22.5	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF37_16	LILT_VF37_16	Homo sapiens	Adenoma	Case	Italy	feces	57.0	28.7	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF38_16	LILT_VF38_16	Homo sapiens	Adenoma	Case	Italy	feces	77.0	22.5	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF47_16	LILT_VF47_16	Homo sapiens	Adenoma	Case	Italy	feces	52.0	22.6	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF50_16	LILT_VF50_16	Homo sapiens	Adenoma	Case	Italy	feces	58.0	22.8	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF55_T017	LILT_VF55_T017	Homo sapiens	Adenoma	Case	Italy	feces	77.0	24.3	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF56_16	LILT_VF56_16	Homo sapiens	Adenoma	Case	Italy	feces	58.0	25.8	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF60_T016	LILT_VF60_T016	Homo sapiens	Adenoma	Case	Italy	feces	63.0	21.4	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF62_T017	LILT_VF62_T017	Homo sapiens	Adenoma	Case	Italy	feces	43.0	26.5	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF66_T017	LILT_VF66_T017	Homo sapiens	Adenoma	Case	Italy	feces	58.0	24.7	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF67_16	LILT_VF67_16	Homo sapiens	Adenoma	Case	Italy	feces	69.0	23.6	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF69_16	LILT_VF69_16	Homo sapiens	Adenoma	Case	Italy	feces	49.0	20.7	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF70_16	LILT_VF70_16	Homo sapiens	Adenoma	Case	Italy	feces	61.0	29.3	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF90_16	LILT_VF90_16	Homo sapiens	Adenoma	Case	Italy	feces	56.0	29.4	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF97_16	LILT_VF97_16	Homo sapiens	Adenoma	Case	Italy	feces	70.0	27.7	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF102_T017	LILT_VF102_T017	Homo sapiens	Adenoma	Case	Italy	feces	49.0	26.3	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF172_T017	LILT_VF172_T017	Homo sapiens	Adenoma	Case	Italy	feces	67.0	26.3	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF197_T017	LILT_VF197_T017	Homo sapiens	Adenoma	Case	Italy	feces	77.0	36.0	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF214_T016	LILT_VF214_T016	Homo sapiens	Adenoma	Case	Italy	feces	60.0	24.0	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF301_T016	LILT_VF301_T016	Homo sapiens	Adenoma	Case	Italy	feces	67.0		Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+VF397	VF397	Homo sapiens	Adenoma	Case	Italy	feces	83.0	23.5	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF382	LILT_VF382	Homo sapiens	Control	Study Control	Italy	feces	81.0	31.0	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_GF12_16	LILT_GF12_16	Homo sapiens	Adenoma	Case	Italy	feces	68.0	30.1	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF236_T017	LILT_VF236_T017	Homo sapiens	colorectal carcinoma	Case	Italy	feces	87.0	20.7	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_GF16_T017	LILT_GF16_T017	Homo sapiens	Adenoma	Case	Italy	feces	77.0	20.2	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_GF17_16	LILT_GF17_16	Homo sapiens	Adenoma	Case	Italy	feces	62.0	22.8	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_GF18_T016	LILT_GF18_T016	Homo sapiens	Adenoma	Case	Italy	feces	55.0	18.9	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+LILT_VF216_T017	LILT_VF216_T017	Homo sapiens	Control	Study Control	Italy	feces	84.0	22.2	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF346	LILT_VF346	Homo sapiens	colorectal carcinoma	Case	Italy	feces	57.0	43.7	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF362	LILT_VF362	Homo sapiens	Control	Study Control	Italy	feces	43.0	25.7	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+LILT_VF390	LILT_VF390	Homo sapiens	colorectal carcinoma	Case	Italy	feces	57.0	34.7	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+LILT_VF391	LILT_VF391	Homo sapiens	colorectal carcinoma	Case	Italy	feces	88.0	24.7	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF359	VF359	Homo sapiens	Adenoma	Case	Italy	feces	65.0	21.8	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+VF388	VF388	Homo sapiens	Adenoma	Case	Italy	feces	77.0	20.9	Adenoma	Female		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+VF458	VF458	Homo sapiens	Adenoma	Case	Italy	feces	79.0	25.4	Adenoma	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Adenoma
+VF444	VF444	Homo sapiens	colorectal carcinoma	Case	Italy	feces	71.0	35.2	colorectal carcinoma	Female	0	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF446	VF446	Homo sapiens	colorectal carcinoma	Case	Italy	feces	73.0		colorectal carcinoma	Female	0	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF440	VF440	Homo sapiens	colorectal carcinoma	Case	Italy	feces	83.0		colorectal carcinoma	Male	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF453	VF453	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	25.1	colorectal carcinoma	Female	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF445	VF445	Homo sapiens	colorectal carcinoma	Case	Italy	feces	78.0	22.2	colorectal carcinoma	Female	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF449	VF449	Homo sapiens	colorectal carcinoma	Case	Italy	feces	65.0	30.1	colorectal carcinoma	Male	I	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF465	VF465	Homo sapiens	colorectal carcinoma	Case	Italy	feces	74.0	25.4	colorectal carcinoma	Female	I	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF459	VF459	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	32.8	colorectal carcinoma	Male	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF439	VF439	Homo sapiens	colorectal carcinoma	Case	Italy	feces	68.0	25.9	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF450	VF450	Homo sapiens	colorectal carcinoma	Case	Italy	feces	72.0	26.4	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF452	VF452	Homo sapiens	colorectal carcinoma	Case	Italy	feces	83.0	22.4	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF448	VF448	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	21.5	colorectal carcinoma	Female	II	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF463	VF463	Homo sapiens	colorectal carcinoma	Case	Italy	feces	73.0	24.4	colorectal carcinoma	Male	II	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF461	VF461	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	23.2	colorectal carcinoma	Female	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF462	VF462	Homo sapiens	colorectal carcinoma	Case	Italy	feces	56.0	22.9	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF455	VF455	Homo sapiens	colorectal carcinoma	Case	Italy	feces	77.0	37.1	colorectal carcinoma	Male	III	right_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF464	VF464	Homo sapiens	colorectal carcinoma	Case	Italy	feces	81.0		colorectal carcinoma	Male	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF469	VF469	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	28.0	colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF443	VF443	Homo sapiens	colorectal carcinoma	Case	Italy	feces	82.0		colorectal carcinoma	Female	III	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF347	VF347	Homo sapiens	colorectal carcinoma	Case	Italy	feces	51.0	24.5	colorectal carcinoma	Female	IV	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF442	VF442	Homo sapiens	colorectal carcinoma	Case	Italy	feces	86.0	25.1	colorectal carcinoma	Male	CRC_stage_unlabelled	left_sided	This_study_cohort4__ONCOBIOME_IIGM_IT	CRC
+VF274	VF274	Homo sapiens	Control	Study Control	Italy	feces	50.0	23.4	Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control
+VF322	VF322	Homo sapiens	Control	Study Control	Italy	feces	62.0		Control	Male		nd	This_study_cohort4__ONCOBIOME_IIGM_IT	Control

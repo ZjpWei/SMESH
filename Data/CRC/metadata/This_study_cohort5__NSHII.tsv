@@ -1,0 +1,898 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+V000306375	V000306375	Homo sapiens	Adenoma	Case	United States	feces	70.0	20.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000306380	V000306380	Homo sapiens	Adenoma	Case	United States	feces	66.0	29.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000307258	V000307258	Homo sapiens	Adenoma	Case	United States	feces	70.0	27.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000307412	V000307412	Homo sapiens	Control	Study Control	United States	feces	65.0	27.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000307660	V000307660	Homo sapiens	Adenoma	Case	United States	feces	71.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000308769	V000308769	Homo sapiens	Control	Study Control	United States	feces	68.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000308913	V000308913	Homo sapiens	Control	Study Control	United States	feces	66.0	25.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000309007	V000309007	Homo sapiens	Control	Study Control	United States	feces	70.0	21.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000309161	V000309161	Homo sapiens	Control	Study Control	United States	feces	66.0	21.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000309166	V000309166	Homo sapiens	Control	Study Control	United States	feces	66.0	34.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000310617	V000310617	Homo sapiens	Control	Study Control	United States	feces	68.0	24.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000310637	V000310637	Homo sapiens	Adenoma	Case	United States	feces	66.0	28.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000311014	V000311014	Homo sapiens	Adenoma	Case	United States	feces	66.0	21.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000312428	V000312428	Homo sapiens	Adenoma	Case	United States	feces	66.0	28.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000314394	V000314394	Homo sapiens	Control	Study Control	United States	feces	71.0	32.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000314504	V000314504	Homo sapiens	Control	Study Control	United States	feces	69.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000314514	V000314514	Homo sapiens	Adenoma	Case	United States	feces	65.0	42.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000314544	V000314544	Homo sapiens	Control	Study Control	United States	feces	70.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000317593	V000317593	Homo sapiens	Adenoma	Case	United States	feces	71.0	37.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000321201	V000321201	Homo sapiens	Adenoma	Case	United States	feces	70.0	29.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000321296	V000321296	Homo sapiens	Adenoma	Case	United States	feces	57.0	31.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000321336	V000321336	Homo sapiens	Adenoma	Case	United States	feces	62.0	30.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000321351	V000321351	Homo sapiens	Control	Study Control	United States	feces	71.0	19.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000321406	V000321406	Homo sapiens	Control	Study Control	United States	feces	65.0	28.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000321481	V000321481	Homo sapiens	Adenoma	Case	United States	feces	69.0	19.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000323957	V000323957	Homo sapiens	Control	Study Control	United States	feces	71.0	21.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000324002	V000324002	Homo sapiens	Adenoma	Case	United States	feces	65.0	33.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000324062	V000324062	Homo sapiens	Control	Study Control	United States	feces	69.0	24.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000324087	V000324087	Homo sapiens	Control	Study Control	United States	feces	69.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000324137	V000324137	Homo sapiens	Control	Study Control	United States	feces	59.0	20.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000324182	V000324182	Homo sapiens	Control	Study Control	United States	feces	69.0	20.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000325176	V000325176	Homo sapiens	Adenoma	Case	United States	feces	69.0	41.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000325241	V000325241	Homo sapiens	Adenoma	Case	United States	feces	60.0	36.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000325372	V000325372	Homo sapiens	Control	Study Control	United States	feces	62.0	25.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000325377	V000325377	Homo sapiens	Adenoma	Case	United States	feces	64.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000325437	V000325437	Homo sapiens	Control	Study Control	United States	feces	69.0	27.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000325457	V000325457	Homo sapiens	Control	Study Control	United States	feces	67.0	21.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000326862	V000326862	Homo sapiens	Adenoma	Case	United States	feces	71.0	31.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000326912	V000326912	Homo sapiens	Adenoma	Case	United States	feces	69.0	26.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000327783	V000327783	Homo sapiens	Control	Study Control	United States	feces	71.0	24.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000327798	V000327798	Homo sapiens	Adenoma	Case	United States	feces	64.0	19.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000327879	V000327879	Homo sapiens	Control	Study Control	United States	feces	71.0	28.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000327899	V000327899	Homo sapiens	Adenoma	Case	United States	feces	70.0	28.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328528	V000328528	Homo sapiens	Control	Study Control	United States	feces	72.0	34.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000328691	V000328691	Homo sapiens	Adenoma	Case	United States	feces	72.0	31.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328725	V000328725	Homo sapiens	Adenoma	Case	United States	feces	70.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328740	V000328740	Homo sapiens	Control	Study Control	United States	feces	69.0	29.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000328756	V000328756	Homo sapiens	Control	Study Control	United States	feces	62.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000328885	V000328885	Homo sapiens	Adenoma	Case	United States	feces	63.0	22.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328891	V000328891	Homo sapiens	Adenoma	Case	United States	feces	72.0	28.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328896	V000328896	Homo sapiens	Adenoma	Case	United States	feces	62.0	34.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000328900	V000328900	Homo sapiens	Adenoma	Case	United States	feces	67.0	20.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000329791	V000329791	Homo sapiens	Adenoma	Case	United States	feces	67.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000329841	V000329841	Homo sapiens	Control	Study Control	United States	feces	69.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000329852	V000329852	Homo sapiens	Adenoma	Case	United States	feces	69.0	30.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000329866	V000329866	Homo sapiens	Adenoma	Case	United States	feces	69.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000329945	V000329945	Homo sapiens	Control	Study Control	United States	feces	68.0	28.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000329960	V000329960	Homo sapiens	Adenoma	Case	United States	feces	60.0	23.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000329995	V000329995	Homo sapiens	Control	Study Control	United States	feces	64.0	25.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000330060	V000330060	Homo sapiens	Adenoma	Case	United States	feces	67.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000330070	V000330070	Homo sapiens	Adenoma	Case	United States	feces	66.0	27.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000330888	V000330888	Homo sapiens	Control	Study Control	United States	feces	71.0	30.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000330893	V000330893	Homo sapiens	Adenoma	Case	United States	feces	70.0	24.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000332167	V000332167	Homo sapiens	Control	Study Control	United States	feces	67.0	31.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000332223	V000332223	Homo sapiens	Control	Study Control	United States	feces	71.0	28.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000332238	V000332238	Homo sapiens	Adenoma	Case	United States	feces	72.0	29.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000332283	V000332283	Homo sapiens	Adenoma	Case	United States	feces	70.0	32.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000333553	V000333553	Homo sapiens	Control	Study Control	United States	feces	69.0	29.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000333571	V000333571	Homo sapiens	Adenoma	Case	United States	feces	67.0	32.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000334726	V000334726	Homo sapiens	Adenoma	Case	United States	feces	70.0	22.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000334906	V000334906	Homo sapiens	Control	Study Control	United States	feces	70.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000335006	V000335006	Homo sapiens	Adenoma	Case	United States	feces	69.0	31.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000335748	V000335748	Homo sapiens	Adenoma	Case	United States	feces	70.0	21.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000335798	V000335798	Homo sapiens	Adenoma	Case	United States	feces	64.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000335818	V000335818	Homo sapiens	Adenoma	Case	United States	feces	71.0	34.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000335828	V000335828	Homo sapiens	Control	Study Control	United States	feces	68.0	24.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000335958	V000335958	Homo sapiens	Adenoma	Case	United States	feces	68.0	20.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000336291	V000336291	Homo sapiens	Adenoma	Case	United States	feces	66.0	29.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000337922	V000337922	Homo sapiens	Adenoma	Case	United States	feces	71.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000337932	V000337932	Homo sapiens	Control	Study Control	United States	feces	67.0	25.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000337967	V000337967	Homo sapiens	Control	Study Control	United States	feces	68.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000337982	V000337982	Homo sapiens	Control	Study Control	United States	feces	71.0	28.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000338042	V000338042	Homo sapiens	Control	Study Control	United States	feces	63.0	19.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000338132	V000338132	Homo sapiens	Control	Study Control	United States	feces	71.0	23.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000339579	V000339579	Homo sapiens	Adenoma	Case	United States	feces	69.0	31.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000339629	V000339629	Homo sapiens	Control	Study Control	United States	feces	65.0	31.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000339639	V000339639	Homo sapiens	Adenoma	Case	United States	feces	64.0	27.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000341738	V000341738	Homo sapiens	Control	Study Control	United States	feces	64.0	21.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000341783	V000341783	Homo sapiens	Control	Study Control	United States	feces	72.0	19.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000341943	V000341943	Homo sapiens	Adenoma	Case	United States	feces	61.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000341958	V000341958	Homo sapiens	Adenoma	Case	United States	feces	69.0	29.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000341973	V000341973	Homo sapiens	Control	Study Control	United States	feces	65.0	36.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000341988	V000341988	Homo sapiens	Control	Study Control	United States	feces	68.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000342003	V000342003	Homo sapiens	Control	Study Control	United States	feces	70.0	29.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000343220	V000343220	Homo sapiens	Control	Study Control	United States	feces	70.0	26.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000343290	V000343290	Homo sapiens	Adenoma	Case	United States	feces	66.0	17.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000343295	V000343295	Homo sapiens	Control	Study Control	United States	feces	67.0	21.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000343350	V000343350	Homo sapiens	Control	Study Control	United States	feces	64.0	25.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000344016	V000344016	Homo sapiens	Control	Study Control	United States	feces	64.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000344091	V000344091	Homo sapiens	Control	Study Control	United States	feces	59.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000344126	V000344126	Homo sapiens	Control	Study Control	United States	feces	68.0	29.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000344136	V000344136	Homo sapiens	Control	Study Control	United States	feces	67.0	22.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000344171	V000344171	Homo sapiens	Adenoma	Case	United States	feces	63.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000344191	V000344191	Homo sapiens	Adenoma	Case	United States	feces	60.0	34.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000345780	V000345780	Homo sapiens	Adenoma	Case	United States	feces	65.0	30.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000347826	V000347826	Homo sapiens	Control	Study Control	United States	feces	70.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000347866	V000347866	Homo sapiens	Adenoma	Case	United States	feces	64.0	22.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000347921	V000347921	Homo sapiens	Adenoma	Case	United States	feces	68.0	26.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000348141	V000348141	Homo sapiens	Control	Study Control	United States	feces	69.0	29.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000350700	V000350700	Homo sapiens	Adenoma	Case	United States	feces	67.0	20.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000350760	V000350760	Homo sapiens	Adenoma	Case	United States	feces	71.0	23.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000350785	V000350785	Homo sapiens	Adenoma	Case	United States	feces	69.0	29.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000352250	V000352250	Homo sapiens	Adenoma	Case	United States	feces	58.0	36.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000352295	V000352295	Homo sapiens	Adenoma	Case	United States	feces	67.0	34.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000352335	V000352335	Homo sapiens	Adenoma	Case	United States	feces	72.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000352355	V000352355	Homo sapiens	Control	Study Control	United States	feces	64.0	27.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000352385	V000352385	Homo sapiens	Control	Study Control	United States	feces	58.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000352575	V000352575	Homo sapiens	Adenoma	Case	United States	feces	67.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000354088	V000354088	Homo sapiens	Control	Study Control	United States	feces	72.0	24.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000354103	V000354103	Homo sapiens	Adenoma	Case	United States	feces	64.0	29.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000354108	V000354108	Homo sapiens	Adenoma	Case	United States	feces	61.0	28.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000354173	V000354173	Homo sapiens	Adenoma	Case	United States	feces	65.0	52.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000354308	V000354308	Homo sapiens	Adenoma	Case	United States	feces	71.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000356952	V000356952	Homo sapiens	Control	Study Control	United States	feces	65.0	21.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000357032	V000357032	Homo sapiens	Adenoma	Case	United States	feces	67.0	41.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000357067	V000357067	Homo sapiens	Control	Study Control	United States	feces	65.0	25.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000357174	V000357174	Homo sapiens	Adenoma	Case	United States	feces	71.0	24.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000357184	V000357184	Homo sapiens	Adenoma	Case	United States	feces	71.0	29.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000358617	V000358617	Homo sapiens	Control	Study Control	United States	feces	69.0	29.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358642	V000358642	Homo sapiens	Control	Study Control	United States	feces	65.0	23.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358682	V000358682	Homo sapiens	Control	Study Control	United States	feces	62.0	28.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358717	V000358717	Homo sapiens	Control	Study Control	United States	feces	62.0	24.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358737	V000358737	Homo sapiens	Control	Study Control	United States	feces	66.0	21.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358742	V000358742	Homo sapiens	Adenoma	Case	United States	feces	69.0	34.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000358822	V000358822	Homo sapiens	Control	Study Control	United States	feces	71.0	28.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000358877	V000358877	Homo sapiens	Control	Study Control	United States	feces	68.0	23.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000363393	V000363393	Homo sapiens	Adenoma	Case	United States	feces	71.0	26.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000363423	V000363423	Homo sapiens	Control	Study Control	United States	feces	66.0	19.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000363573	V000363573	Homo sapiens	Control	Study Control	United States	feces	64.0	22.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000364858	V000364858	Homo sapiens	Control	Study Control	United States	feces	65.0	19.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000364883	V000364883	Homo sapiens	Control	Study Control	United States	feces	68.0	34.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000364928	V000364928	Homo sapiens	Adenoma	Case	United States	feces	68.0	28.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365098	V000365098	Homo sapiens	Adenoma	Case	United States	feces	65.0	30.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365128	V000365128	Homo sapiens	Control	Study Control	United States	feces	60.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000365461	V000365461	Homo sapiens	Control	Study Control	United States	feces	70.0	28.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000365491	V000365491	Homo sapiens	Control	Study Control	United States	feces	67.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000365526	V000365526	Homo sapiens	Adenoma	Case	United States	feces	63.0	22.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365536	V000365536	Homo sapiens	Adenoma	Case	United States	feces	60.0	24.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365601	V000365601	Homo sapiens	Adenoma	Case	United States	feces	65.0	26.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365666	V000365666	Homo sapiens	Adenoma	Case	United States	feces	70.0	27.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000365671	V000365671	Homo sapiens	Control	Study Control	United States	feces	63.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000367888	V000367888	Homo sapiens	Control	Study Control	United States	feces	63.0	24.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000367893	V000367893	Homo sapiens	Control	Study Control	United States	feces	65.0	22.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000369737	V000369737	Homo sapiens	Control	Study Control	United States	feces	64.0	40.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000369822	V000369822	Homo sapiens	Adenoma	Case	United States	feces	59.0	24.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000369847	V000369847	Homo sapiens	Adenoma	Case	United States	feces	67.0	33.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000369897	V000369897	Homo sapiens	Adenoma	Case	United States	feces	60.0	22.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000369957	V000369957	Homo sapiens	Adenoma	Case	United States	feces	62.0	21.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000370002	V000370002	Homo sapiens	Adenoma	Case	United States	feces	70.0	22.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000370042	V000370042	Homo sapiens	Adenoma	Case	United States	feces	69.0	29.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000372188	V000372188	Homo sapiens	Control	Study Control	United States	feces	65.0	17.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000372203	V000372203	Homo sapiens	Control	Study Control	United States	feces	68.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000372338	V000372338	Homo sapiens	Adenoma	Case	United States	feces	69.0	20.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000372373	V000372373	Homo sapiens	Control	Study Control	United States	feces	70.0	20.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000372677	V000372677	Homo sapiens	Control	Study Control	United States	feces	71.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000372747	V000372747	Homo sapiens	colorectal carcinoma	Case	United States	feces	69.0	25.5	colorectal carcinoma	Female	III	nd	This_study_cohort5__NSHII	CRC
+V000373422	V000373422	Homo sapiens	Control	Study Control	United States	feces	68.0	32.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000373487	V000373487	Homo sapiens	Control	Study Control	United States	feces	63.0	26.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000373522	V000373522	Homo sapiens	Adenoma	Case	United States	feces	70.0	26.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000373527	V000373527	Homo sapiens	Adenoma	Case	United States	feces	66.0	21.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000374369	V000374369	Homo sapiens	Control	Study Control	United States	feces	69.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000374554	V000374554	Homo sapiens	Adenoma	Case	United States	feces	62.0	30.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000374809	V000374809	Homo sapiens	Control	Study Control	United States	feces	64.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000374834	V000374834	Homo sapiens	Control	Study Control	United States	feces	63.0	35.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000376579	V000376579	Homo sapiens	Adenoma	Case	United States	feces	70.0	32.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000376614	V000376614	Homo sapiens	Control	Study Control	United States	feces	57.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000376639	V000376639	Homo sapiens	Control	Study Control	United States	feces	70.0	32.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000376749	V000376749	Homo sapiens	Control	Study Control	United States	feces	64.0	39.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000376849	V000376849	Homo sapiens	Adenoma	Case	United States	feces	58.0	25.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377182	V000377182	Homo sapiens	Control	Study Control	United States	feces	71.0	28.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000377237	V000377237	Homo sapiens	Adenoma	Case	United States	feces	66.0	26.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377257	V000377257	Homo sapiens	Adenoma	Case	United States	feces	69.0	36.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377267	V000377267	Homo sapiens	Control	Study Control	United States	feces	64.0	25.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000377337	V000377337	Homo sapiens	Control	Study Control	United States	feces	62.0	29.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000377347	V000377347	Homo sapiens	Control	Study Control	United States	feces	68.0	19.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000377357	V000377357	Homo sapiens	Control	Study Control	United States	feces	66.0	24.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000377367	V000377367	Homo sapiens	Adenoma	Case	United States	feces	71.0	27.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377397	V000377397	Homo sapiens	Adenoma	Case	United States	feces	62.0	35.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377417	V000377417	Homo sapiens	Adenoma	Case	United States	feces	64.0	26.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377957	V000377957	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377977	V000377977	Homo sapiens	Adenoma	Case	United States	feces	63.0	40.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000377992	V000377992	Homo sapiens	Adenoma	Case	United States	feces	64.0	24.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000378067	V000378067	Homo sapiens	Control	Study Control	United States	feces	71.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000378077	V000378077	Homo sapiens	Control	Study Control	United States	feces	64.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000378117	V000378117	Homo sapiens	Control	Study Control	United States	feces	60.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000378177	V000378177	Homo sapiens	Control	Study Control	United States	feces	63.0	27.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000380446	V000380446	Homo sapiens	Adenoma	Case	United States	feces	68.0	23.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000380501	V000380501	Homo sapiens	Adenoma	Case	United States	feces	65.0	33.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000380651	V000380651	Homo sapiens	Control	Study Control	United States	feces	70.0	28.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000380656	V000380656	Homo sapiens	Adenoma	Case	United States	feces	70.0	36.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000380671	V000380671	Homo sapiens	Control	Study Control	United States	feces	70.0	35.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000380711	V000380711	Homo sapiens	Adenoma	Case	United States	feces	66.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000380786	V000380786	Homo sapiens	Adenoma	Case	United States	feces	71.0	33.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000385611	V000385611	Homo sapiens	Adenoma	Case	United States	feces	71.0	35.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000385616	V000385616	Homo sapiens	Adenoma	Case	United States	feces	68.0	36.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000385776	V000385776	Homo sapiens	Adenoma	Case	United States	feces	68.0	24.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000385791	V000385791	Homo sapiens	Adenoma	Case	United States	feces	62.0	43.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000386152	V000386152	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000386242	V000386242	Homo sapiens	Control	Study Control	United States	feces	67.0	24.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000386272	V000386272	Homo sapiens	Adenoma	Case	United States	feces	67.0	23.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000386387	V000386387	Homo sapiens	Control	Study Control	United States	feces	69.0	19.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000386437	V000386437	Homo sapiens	Control	Study Control	United States	feces	71.0	28.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000386497	V000386497	Homo sapiens	Adenoma	Case	United States	feces	62.0	33.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000386507	V000386507	Homo sapiens	Control	Study Control	United States	feces	69.0	23.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000386512	V000386512	Homo sapiens	Adenoma	Case	United States	feces	65.0	45.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000386572	V000386572	Homo sapiens	Control	Study Control	United States	feces	60.0	18.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387093	V000387093	Homo sapiens	Control	Study Control	United States	feces	66.0	25.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387123	V000387123	Homo sapiens	Adenoma	Case	United States	feces	62.0	32.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000387143	V000387143	Homo sapiens	Adenoma	Case	United States	feces	68.0	32.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000387168	V000387168	Homo sapiens	Adenoma	Case	United States	feces	70.0	36.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000387238	V000387238	Homo sapiens	Control	Study Control	United States	feces	60.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387258	V000387258	Homo sapiens	Control	Study Control	United States	feces	68.0	30.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387308	V000387308	Homo sapiens	Control	Study Control	United States	feces	68.0	22.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387333	V000387333	Homo sapiens	Adenoma	Case	United States	feces	68.0	23.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000387353	V000387353	Homo sapiens	Control	Study Control	United States	feces	71.0	24.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387418	V000387418	Homo sapiens	Control	Study Control	United States	feces	68.0	22.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000387503	V000387503	Homo sapiens	Adenoma	Case	United States	feces	65.0	19.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000387718	V000387718	Homo sapiens	Control	Study Control	United States	feces	63.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388002	V000388002	Homo sapiens	Adenoma	Case	United States	feces	72.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000388287	V000388287	Homo sapiens	Control	Study Control	United States	feces	71.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388674	V000388674	Homo sapiens	Adenoma	Case	United States	feces	68.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000388699	V000388699	Homo sapiens	Control	Study Control	United States	feces	72.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388719	V000388719	Homo sapiens	Control	Study Control	United States	feces	72.0	28.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388774	V000388774	Homo sapiens	Control	Study Control	United States	feces	71.0	20.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388789	V000388789	Homo sapiens	Control	Study Control	United States	feces	61.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388824	V000388824	Homo sapiens	Control	Study Control	United States	feces	68.0	24.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000388864	V000388864	Homo sapiens	Control	Study Control	United States	feces	70.0	39.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389009	V000389009	Homo sapiens	Control	Study Control	United States	feces	63.0	24.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389064	V000389064	Homo sapiens	Control	Study Control	United States	feces	70.0	25.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389069	V000389069	Homo sapiens	Control	Study Control	United States	feces	59.0	25.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389189	V000389189	Homo sapiens	Control	Study Control	United States	feces	62.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389264	V000389264	Homo sapiens	Adenoma	Case	United States	feces	66.0	30.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000389284	V000389284	Homo sapiens	Control	Study Control	United States	feces	72.0	22.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389715	V000389715	Homo sapiens	Control	Study Control	United States	feces	61.0	30.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389725	V000389725	Homo sapiens	Control	Study Control	United States	feces	65.0	36.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000389930	V000389930	Homo sapiens	Adenoma	Case	United States	feces	69.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000390010	V000390010	Homo sapiens	Control	Study Control	United States	feces	70.0	30.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000390130	V000390130	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000390220	V000390220	Homo sapiens	Control	Study Control	United States	feces	67.0	32.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000390230	V000390230	Homo sapiens	Control	Study Control	United States	feces	71.0	18.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000390380	V000390380	Homo sapiens	Adenoma	Case	United States	feces	64.0	27.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000390953	V000390953	Homo sapiens	Control	Study Control	United States	feces	67.0	34.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000391083	V000391083	Homo sapiens	Control	Study Control	United States	feces	62.0	28.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000391133	V000391133	Homo sapiens	Adenoma	Case	United States	feces	65.0	35.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000391183	V000391183	Homo sapiens	Adenoma	Case	United States	feces	56.0	19.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000391203	V000391203	Homo sapiens	colorectal carcinoma	Case	United States	feces	69.0	24.1	colorectal carcinoma	Female	I	nd	This_study_cohort5__NSHII	CRC
+V000391228	V000391228	Homo sapiens	Adenoma	Case	United States	feces	71.0	26.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394188	V000394188	Homo sapiens	Control	Study Control	United States	feces	67.0	22.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000394253	V000394253	Homo sapiens	Adenoma	Case	United States	feces	65.0	23.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394258	V000394258	Homo sapiens	Adenoma	Case	United States	feces	68.0	31.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394268	V000394268	Homo sapiens	Adenoma	Case	United States	feces	60.0	23.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394298	V000394298	Homo sapiens	Adenoma	Case	United States	feces	71.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394328	V000394328	Homo sapiens	Adenoma	Case	United States	feces	72.0	39.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394508	V000394508	Homo sapiens	Adenoma	Case	United States	feces	67.0	30.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394523	V000394523	Homo sapiens	Control	Study Control	United States	feces	67.0	22.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000394608	V000394608	Homo sapiens	Adenoma	Case	United States	feces	64.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394658	V000394658	Homo sapiens	Control	Study Control	United States	feces	68.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000394683	V000394683	Homo sapiens	Control	Study Control	United States	feces	69.0	29.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000394718	V000394718	Homo sapiens	Adenoma	Case	United States	feces	61.0	28.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394723	V000394723	Homo sapiens	Adenoma	Case	United States	feces	66.0	29.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394733	V000394733	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394783	V000394783	Homo sapiens	Adenoma	Case	United States	feces	66.0	20.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000394808	V000394808	Homo sapiens	Control	Study Control	United States	feces	64.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000395264	V000395264	Homo sapiens	Control	Study Control	United States	feces	62.0	46.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000395269	V000395269	Homo sapiens	Adenoma	Case	United States	feces	68.0	26.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000395274	V000395274	Homo sapiens	Control	Study Control	United States	feces	62.0	18.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000395294	V000395294	Homo sapiens	Adenoma	Case	United States	feces	70.0	24.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000395399	V000395399	Homo sapiens	Control	Study Control	United States	feces	62.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000395434	V000395434	Homo sapiens	Control	Study Control	United States	feces	63.0	30.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000395469	V000395469	Homo sapiens	Adenoma	Case	United States	feces	66.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000395509	V000395509	Homo sapiens	Adenoma	Case	United States	feces	61.0	31.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000396079	V000396079	Homo sapiens	Control	Study Control	United States	feces	69.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000396084	V000396084	Homo sapiens	Control	Study Control	United States	feces	68.0	31.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000396204	V000396204	Homo sapiens	Control	Study Control	United States	feces	66.0	29.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000396239	V000396239	Homo sapiens	Adenoma	Case	United States	feces	69.0	22.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000396264	V000396264	Homo sapiens	Adenoma	Case	United States	feces	68.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000396364	V000396364	Homo sapiens	Control	Study Control	United States	feces	67.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000398783	V000398783	Homo sapiens	Adenoma	Case	United States	feces	66.0	31.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000398828	V000398828	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000398943	V000398943	Homo sapiens	Adenoma	Case	United States	feces	68.0	24.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000398958	V000398958	Homo sapiens	Adenoma	Case	United States	feces	71.0	37.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000398998	V000398998	Homo sapiens	Adenoma	Case	United States	feces	67.0	27.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000399013	V000399013	Homo sapiens	Control	Study Control	United States	feces	61.0	37.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000399023	V000399023	Homo sapiens	Control	Study Control	United States	feces	72.0	30.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000399063	V000399063	Homo sapiens	Control	Study Control	United States	feces	62.0	39.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000399068	V000399068	Homo sapiens	Control	Study Control	United States	feces	67.0	26.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000399423	V000399423	Homo sapiens	Control	Study Control	United States	feces	70.0	29.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000400599	V000400599	Homo sapiens	Adenoma	Case	United States	feces	72.0	35.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000400609	V000400609	Homo sapiens	Adenoma	Case	United States	feces	63.0	27.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000400724	V000400724	Homo sapiens	Adenoma	Case	United States	feces	62.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000400739	V000400739	Homo sapiens	Control	Study Control	United States	feces	64.0	33.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000400794	V000400794	Homo sapiens	Adenoma	Case	United States	feces	64.0	39.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000400839	V000400839	Homo sapiens	Control	Study Control	United States	feces	61.0	48.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000400849	V000400849	Homo sapiens	Control	Study Control	United States	feces	72.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000401054	V000401054	Homo sapiens	Adenoma	Case	United States	feces	64.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000401079	V000401079	Homo sapiens	Control	Study Control	United States	feces	66.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000401094	V000401094	Homo sapiens	Adenoma	Case	United States	feces	68.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000401144	V000401144	Homo sapiens	Control	Study Control	United States	feces	64.0	20.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000401209	V000401209	Homo sapiens	Control	Study Control	United States	feces	68.0	31.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000401224	V000401224	Homo sapiens	Adenoma	Case	United States	feces	64.0	38.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000403525	V000403525	Homo sapiens	Control	Study Control	United States	feces	71.0	31.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000403755	V000403755	Homo sapiens	Control	Study Control	United States	feces	62.0	20.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000404220	V000404220	Homo sapiens	Adenoma	Case	United States	feces	62.0	32.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000404245	V000404245	Homo sapiens	Control	Study Control	United States	feces	68.0	31.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000404410	V000404410	Homo sapiens	Control	Study Control	United States	feces	62.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000405892	V000405892	Homo sapiens	Adenoma	Case	United States	feces	69.0	29.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000405897	V000405897	Homo sapiens	Control	Study Control	United States	feces	70.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000405942	V000405942	Homo sapiens	Adenoma	Case	United States	feces	60.0	29.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000405957	V000405957	Homo sapiens	Adenoma	Case	United States	feces	71.0	29.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000406017	V000406017	Homo sapiens	Control	Study Control	United States	feces	66.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000408315	V000408315	Homo sapiens	Adenoma	Case	United States	feces	69.0	23.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000408340	V000408340	Homo sapiens	Adenoma	Case	United States	feces	66.0	24.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000408525	V000408525	Homo sapiens	Adenoma	Case	United States	feces	63.0	30.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000408535	V000408535	Homo sapiens	Adenoma	Case	United States	feces	61.0	24.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000409775	V000409775	Homo sapiens	Adenoma	Case	United States	feces	66.0	33.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000409810	V000409810	Homo sapiens	Adenoma	Case	United States	feces	61.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000409850	V000409850	Homo sapiens	Control	Study Control	United States	feces	65.0	25.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000409970	V000409970	Homo sapiens	Adenoma	Case	United States	feces	71.0	28.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000410040	V000410040	Homo sapiens	Control	Study Control	United States	feces	71.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000411048	V000411048	Homo sapiens	Control	Study Control	United States	feces	71.0	20.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000411093	V000411093	Homo sapiens	Control	Study Control	United States	feces	67.0	19.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000411230	V000411230	Homo sapiens	Adenoma	Case	United States	feces	65.0	24.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000412956	V000412956	Homo sapiens	Adenoma	Case	United States	feces	66.0	36.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000413026	V000413026	Homo sapiens	Control	Study Control	United States	feces	63.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000413051	V000413051	Homo sapiens	Control	Study Control	United States	feces	63.0	47.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000413091	V000413091	Homo sapiens	Adenoma	Case	United States	feces	65.0	23.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000413101	V000413101	Homo sapiens	Control	Study Control	United States	feces	67.0	25.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000414562	V000414562	Homo sapiens	Adenoma	Case	United States	feces	68.0	34.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000414592	V000414592	Homo sapiens	Control	Study Control	United States	feces	67.0	21.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000414647	V000414647	Homo sapiens	Adenoma	Case	United States	feces	69.0	25.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000414662	V000414662	Homo sapiens	Control	Study Control	United States	feces	70.0	24.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000414682	V000414682	Homo sapiens	Adenoma	Case	United States	feces	66.0	22.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000414692	V000414692	Homo sapiens	Adenoma	Case	United States	feces	68.0	27.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000414752	V000414752	Homo sapiens	Control	Study Control	United States	feces	70.0	31.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000415534	V000415534	Homo sapiens	Control	Study Control	United States	feces	68.0	25.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000415569	V000415569	Homo sapiens	Control	Study Control	United States	feces	62.0	26.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000415659	V000415659	Homo sapiens	Adenoma	Case	United States	feces	71.0	22.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000415699	V000415699	Homo sapiens	Control	Study Control	United States	feces	72.0	24.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000416009	V000416009	Homo sapiens	Control	Study Control	United States	feces	63.0	24.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000416049	V000416049	Homo sapiens	Adenoma	Case	United States	feces	62.0	43.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000417392	V000417392	Homo sapiens	Control	Study Control	United States	feces	57.0	26.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000417427	V000417427	Homo sapiens	Control	Study Control	United States	feces	68.0	24.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000418507	V000418507	Homo sapiens	Control	Study Control	United States	feces	59.0	21.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000418532	V000418532	Homo sapiens	Adenoma	Case	United States	feces	61.0	30.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000418562	V000418562	Homo sapiens	Adenoma	Case	United States	feces	71.0	24.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000418592	V000418592	Homo sapiens	Control	Study Control	United States	feces	64.0	24.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000418612	V000418612	Homo sapiens	Adenoma	Case	United States	feces	71.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000418697	V000418697	Homo sapiens	Control	Study Control	United States	feces	68.0	49.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000419875	V000419875	Homo sapiens	Adenoma	Case	United States	feces	70.0	27.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000419880	V000419880	Homo sapiens	Adenoma	Case	United States	feces	55.0	23.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000419975	V000419975	Homo sapiens	Adenoma	Case	United States	feces	66.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000420045	V000420045	Homo sapiens	Adenoma	Case	United States	feces	58.0	31.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000420105	V000420105	Homo sapiens	Adenoma	Case	United States	feces	62.0	23.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000420120	V000420120	Homo sapiens	Control	Study Control	United States	feces	67.0	18.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000420177	V000420177	Homo sapiens	Adenoma	Case	United States	feces	68.0	25.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000420192	V000420192	Homo sapiens	Adenoma	Case	United States	feces	68.0	22.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000420197	V000420197	Homo sapiens	Adenoma	Case	United States	feces	72.0	32.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421267	V000421267	Homo sapiens	Control	Study Control	United States	feces	61.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421337	V000421337	Homo sapiens	Adenoma	Case	United States	feces	59.0	29.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421352	V000421352	Homo sapiens	Control	Study Control	United States	feces	71.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421387	V000421387	Homo sapiens	Adenoma	Case	United States	feces	72.0	24.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421392	V000421392	Homo sapiens	Adenoma	Case	United States	feces	64.0	25.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421412	V000421412	Homo sapiens	Control	Study Control	United States	feces	69.0	24.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421447	V000421447	Homo sapiens	Adenoma	Case	United States	feces	66.0	34.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421462	V000421462	Homo sapiens	Adenoma	Case	United States	feces	63.0	19.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000421527	V000421527	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	30.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort5__NSHII	CRC
+V000421537	V000421537	Homo sapiens	Control	Study Control	United States	feces	64.0	30.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421542	V000421542	Homo sapiens	Control	Study Control	United States	feces	69.0	31.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421547	V000421547	Homo sapiens	colorectal carcinoma	Case	United States	feces	64.0	24.0	colorectal carcinoma	Female	III	nd	This_study_cohort5__NSHII	CRC
+V000421592	V000421592	Homo sapiens	Control	Study Control	United States	feces	58.0	24.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421904	V000421904	Homo sapiens	Control	Study Control	United States	feces	62.0	31.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421909	V000421909	Homo sapiens	Control	Study Control	United States	feces	66.0	23.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000421954	V000421954	Homo sapiens	Adenoma	Case	United States	feces	63.0	27.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000422114	V000422114	Homo sapiens	Control	Study Control	United States	feces	64.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000422124	V000422124	Homo sapiens	Control	Study Control	United States	feces	57.0	23.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000422219	V000422219	Homo sapiens	Control	Study Control	United States	feces	71.0	21.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000422234	V000422234	Homo sapiens	Adenoma	Case	United States	feces	58.0	19.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000422254	V000422254	Homo sapiens	Control	Study Control	United States	feces	59.0	21.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000422279	V000422279	Homo sapiens	Adenoma	Case	United States	feces	59.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000423606	V000423606	Homo sapiens	Control	Study Control	United States	feces	71.0	20.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000423641	V000423641	Homo sapiens	Control	Study Control	United States	feces	60.0	24.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000423736	V000423736	Homo sapiens	Adenoma	Case	United States	feces	70.0	25.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000423816	V000423816	Homo sapiens	Adenoma	Case	United States	feces	62.0	41.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000424775	V000424775	Homo sapiens	Control	Study Control	United States	feces	68.0	20.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000424820	V000424820	Homo sapiens	Control	Study Control	United States	feces	68.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000424915	V000424915	Homo sapiens	Adenoma	Case	United States	feces	55.0	28.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000424945	V000424945	Homo sapiens	Adenoma	Case	United States	feces	72.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000425000	V000425000	Homo sapiens	Control	Study Control	United States	feces	64.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000426197	V000426197	Homo sapiens	Control	Study Control	United States	feces	64.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000426232	V000426232	Homo sapiens	Control	Study Control	United States	feces	69.0	21.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000426282	V000426282	Homo sapiens	Adenoma	Case	United States	feces	57.0	21.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000426342	V000426342	Homo sapiens	Adenoma	Case	United States	feces	67.0	29.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000426352	V000426352	Homo sapiens	Control	Study Control	United States	feces	69.0	22.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000426487	V000426487	Homo sapiens	Adenoma	Case	United States	feces	60.0	33.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000426501	V000426501	Homo sapiens	Adenoma	Case	United States	feces	66.0	30.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000426506	V000426506	Homo sapiens	Adenoma	Case	United States	feces	69.0	25.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000427597	V000427597	Homo sapiens	Adenoma	Case	United States	feces	63.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000427692	V000427692	Homo sapiens	Control	Study Control	United States	feces	55.0	21.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000427727	V000427727	Homo sapiens	Adenoma	Case	United States	feces	62.0	19.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000427822	V000427822	Homo sapiens	Control	Study Control	United States	feces	65.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000427852	V000427852	Homo sapiens	Control	Study Control	United States	feces	72.0	19.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000429292	V000429292	Homo sapiens	Adenoma	Case	United States	feces	65.0	39.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000429322	V000429322	Homo sapiens	Control	Study Control	United States	feces	71.0	24.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000429377	V000429377	Homo sapiens	Control	Study Control	United States	feces	70.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000430493	V000430493	Homo sapiens	Adenoma	Case	United States	feces	67.0	24.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000430598	V000430598	Homo sapiens	Control	Study Control	United States	feces	56.0	24.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000430633	V000430633	Homo sapiens	Control	Study Control	United States	feces	69.0	30.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000430713	V000430713	Homo sapiens	Control	Study Control	United States	feces	63.0	27.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000430763	V000430763	Homo sapiens	Adenoma	Case	United States	feces	71.0	22.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000431826	V000431826	Homo sapiens	Adenoma	Case	United States	feces	62.0	40.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000431841	V000431841	Homo sapiens	Control	Study Control	United States	feces	70.0	28.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000431941	V000431941	Homo sapiens	Control	Study Control	United States	feces	72.0	38.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000431966	V000431966	Homo sapiens	Control	Study Control	United States	feces	67.0	21.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000431986	V000431986	Homo sapiens	Adenoma	Case	United States	feces	71.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000431991	V000431991	Homo sapiens	Control	Study Control	United States	feces	69.0	38.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000432101	V000432101	Homo sapiens	Control	Study Control	United States	feces	61.0	22.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000432906	V000432906	Homo sapiens	Control	Study Control	United States	feces	64.0	18.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000432921	V000432921	Homo sapiens	Control	Study Control	United States	feces	72.0	19.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000432971	V000432971	Homo sapiens	Adenoma	Case	United States	feces	67.0	11.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000433116	V000433116	Homo sapiens	Adenoma	Case	United States	feces	62.0	26.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000433161	V000433161	Homo sapiens	Adenoma	Case	United States	feces	57.0	33.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000434768	V000434768	Homo sapiens	Control	Study Control	United States	feces	68.0	27.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000434843	V000434843	Homo sapiens	Adenoma	Case	United States	feces	62.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000434908	V000434908	Homo sapiens	Control	Study Control	United States	feces	71.0	27.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000434943	V000434943	Homo sapiens	Adenoma	Case	United States	feces	70.0	25.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000434983	V000434983	Homo sapiens	Adenoma	Case	United States	feces	65.0	27.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000435093	V000435093	Homo sapiens	Adenoma	Case	United States	feces	64.0	22.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000436337	V000436337	Homo sapiens	Adenoma	Case	United States	feces	68.0	22.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000436357	V000436357	Homo sapiens	Control	Study Control	United States	feces	71.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000436377	V000436377	Homo sapiens	Control	Study Control	United States	feces	69.0	20.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000436437	V000436437	Homo sapiens	Adenoma	Case	United States	feces	63.0	27.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000436562	V000436562	Homo sapiens	Adenoma	Case	United States	feces	68.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000436599	V000436599	Homo sapiens	Control	Study Control	United States	feces	67.0	22.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000436614	V000436614	Homo sapiens	Adenoma	Case	United States	feces	63.0	26.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000436634	V000436634	Homo sapiens	Control	Study Control	United States	feces	68.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000436639	V000436639	Homo sapiens	Adenoma	Case	United States	feces	68.0	31.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000437136	V000437136	Homo sapiens	Adenoma	Case	United States	feces	66.0	34.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000437281	V000437281	Homo sapiens	Adenoma	Case	United States	feces	67.0	32.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000437336	V000437336	Homo sapiens	Adenoma	Case	United States	feces	58.0	22.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000439843	V000439843	Homo sapiens	Control	Study Control	United States	feces	59.0	29.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440023	V000440023	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000440143	V000440143	Homo sapiens	Control	Study Control	United States	feces	62.0	20.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440148	V000440148	Homo sapiens	Control	Study Control	United States	feces	71.0	20.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440163	V000440163	Homo sapiens	Control	Study Control	United States	feces	69.0	24.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440869	V000440869	Homo sapiens	Control	Study Control	United States	feces	65.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440974	V000440974	Homo sapiens	Control	Study Control	United States	feces	69.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000440979	V000440979	Homo sapiens	Adenoma	Case	United States	feces	71.0	21.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000441014	V000441014	Homo sapiens	Control	Study Control	United States	feces	62.0	22.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000441094	V000441094	Homo sapiens	Control	Study Control	United States	feces	71.0	21.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000441630	V000441630	Homo sapiens	Control	Study Control	United States	feces	55.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000441635	V000441635	Homo sapiens	Adenoma	Case	United States	feces	65.0	41.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000441674	V000441674	Homo sapiens	Adenoma	Case	United States	feces	65.0	33.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000441679	V000441679	Homo sapiens	Control	Study Control	United States	feces	62.0	23.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000442748	V000442748	Homo sapiens	Adenoma	Case	United States	feces	71.0	22.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000442758	V000442758	Homo sapiens	Control	Study Control	United States	feces	63.0	23.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000442933	V000442933	Homo sapiens	Control	Study Control	United States	feces	69.0	46.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000442978	V000442978	Homo sapiens	Adenoma	Case	United States	feces	70.0	32.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000443038	V000443038	Homo sapiens	Adenoma	Case	United States	feces	55.0	25.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000444029	V000444029	Homo sapiens	Adenoma	Case	United States	feces	72.0	35.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000444084	V000444084	Homo sapiens	Control	Study Control	United States	feces	70.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000444449	V000444449	Homo sapiens	Adenoma	Case	United States	feces	60.0	23.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000444464	V000444464	Homo sapiens	Control	Study Control	United States	feces	64.0	45.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000444649	V000444649	Homo sapiens	Adenoma	Case	United States	feces	61.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000446458	V000446458	Homo sapiens	Adenoma	Case	United States	feces	71.0	29.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000446958	V000446958	Homo sapiens	Adenoma	Case	United States	feces	59.0	24.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000447811	V000447811	Homo sapiens	Control	Study Control	United States	feces	69.0	34.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000447851	V000447851	Homo sapiens	Adenoma	Case	United States	feces	68.0	24.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000447881	V000447881	Homo sapiens	Control	Study Control	United States	feces	55.0	24.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000447896	V000447896	Homo sapiens	Control	Study Control	United States	feces	66.0	25.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000447906	V000447906	Homo sapiens	Adenoma	Case	United States	feces	71.0	43.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000448021	V000448021	Homo sapiens	Control	Study Control	United States	feces	68.0	21.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000449483	V000449483	Homo sapiens	Control	Study Control	United States	feces	63.0	22.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000449488	V000449488	Homo sapiens	Adenoma	Case	United States	feces	68.0	31.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000449648	V000449648	Homo sapiens	Adenoma	Case	United States	feces	65.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000449723	V000449723	Homo sapiens	Adenoma	Case	United States	feces	69.0	38.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000449748	V000449748	Homo sapiens	Control	Study Control	United States	feces	67.0	23.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000449818	V000449818	Homo sapiens	Adenoma	Case	United States	feces	70.0	32.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000450350	V000450350	Homo sapiens	Adenoma	Case	United States	feces	70.0	23.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000450660	V000450660	Homo sapiens	Adenoma	Case	United States	feces	67.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000450665	V000450665	Homo sapiens	Control	Study Control	United States	feces	65.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000450670	V000450670	Homo sapiens	Adenoma	Case	United States	feces	65.0	30.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000453310	V000453310	Homo sapiens	Adenoma	Case	United States	feces	58.0	36.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000453325	V000453325	Homo sapiens	Control	Study Control	United States	feces	66.0	27.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000453345	V000453345	Homo sapiens	Adenoma	Case	United States	feces	67.0	37.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000453490	V000453490	Homo sapiens	Control	Study Control	United States	feces	64.0	27.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000453625	V000453625	Homo sapiens	Control	Study Control	United States	feces	67.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000453670	V000453670	Homo sapiens	Adenoma	Case	United States	feces	66.0	25.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000453750	V000453750	Homo sapiens	Adenoma	Case	United States	feces	68.0	27.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000453785	V000453785	Homo sapiens	Adenoma	Case	United States	feces	65.0	24.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000454542	V000454542	Homo sapiens	Control	Study Control	United States	feces	65.0	21.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000454607	V000454607	Homo sapiens	Control	Study Control	United States	feces	59.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000454622	V000454622	Homo sapiens	Adenoma	Case	United States	feces	63.0	25.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000454732	V000454732	Homo sapiens	Control	Study Control	United States	feces	70.0	23.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000454742	V000454742	Homo sapiens	Adenoma	Case	United States	feces	70.0	34.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000454827	V000454827	Homo sapiens	Control	Study Control	United States	feces	69.0	31.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000457678	V000457678	Homo sapiens	Control	Study Control	United States	feces	65.0	27.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000457728	V000457728	Homo sapiens	Control	Study Control	United States	feces	64.0	40.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000457778	V000457778	Homo sapiens	Adenoma	Case	United States	feces	71.0	20.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000457848	V000457848	Homo sapiens	Adenoma	Case	United States	feces	64.0	19.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000457883	V000457883	Homo sapiens	Adenoma	Case	United States	feces	71.0	25.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000457938	V000457938	Homo sapiens	Adenoma	Case	United States	feces	64.0	23.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000458720	V000458720	Homo sapiens	Adenoma	Case	United States	feces	55.0	39.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000458740	V000458740	Homo sapiens	Adenoma	Case	United States	feces	67.0	28.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000458925	V000458925	Homo sapiens	Adenoma	Case	United States	feces	66.0	45.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000459040	V000459040	Homo sapiens	Control	Study Control	United States	feces	70.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000460037	V000460037	Homo sapiens	Control	Study Control	United States	feces	61.0	24.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000460092	V000460092	Homo sapiens	Adenoma	Case	United States	feces	61.0	22.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000460127	V000460127	Homo sapiens	Adenoma	Case	United States	feces	66.0	27.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000460172	V000460172	Homo sapiens	Control	Study Control	United States	feces	66.0	35.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000460217	V000460217	Homo sapiens	Adenoma	Case	United States	feces	71.0	39.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000460412	V000460412	Homo sapiens	Control	Study Control	United States	feces	72.0	27.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000460517	V000460517	Homo sapiens	Control	Study Control	United States	feces	61.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000460557	V000460557	Homo sapiens	Adenoma	Case	United States	feces	63.0	20.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000460707	V000460707	Homo sapiens	Adenoma	Case	United States	feces	56.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462426	V000462426	Homo sapiens	Control	Study Control	United States	feces	59.0	23.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000462451	V000462451	Homo sapiens	Adenoma	Case	United States	feces	61.0	26.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462516	V000462516	Homo sapiens	colorectal carcinoma	Case	United States	feces	72.0	25.5	colorectal carcinoma	Female	I	nd	This_study_cohort5__NSHII	CRC
+V000462587	V000462587	Homo sapiens	Adenoma	Case	United States	feces	55.0	31.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462591	V000462591	Homo sapiens	Control	Study Control	United States	feces	63.0	28.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000462601	V000462601	Homo sapiens	Adenoma	Case	United States	feces	68.0	30.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462616	V000462616	Homo sapiens	Adenoma	Case	United States	feces	67.0	38.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462686	V000462686	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462716	V000462716	Homo sapiens	Adenoma	Case	United States	feces	62.0	22.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462761	V000462761	Homo sapiens	Adenoma	Case	United States	feces	64.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000462781	V000462781	Homo sapiens	Control	Study Control	United States	feces	55.0	26.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000462961	V000462961	Homo sapiens	Control	Study Control	United States	feces	62.0	26.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000462991	V000462991	Homo sapiens	Adenoma	Case	United States	feces	72.0	41.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000463051	V000463051	Homo sapiens	Adenoma	Case	United States	feces	67.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000463827	V000463827	Homo sapiens	Control	Study Control	United States	feces	68.0	22.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000463847	V000463847	Homo sapiens	Adenoma	Case	United States	feces	66.0	24.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000463852	V000463852	Homo sapiens	Control	Study Control	United States	feces	67.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000463967	V000463967	Homo sapiens	Adenoma	Case	United States	feces	71.0	27.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000464032	V000464032	Homo sapiens	Adenoma	Case	United States	feces	66.0	20.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000464042	V000464042	Homo sapiens	Adenoma	Case	United States	feces	69.0	29.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000465257	V000465257	Homo sapiens	Adenoma	Case	United States	feces	70.0	27.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000465317	V000465317	Homo sapiens	Control	Study Control	United States	feces	65.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000465367	V000465367	Homo sapiens	Adenoma	Case	United States	feces	67.0	31.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000466107	V000466107	Homo sapiens	Control	Study Control	United States	feces	64.0	30.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000466132	V000466132	Homo sapiens	Adenoma	Case	United States	feces	58.0	29.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000466187	V000466187	Homo sapiens	Control	Study Control	United States	feces	68.0	31.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000466192	V000466192	Homo sapiens	Control	Study Control	United States	feces	67.0	26.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000466282	V000466282	Homo sapiens	Control	Study Control	United States	feces	71.0	33.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000466345	V000466345	Homo sapiens	Adenoma	Case	United States	feces	61.0	19.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468274	V000468274	Homo sapiens	Adenoma	Case	United States	feces	65.0	29.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468434	V000468434	Homo sapiens	Control	Study Control	United States	feces	68.0	29.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468439	V000468439	Homo sapiens	Control	Study Control	United States	feces	58.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468474	V000468474	Homo sapiens	Control	Study Control	United States	feces	67.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468579	V000468579	Homo sapiens	Adenoma	Case	United States	feces	63.0	25.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468594	V000468594	Homo sapiens	Control	Study Control	United States	feces	70.0	23.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468783	V000468783	Homo sapiens	Adenoma	Case	United States	feces	57.0	28.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468803	V000468803	Homo sapiens	Adenoma	Case	United States	feces	69.0	25.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468818	V000468818	Homo sapiens	Control	Study Control	United States	feces	62.0	30.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468823	V000468823	Homo sapiens	Control	Study Control	United States	feces	66.0	19.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000468903	V000468903	Homo sapiens	Adenoma	Case	United States	feces	71.0	26.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000468923	V000468923	Homo sapiens	Adenoma	Case	United States	feces	61.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000469868	V000469868	Homo sapiens	Adenoma	Case	United States	feces	60.0	29.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000469948	V000469948	Homo sapiens	Adenoma	Case	United States	feces	67.0	26.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000469993	V000469993	Homo sapiens	Adenoma	Case	United States	feces	72.0	20.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000470048	V000470048	Homo sapiens	Control	Study Control	United States	feces	67.0	26.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000471514	V000471514	Homo sapiens	Control	Study Control	United States	feces	64.0	31.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000471559	V000471559	Homo sapiens	Control	Study Control	United States	feces	67.0	23.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000471674	V000471674	Homo sapiens	Control	Study Control	United States	feces	60.0	29.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000471719	V000471719	Homo sapiens	Adenoma	Case	United States	feces	63.0	29.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000473757	V000473757	Homo sapiens	Adenoma	Case	United States	feces	61.0	33.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000473812	V000473812	Homo sapiens	Control	Study Control	United States	feces	72.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000473977	V000473977	Homo sapiens	Adenoma	Case	United States	feces	60.0	22.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000474287	V000474287	Homo sapiens	Control	Study Control	United States	feces	69.0	19.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000474382	V000474382	Homo sapiens	Adenoma	Case	United States	feces	63.0	31.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000474417	V000474417	Homo sapiens	Control	Study Control	United States	feces	69.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000476538	V000476538	Homo sapiens	Adenoma	Case	United States	feces	72.0	24.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000476603	V000476603	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000476638	V000476638	Homo sapiens	Control	Study Control	United States	feces	61.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000476648	V000476648	Homo sapiens	Adenoma	Case	United States	feces	72.0	23.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000476713	V000476713	Homo sapiens	Control	Study Control	United States	feces	57.0	24.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000476763	V000476763	Homo sapiens	Control	Study Control	United States	feces	68.0	25.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000476828	V000476828	Homo sapiens	Adenoma	Case	United States	feces	68.0	30.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000479007	V000479007	Homo sapiens	Control	Study Control	United States	feces	67.0	21.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000479032	V000479032	Homo sapiens	Control	Study Control	United States	feces	60.0	21.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000479057	V000479057	Homo sapiens	Control	Study Control	United States	feces	66.0	24.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000479087	V000479087	Homo sapiens	Adenoma	Case	United States	feces	58.0	23.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000479122	V000479122	Homo sapiens	Control	Study Control	United States	feces	62.0	27.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000479192	V000479192	Homo sapiens	Control	Study Control	United States	feces	66.0	28.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000480023	V000480023	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000480198	V000480198	Homo sapiens	Adenoma	Case	United States	feces	66.0	45.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000480218	V000480218	Homo sapiens	Adenoma	Case	United States	feces	65.0	21.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000480228	V000480228	Homo sapiens	Control	Study Control	United States	feces	61.0	25.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000480288	V000480288	Homo sapiens	Control	Study Control	United States	feces	66.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000480308	V000480308	Homo sapiens	Control	Study Control	United States	feces	72.0	18.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000480323	V000480323	Homo sapiens	Adenoma	Case	United States	feces	62.0	22.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000483112	V000483112	Homo sapiens	Control	Study Control	United States	feces	71.0	20.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483122	V000483122	Homo sapiens	Control	Study Control	United States	feces	63.0	22.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483252	V000483252	Homo sapiens	Control	Study Control	United States	feces	72.0	42.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483287	V000483287	Homo sapiens	Control	Study Control	United States	feces	60.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483317	V000483317	Homo sapiens	Control	Study Control	United States	feces	72.0	19.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483402	V000483402	Homo sapiens	Control	Study Control	United States	feces	63.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000483502	V000483502	Homo sapiens	Adenoma	Case	United States	feces	60.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000486224	V000486224	Homo sapiens	Control	Study Control	United States	feces	68.0	29.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000486239	V000486239	Homo sapiens	Control	Study Control	United States	feces	62.0	29.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000486284	V000486284	Homo sapiens	Control	Study Control	United States	feces	66.0	20.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000487661	V000487661	Homo sapiens	Adenoma	Case	United States	feces	72.0	39.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000487691	V000487691	Homo sapiens	Adenoma	Case	United States	feces	71.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000487726	V000487726	Homo sapiens	Control	Study Control	United States	feces	71.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000487806	V000487806	Homo sapiens	Control	Study Control	United States	feces	62.0	40.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000487861	V000487861	Homo sapiens	Adenoma	Case	United States	feces	62.0	27.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000488795	V000488795	Homo sapiens	Adenoma	Case	United States	feces	66.0	28.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000489040	V000489040	Homo sapiens	Adenoma	Case	United States	feces	68.0	22.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490142	V000490142	Homo sapiens	Adenoma	Case	United States	feces	62.0	23.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490267	V000490267	Homo sapiens	Adenoma	Case	United States	feces	66.0	22.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490322	V000490322	Homo sapiens	Control	Study Control	United States	feces	72.0	23.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000490596	V000490596	Homo sapiens	Control	Study Control	United States	feces	72.0	19.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000490666	V000490666	Homo sapiens	Adenoma	Case	United States	feces	57.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490691	V000490691	Homo sapiens	Adenoma	Case	United States	feces	57.0	27.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490706	V000490706	Homo sapiens	Adenoma	Case	United States	feces	67.0	24.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490711	V000490711	Homo sapiens	Adenoma	Case	United States	feces	63.0	23.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490721	V000490721	Homo sapiens	Control	Study Control	United States	feces	58.0	28.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000490811	V000490811	Homo sapiens	Adenoma	Case	United States	feces	67.0	25.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490826	V000490826	Homo sapiens	Adenoma	Case	United States	feces	65.0	28.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000490846	V000490846	Homo sapiens	Control	Study Control	United States	feces	68.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000492165	V000492165	Homo sapiens	colorectal carcinoma	Case	United States	feces	72.0	20.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort5__NSHII	CRC
+V000492210	V000492210	Homo sapiens	Control	Study Control	United States	feces	57.0	21.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000492285	V000492285	Homo sapiens	Adenoma	Case	United States	feces	62.0	21.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000494369	V000494369	Homo sapiens	Control	Study Control	United States	feces	57.0	25.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000494449	V000494449	Homo sapiens	Control	Study Control	United States	feces	67.0	26.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000494479	V000494479	Homo sapiens	Control	Study Control	United States	feces	67.0	20.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000494539	V000494539	Homo sapiens	Control	Study Control	United States	feces	61.0	29.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000494574	V000494574	Homo sapiens	Control	Study Control	United States	feces	60.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000494579	V000494579	Homo sapiens	Adenoma	Case	United States	feces	68.0	23.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000494594	V000494594	Homo sapiens	Control	Study Control	United States	feces	61.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000495876	V000495876	Homo sapiens	Control	Study Control	United States	feces	63.0	20.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000497736	V000497736	Homo sapiens	Control	Study Control	United States	feces	60.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000497926	V000497926	Homo sapiens	Adenoma	Case	United States	feces	67.0	29.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000497951	V000497951	Homo sapiens	Control	Study Control	United States	feces	64.0	20.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000498021	V000498021	Homo sapiens	Control	Study Control	United States	feces	61.0	30.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000498452	V000498452	Homo sapiens	Adenoma	Case	United States	feces	60.0	19.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000498517	V000498517	Homo sapiens	Control	Study Control	United States	feces	60.0	28.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000498607	V000498607	Homo sapiens	Control	Study Control	United States	feces	70.0	42.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000498962	V000498962	Homo sapiens	Adenoma	Case	United States	feces	59.0	27.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000499974	V000499974	Homo sapiens	Control	Study Control	United States	feces	58.0	22.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000499999	V000499999	Homo sapiens	Control	Study Control	United States	feces	69.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000500024	V000500024	Homo sapiens	Adenoma	Case	United States	feces	68.0	25.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000500049	V000500049	Homo sapiens	Adenoma	Case	United States	feces	62.0	27.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000500059	V000500059	Homo sapiens	Adenoma	Case	United States	feces	70.0	19.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000500199	V000500199	Homo sapiens	Control	Study Control	United States	feces	65.0	44.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000500214	V000500214	Homo sapiens	Control	Study Control	United States	feces	63.0	36.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000501614	V000501614	Homo sapiens	Control	Study Control	United States	feces	72.0	21.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000501654	V000501654	Homo sapiens	Adenoma	Case	United States	feces	70.0	21.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000501729	V000501729	Homo sapiens	Control	Study Control	United States	feces	65.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000501809	V000501809	Homo sapiens	Adenoma	Case	United States	feces	65.0	37.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000501814	V000501814	Homo sapiens	Control	Study Control	United States	feces	57.0	25.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000501949	V000501949	Homo sapiens	Adenoma	Case	United States	feces	64.0	34.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000502912	V000502912	Homo sapiens	Adenoma	Case	United States	feces	60.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000502932	V000502932	Homo sapiens	Control	Study Control	United States	feces	67.0	36.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000502982	V000502982	Homo sapiens	Control	Study Control	United States	feces	71.0	42.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000503052	V000503052	Homo sapiens	Adenoma	Case	United States	feces	60.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000504048	V000504048	Homo sapiens	Adenoma	Case	United States	feces	62.0	26.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000504068	V000504068	Homo sapiens	Control	Study Control	United States	feces	71.0	27.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000504188	V000504188	Homo sapiens	Control	Study Control	United States	feces	61.0	30.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000504208	V000504208	Homo sapiens	Control	Study Control	United States	feces	60.0	40.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000504223	V000504223	Homo sapiens	Control	Study Control	United States	feces	59.0	21.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000504288	V000504288	Homo sapiens	Adenoma	Case	United States	feces	66.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000504298	V000504298	Homo sapiens	Adenoma	Case	United States	feces	60.0	38.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000506999	V000506999	Homo sapiens	Adenoma	Case	United States	feces	67.0	28.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000507009	V000507009	Homo sapiens	Control	Study Control	United States	feces	66.0	30.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000507084	V000507084	Homo sapiens	Control	Study Control	United States	feces	71.0	28.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000507109	V000507109	Homo sapiens	Control	Study Control	United States	feces	68.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000507189	V000507189	Homo sapiens	Adenoma	Case	United States	feces	67.0	29.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000507239	V000507239	Homo sapiens	Control	Study Control	United States	feces	61.0	23.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000507274	V000507274	Homo sapiens	Control	Study Control	United States	feces	62.0	34.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000507304	V000507304	Homo sapiens	colorectal carcinoma	Case	United States	feces	67.0	26.2	colorectal carcinoma	Female	II	nd	This_study_cohort5__NSHII	CRC
+V000507324	V000507324	Homo sapiens	Control	Study Control	United States	feces	60.0	20.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000508040	V000508040	Homo sapiens	Control	Study Control	United States	feces	59.0	31.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000508245	V000508245	Homo sapiens	Adenoma	Case	United States	feces	64.0	28.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509224	V000509224	Homo sapiens	Adenoma	Case	United States	feces	56.0	20.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509314	V000509314	Homo sapiens	Adenoma	Case	United States	feces	67.0	33.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509324	V000509324	Homo sapiens	Adenoma	Case	United States	feces	68.0	34.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509354	V000509354	Homo sapiens	Adenoma	Case	United States	feces	60.0	24.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509359	V000509359	Homo sapiens	Control	Study Control	United States	feces	67.0	37.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000509404	V000509404	Homo sapiens	Control	Study Control	United States	feces	72.0	20.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000509617	V000509617	Homo sapiens	Control	Study Control	United States	feces	66.0	35.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000509647	V000509647	Homo sapiens	Adenoma	Case	United States	feces	61.0	43.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000509747	V000509747	Homo sapiens	Control	Study Control	United States	feces	68.0	28.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000509852	V000509852	Homo sapiens	Adenoma	Case	United States	feces	60.0	24.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000511367	V000511367	Homo sapiens	Control	Study Control	United States	feces	67.0	32.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000511502	V000511502	Homo sapiens	Adenoma	Case	United States	feces	62.0	28.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000511537	V000511537	Homo sapiens	Adenoma	Case	United States	feces	69.0	34.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000513211	V000513211	Homo sapiens	Control	Study Control	United States	feces	71.0	26.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000513266	V000513266	Homo sapiens	Control	Study Control	United States	feces	65.0	21.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000513301	V000513301	Homo sapiens	Control	Study Control	United States	feces	63.0	28.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000513336	V000513336	Homo sapiens	Control	Study Control	United States	feces	66.0		Control	Female		nd	This_study_cohort5__NSHII	Control
+V000513396	V000513396	Homo sapiens	Adenoma	Case	United States	feces	57.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000513436	V000513436	Homo sapiens	Adenoma	Case	United States	feces	65.0	27.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000513441	V000513441	Homo sapiens	Adenoma	Case	United States	feces	71.0	24.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000513937	V000513937	Homo sapiens	colorectal carcinoma	Case	United States	feces	59.0	21.0	colorectal carcinoma	Female	I	nd	This_study_cohort5__NSHII	CRC
+V000513952	V000513952	Homo sapiens	Control	Study Control	United States	feces	65.0	29.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000513962	V000513962	Homo sapiens	Control	Study Control	United States	feces	60.0	20.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000514067	V000514067	Homo sapiens	Adenoma	Case	United States	feces	61.0	22.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000514102	V000514102	Homo sapiens	Control	Study Control	United States	feces	63.0	36.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000514177	V000514177	Homo sapiens	Control	Study Control	United States	feces	69.0	30.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000514795	V000514795	Homo sapiens	Adenoma	Case	United States	feces	63.0	25.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000514930	V000514930	Homo sapiens	Control	Study Control	United States	feces	60.0	22.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000515910	V000515910	Homo sapiens	Control	Study Control	United States	feces	63.0	21.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000515930	V000515930	Homo sapiens	Adenoma	Case	United States	feces	59.0	26.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000515940	V000515940	Homo sapiens	Adenoma	Case	United States	feces	64.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000515970	V000515970	Homo sapiens	Adenoma	Case	United States	feces	58.0	22.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000515985	V000515985	Homo sapiens	Control	Study Control	United States	feces	67.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000516155	V000516155	Homo sapiens	Control	Study Control	United States	feces	58.0	27.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000516190	V000516190	Homo sapiens	Control	Study Control	United States	feces	58.0	25.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000516200	V000516200	Homo sapiens	Adenoma	Case	United States	feces	65.0	35.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000517607	V000517607	Homo sapiens	Control	Study Control	United States	feces	65.0	20.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000517677	V000517677	Homo sapiens	Control	Study Control	United States	feces	61.0	23.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000517682	V000517682	Homo sapiens	Adenoma	Case	United States	feces	72.0	29.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000517692	V000517692	Homo sapiens	colorectal carcinoma	Case	United States	feces	60.0	20.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort5__NSHII	CRC
+V000517697	V000517697	Homo sapiens	Control	Study Control	United States	feces	64.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000518320	V000518320	Homo sapiens	Control	Study Control	United States	feces	64.0	26.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000518501	V000518501	Homo sapiens	Control	Study Control	United States	feces	56.0	19.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000519169	V000519169	Homo sapiens	Control	Study Control	United States	feces	71.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000519234	V000519234	Homo sapiens	Control	Study Control	United States	feces	59.0	42.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000520072	V000520072	Homo sapiens	Adenoma	Case	United States	feces	61.0	23.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000520082	V000520082	Homo sapiens	Adenoma	Case	United States	feces	71.0	24.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000520132	V000520132	Homo sapiens	Control	Study Control	United States	feces	69.0	24.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000520142	V000520142	Homo sapiens	Control	Study Control	United States	feces	63.0	25.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000520202	V000520202	Homo sapiens	Adenoma	Case	United States	feces	72.0	26.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000520292	V000520292	Homo sapiens	Control	Study Control	United States	feces	67.0	19.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000521074	V000521074	Homo sapiens	Control	Study Control	United States	feces	66.0	26.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000521079	V000521079	Homo sapiens	Adenoma	Case	United States	feces	65.0	22.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521084	V000521084	Homo sapiens	Control	Study Control	United States	feces	62.0	23.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000521094	V000521094	Homo sapiens	Adenoma	Case	United States	feces	70.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521234	V000521234	Homo sapiens	Adenoma	Case	United States	feces	68.0	34.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521269	V000521269	Homo sapiens	Adenoma	Case	United States	feces	72.0	22.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521932	V000521932	Homo sapiens	Adenoma	Case	United States	feces	58.0	30.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521972	V000521972	Homo sapiens	Adenoma	Case	United States	feces	67.0	34.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521977	V000521977	Homo sapiens	Adenoma	Case	United States	feces	69.0	36.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521987	V000521987	Homo sapiens	Adenoma	Case	United States	feces	62.0	24.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000521992	V000521992	Homo sapiens	Control	Study Control	United States	feces	58.0	31.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000522012	V000522012	Homo sapiens	Control	Study Control	United States	feces	66.0	19.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000522117	V000522117	Homo sapiens	Adenoma	Case	United States	feces	70.0	38.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000522147	V000522147	Homo sapiens	Control	Study Control	United States	feces	71.0	24.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000522177	V000522177	Homo sapiens	Control	Study Control	United States	feces	57.0	29.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000522217	V000522217	Homo sapiens	Adenoma	Case	United States	feces	63.0	21.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000522242	V000522242	Homo sapiens	Adenoma	Case	United States	feces	63.0	35.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000524337	V000524337	Homo sapiens	Adenoma	Case	United States	feces	64.0	27.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000524367	V000524367	Homo sapiens	Control	Study Control	United States	feces	71.0	36.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000524452	V000524452	Homo sapiens	Control	Study Control	United States	feces	63.0	35.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000525818	V000525818	Homo sapiens	Control	Study Control	United States	feces	64.0	31.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000525908	V000525908	Homo sapiens	Adenoma	Case	United States	feces	62.0	35.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000525973	V000525973	Homo sapiens	Control	Study Control	United States	feces	59.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000525993	V000525993	Homo sapiens	Adenoma	Case	United States	feces	63.0	22.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000525998	V000525998	Homo sapiens	Control	Study Control	United States	feces	68.0	36.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000526008	V000526008	Homo sapiens	Control	Study Control	United States	feces	62.0	22.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000526023	V000526023	Homo sapiens	Control	Study Control	United States	feces	62.0	32.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000526053	V000526053	Homo sapiens	Adenoma	Case	United States	feces	61.0	31.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000526058	V000526058	Homo sapiens	Adenoma	Case	United States	feces	64.0	29.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000526248	V000526248	Homo sapiens	Adenoma	Case	United States	feces	68.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000526313	V000526313	Homo sapiens	Control	Study Control	United States	feces	70.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000528173	V000528173	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000528263	V000528263	Homo sapiens	Control	Study Control	United States	feces	61.0	39.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000528338	V000528338	Homo sapiens	Adenoma	Case	United States	feces	61.0	32.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000529439	V000529439	Homo sapiens	Adenoma	Case	United States	feces	60.0	35.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000531394	V000531394	Homo sapiens	Adenoma	Case	United States	feces	68.0	18.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000531469	V000531469	Homo sapiens	Adenoma	Case	United States	feces	63.0	23.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000531509	V000531509	Homo sapiens	Control	Study Control	United States	feces	67.0	24.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000533113	V000533113	Homo sapiens	Adenoma	Case	United States	feces	63.0	33.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533178	V000533178	Homo sapiens	Adenoma	Case	United States	feces	62.0	31.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533248	V000533248	Homo sapiens	Control	Study Control	United States	feces	65.0	27.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000533258	V000533258	Homo sapiens	Adenoma	Case	United States	feces	65.0	26.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533328	V000533328	Homo sapiens	Control	Study Control	United States	feces	67.0	36.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000533378	V000533378	Homo sapiens	Adenoma	Case	United States	feces	69.0	45.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533393	V000533393	Homo sapiens	Adenoma	Case	United States	feces	72.0	31.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533413	V000533413	Homo sapiens	Adenoma	Case	United States	feces	57.0	21.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533549	V000533549	Homo sapiens	Adenoma	Case	United States	feces	64.0	32.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000533740	V000533740	Homo sapiens	Adenoma	Case	United States	feces	67.0	19.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000534924	V000534924	Homo sapiens	colorectal carcinoma	Case	United States	feces	63.0	24.6	colorectal carcinoma	Female	II	nd	This_study_cohort5__NSHII	CRC
+V000536537	V000536537	Homo sapiens	Control	Study Control	United States	feces	69.0	33.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000536597	V000536597	Homo sapiens	Adenoma	Case	United States	feces	59.0	24.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000536742	V000536742	Homo sapiens	Adenoma	Case	United States	feces	69.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000537892	V000537892	Homo sapiens	Control	Study Control	United States	feces	66.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000538002	V000538002	Homo sapiens	Control	Study Control	United States	feces	67.0	32.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000538027	V000538027	Homo sapiens	Adenoma	Case	United States	feces	57.0	20.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000538057	V000538057	Homo sapiens	Adenoma	Case	United States	feces	61.0	26.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000538112	V000538112	Homo sapiens	Control	Study Control	United States	feces	57.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000538167	V000538167	Homo sapiens	Control	Study Control	United States	feces	73.0	20.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000538187	V000538187	Homo sapiens	Control	Study Control	United States	feces	62.0	31.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539674	V000539674	Homo sapiens	Adenoma	Case	United States	feces	67.0	27.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000539719	V000539719	Homo sapiens	Control	Study Control	United States	feces	65.0	30.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539729	V000539729	Homo sapiens	Control	Study Control	United States	feces	58.0	19.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539734	V000539734	Homo sapiens	Control	Study Control	United States	feces	68.0	30.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539839	V000539839	Homo sapiens	Adenoma	Case	United States	feces	66.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000539854	V000539854	Homo sapiens	Control	Study Control	United States	feces	68.0	29.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539949	V000539949	Homo sapiens	Control	Study Control	United States	feces	61.0	25.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000539954	V000539954	Homo sapiens	Adenoma	Case	United States	feces	66.0	31.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000539989	V000539989	Homo sapiens	Control	Study Control	United States	feces	57.0	23.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000540109	V000540109	Homo sapiens	Control	Study Control	United States	feces	64.0	26.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000540169	V000540169	Homo sapiens	Control	Study Control	United States	feces	65.0	20.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000540209	V000540209	Homo sapiens	Adenoma	Case	United States	feces	68.0	21.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000540224	V000540224	Homo sapiens	Control	Study Control	United States	feces	66.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000540244	V000540244	Homo sapiens	Control	Study Control	United States	feces	65.0	26.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000542032	V000542032	Homo sapiens	Adenoma	Case	United States	feces	59.0	21.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000542092	V000542092	Homo sapiens	Control	Study Control	United States	feces	68.0	35.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000542107	V000542107	Homo sapiens	Adenoma	Case	United States	feces	62.0	21.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000542137	V000542137	Homo sapiens	Adenoma	Case	United States	feces	63.0	27.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000542207	V000542207	Homo sapiens	Adenoma	Case	United States	feces	63.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000542287	V000542287	Homo sapiens	Adenoma	Case	United States	feces	71.0	46.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000543435	V000543435	Homo sapiens	Adenoma	Case	United States	feces	67.0	36.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000543445	V000543445	Homo sapiens	Control	Study Control	United States	feces	67.0	36.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000543615	V000543615	Homo sapiens	Adenoma	Case	United States	feces	73.0	28.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000543650	V000543650	Homo sapiens	Adenoma	Case	United States	feces	67.0	34.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000543655	V000543655	Homo sapiens	Adenoma	Case	United States	feces	66.0	25.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000543845	V000543845	Homo sapiens	Control	Study Control	United States	feces	72.0	28.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000543885	V000543885	Homo sapiens	Control	Study Control	United States	feces	71.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000546032	V000546032	Homo sapiens	Adenoma	Case	United States	feces	71.0	29.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000546137	V000546137	Homo sapiens	Adenoma	Case	United States	feces	66.0	23.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000546142	V000546142	Homo sapiens	Adenoma	Case	United States	feces	57.0	21.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000546204	V000546204	Homo sapiens	Control	Study Control	United States	feces	69.0	30.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000546318	V000546318	Homo sapiens	Adenoma	Case	United States	feces	72.0	26.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000546388	V000546388	Homo sapiens	Adenoma	Case	United States	feces	68.0	33.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000546393	V000546393	Homo sapiens	Control	Study Control	United States	feces	59.0	23.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000546443	V000546443	Homo sapiens	Control	Study Control	United States	feces	64.0	25.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000546498	V000546498	Homo sapiens	Control	Study Control	United States	feces	68.0	25.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000546513	V000546513	Homo sapiens	colorectal carcinoma	Case	United States	feces	70.0	39.1	colorectal carcinoma	Female	III	nd	This_study_cohort5__NSHII	CRC
+V000546528	V000546528	Homo sapiens	Control	Study Control	United States	feces	64.0	26.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549031	V000549031	Homo sapiens	Control	Study Control	United States	feces	72.0	34.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549046	V000549046	Homo sapiens	Adenoma	Case	United States	feces	71.0	32.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000549051	V000549051	Homo sapiens	Control	Study Control	United States	feces	66.0	22.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549236	V000549236	Homo sapiens	Control	Study Control	United States	feces	59.0	27.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549441	V000549441	Homo sapiens	Control	Study Control	United States	feces	64.0	23.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549476	V000549476	Homo sapiens	Control	Study Control	United States	feces	69.0	36.2	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549516	V000549516	Homo sapiens	Adenoma	Case	United States	feces	70.0	21.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000549541	V000549541	Homo sapiens	Adenoma	Case	United States	feces	68.0	19.7	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000549601	V000549601	Homo sapiens	Control	Study Control	United States	feces	68.0	30.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000549621	V000549621	Homo sapiens	Adenoma	Case	United States	feces	63.0	22.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000552023	V000552023	Homo sapiens	Control	Study Control	United States	feces	68.0	28.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552098	V000552098	Homo sapiens	colorectal carcinoma	Case	United States	feces	67.0	30.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort5__NSHII	CRC
+V000552108	V000552108	Homo sapiens	Control	Study Control	United States	feces	71.0	32.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552123	V000552123	Homo sapiens	Control	Study Control	United States	feces	72.0	19.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552203	V000552203	Homo sapiens	Control	Study Control	United States	feces	66.0	21.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552386	V000552386	Homo sapiens	Control	Study Control	United States	feces	59.0	27.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552446	V000552446	Homo sapiens	Adenoma	Case	United States	feces	63.0	21.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000552456	V000552456	Homo sapiens	Control	Study Control	United States	feces	64.0	19.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000552561	V000552561	Homo sapiens	colorectal carcinoma	Case	United States	feces	72.0	24.3	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	This_study_cohort5__NSHII	CRC
+V000552576	V000552576	Homo sapiens	Adenoma	Case	United States	feces	70.0	24.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000552606	V000552606	Homo sapiens	Control	Study Control	United States	feces	71.0	27.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554185	V000554185	Homo sapiens	Control	Study Control	United States	feces	64.0	18.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554200	V000554200	Homo sapiens	Adenoma	Case	United States	feces	69.0	28.3	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554315	V000554315	Homo sapiens	Adenoma	Case	United States	feces	64.0	23.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554325	V000554325	Homo sapiens	Control	Study Control	United States	feces	67.0	23.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554405	V000554405	Homo sapiens	Adenoma	Case	United States	feces	66.0	23.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554490	V000554490	Homo sapiens	Adenoma	Case	United States	feces	65.0	19.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554505	V000554505	Homo sapiens	Adenoma	Case	United States	feces	68.0	27.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554555	V000554555	Homo sapiens	Adenoma	Case	United States	feces	64.0	33.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554595	V000554595	Homo sapiens	Control	Study Control	United States	feces	69.0	20.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554610	V000554610	Homo sapiens	Adenoma	Case	United States	feces	72.0	21.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554675	V000554675	Homo sapiens	Control	Study Control	United States	feces	67.0	22.7	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554745	V000554745	Homo sapiens	Adenoma	Case	United States	feces	61.0	25.8	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000554780	V000554780	Homo sapiens	Control	Study Control	United States	feces	71.0	18.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000554860	V000554860	Homo sapiens	Control	Study Control	United States	feces	70.0	23.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556006	V000556006	Homo sapiens	Control	Study Control	United States	feces	66.0	26.8	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556021	V000556021	Homo sapiens	colorectal carcinoma	Case	United States	feces	67.0	25.4	colorectal carcinoma	Female	I	nd	This_study_cohort5__NSHII	CRC
+V000556051	V000556051	Homo sapiens	Adenoma	Case	United States	feces	66.0	23.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556076	V000556076	Homo sapiens	Control	Study Control	United States	feces	58.0	27.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556086	V000556086	Homo sapiens	Adenoma	Case	United States	feces	71.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556096	V000556096	Homo sapiens	Adenoma	Case	United States	feces	68.0	30.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556121	V000556121	Homo sapiens	Adenoma	Case	United States	feces	62.0	26.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556181	V000556181	Homo sapiens	Adenoma	Case	United States	feces	63.0	24.5	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556226	V000556226	Homo sapiens	Control	Study Control	United States	feces	72.0	29.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556301	V000556301	Homo sapiens	Adenoma	Case	United States	feces	64.0	25.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000556366	V000556366	Homo sapiens	Control	Study Control	United States	feces	63.0	25.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556401	V000556401	Homo sapiens	Control	Study Control	United States	feces	62.0	26.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000556636	V000556636	Homo sapiens	Control	Study Control	United States	feces	68.0	22.5	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000558437	V000558437	Homo sapiens	Control	Study Control	United States	feces	66.0	29.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000558607	V000558607	Homo sapiens	Adenoma	Case	United States	feces	70.0	25.6	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000558617	V000558617	Homo sapiens	Adenoma	Case	United States	feces	68.0	30.1	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000558647	V000558647	Homo sapiens	Control	Study Control	United States	feces	71.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000558712	V000558712	Homo sapiens	Control	Study Control	United States	feces	71.0	25.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000558752	V000558752	Homo sapiens	Control	Study Control	United States	feces	66.0	21.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000558852	V000558852	Homo sapiens	Control	Study Control	United States	feces	70.0	28.1	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000571618	V000571618	Homo sapiens	Control	Study Control	United States	feces	64.0	19.6	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000571734	V000571734	Homo sapiens	Adenoma	Case	United States	feces	71.0	37.4	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000572050	V000572050	Homo sapiens	Adenoma	Case	United States	feces	70.0	21.9	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000572062	V000572062	Homo sapiens	Control	Study Control	United States	feces	67.0	24.9	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000572171	V000572171	Homo sapiens	Adenoma	Case	United States	feces	64.0	28.2	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000578347	V000578347	Homo sapiens	Control	Study Control	United States	feces	62.0	19.0	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000578376	V000578376	Homo sapiens	Control	Study Control	United States	feces	63.0	27.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000578389	V000578389	Homo sapiens	Adenoma	Case	United States	feces	57.0	25.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000599503	V000599503	Homo sapiens	Adenoma	Case	United States	feces	70.0	29.0	Adenoma	Female		nd	This_study_cohort5__NSHII	Adenoma
+V000600350	V000600350	Homo sapiens	Control	Study Control	United States	feces	63.0	24.4	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000600355	V000600355	Homo sapiens	Control	Study Control	United States	feces	66.0	22.3	Control	Female		nd	This_study_cohort5__NSHII	Control
+V000600425	V000600425	Homo sapiens	Control	Study Control	United States	feces	59.0	22.0	Control	Female		nd	This_study_cohort5__NSHII	Control

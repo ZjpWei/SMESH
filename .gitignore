@@ -1,0 +1,36 @@
+# ---- R session state --------------------------------------------------------
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user
+
+# ---- OS and editor junk -----------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Office lock files (~$Report.pptx and friends)
+~$*
+
+# ---- local tooling ----------------------------------------------------------
+.claude/
+.vscode/
+.idea/
+
+# ---- not part of the release ------------------------------------------------
+# Old analyses and scratch space.  Kept out of the repository deliberately.
+Backup/
+tmp_file/
+
+# =============================================================================
+#  NOTE: *.tar.gz is deliberately NOT ignored.
+#
+#  GMrepo_analysis/GMrepo_loso.tar.gz, HGMT_analysis/HGMT_loso.tar.gz,
+#  CRC_analysis/CRC_loso.tar.gz and Simulation/Sim_CRC_stage{1,2}.tar.gz are
+#  the archived model fits and simulation replicates, and they are meant to be
+#  tracked.  Do not add a blanket archive rule here.
+# =============================================================================

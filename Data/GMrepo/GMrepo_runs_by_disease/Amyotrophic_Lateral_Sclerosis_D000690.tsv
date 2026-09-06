@@ -1,0 +1,51 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJEB32767	ERR3348897	D000690	Amyotrophic Lateral Sclerosis				ERS3487119	SAMEA5683130	Metagenomics	NextSeq 500	48344320.0	ALS_1640						wgs_ALS_1640								N					1.0
+PRJEB32767	ERR3348904	D000690	Amyotrophic Lateral Sclerosis				ERS3487126	SAMEA5683137	Metagenomics	NextSeq 500	39696719.0	ALS_1731						wgs_ALS_1731								N					1.0
+PRJEB32767	ERR3348905	D000690	Amyotrophic Lateral Sclerosis				ERS3487127	SAMEA5683138	Metagenomics	NextSeq 500	38452578.0	ALS_1739						wgs_ALS_1739								N					1.0
+PRJEB32767	ERR3348899	D000690	Amyotrophic Lateral Sclerosis				ERS3487121	SAMEA5683132	Metagenomics	NextSeq 500	33729207.0	ALS_1659						wgs_ALS_1659								N					1.0
+PRJEB32767	ERR3348914	D000690	Amyotrophic Lateral Sclerosis				ERS3487136	SAMEA5683147	Metagenomics	NextSeq 500	29636057.0	ALS_1799						wgs_ALS_1799								N					1.0
+PRJEB32767	ERR3348912	D000690	Amyotrophic Lateral Sclerosis				ERS3487134	SAMEA5683145	Metagenomics	NextSeq 500	29478785.0	ALS_1787						wgs_ALS_1787								N					1.0
+PRJEB32767	ERR3348895	D000690	Amyotrophic Lateral Sclerosis				ERS3487117	SAMEA5683128	Metagenomics	NextSeq 500	29189844.0	ALS_1447						wgs_ALS_1447								N					1.0
+PRJEB32767	ERR3348908	D000690	Amyotrophic Lateral Sclerosis				ERS3487130	SAMEA5683141	Metagenomics	NextSeq 500	26609724.0	ALS_1764						wgs_ALS_1764								N					1.0
+PRJEB32767	ERR3348911	D000690	Amyotrophic Lateral Sclerosis				ERS3487133	SAMEA5683144	Metagenomics	NextSeq 500	23648125.0	ALS_1784						wgs_ALS_1784								N					1.0
+PRJEB32767	ERR3348896	D000690	Amyotrophic Lateral Sclerosis				ERS3487118	SAMEA5683129	Metagenomics	NextSeq 500	20748656.0	ALS_1633						wgs_ALS_1633								N					1.0
+PRJEB32767	ERR3348917	D000690	Amyotrophic Lateral Sclerosis				ERS3487139	SAMEA5683150	Metagenomics	NextSeq 500	19709278.0	ALS_1841						wgs_ALS_1841								N					1.0
+PRJEB32767	ERR3348894	D000690	Amyotrophic Lateral Sclerosis				ERS3487116	SAMEA5683127	Metagenomics	NextSeq 500	18539060.0	ALS_1111						wgs_ALS_1111								N					1.0
+PRJEB32767	ERR3348901	D000690	Amyotrophic Lateral Sclerosis				ERS3487123	SAMEA5683134	Metagenomics	NextSeq 500	17851468.0	ALS_1680						wgs_ALS_1680								N					1.0
+PRJEB32767	ERR3348902	D000690	Amyotrophic Lateral Sclerosis				ERS3487124	SAMEA5683135	Metagenomics	NextSeq 500	14828065.0	ALS_1717						wgs_ALS_1717								N					1.0
+PRJEB32767	ERR3348919	D000690	Amyotrophic Lateral Sclerosis				ERS3487141	SAMEA5683152	Metagenomics	NextSeq 500	14321586.0	ALS_1869						wgs_ALS_1869								N					1.0
+PRJEB32767	ERR3348906	D000690	Amyotrophic Lateral Sclerosis				ERS3487128	SAMEA5683139	Metagenomics	NextSeq 500	14090539.0	ALS_1745						wgs_ALS_1745								N					1.0
+PRJEB32767	ERR3348900	D000690	Amyotrophic Lateral Sclerosis				ERS3487122	SAMEA5683133	Metagenomics	NextSeq 500	13992596.0	ALS_1671						wgs_ALS_1671								N					1.0
+PRJEB32767	ERR3348918	D000690	Amyotrophic Lateral Sclerosis				ERS3487140	SAMEA5683151	Metagenomics	NextSeq 500	13740842.0	ALS_1851						wgs_ALS_1851								N					1.0
+PRJEB32767	ERR3348913	D000690	Amyotrophic Lateral Sclerosis				ERS3487135	SAMEA5683146	Metagenomics	NextSeq 500	13731781.0	ALS_1798						wgs_ALS_1798								N					1.0
+PRJEB32767	ERR3348925	D000690	Amyotrophic Lateral Sclerosis				ERS3487147	SAMEA5683158	Metagenomics	NextSeq 500	13686500.0	ALS_747						wgs_ALS_747								N					1.0
+PRJEB32767	ERR3348898	D000690	Amyotrophic Lateral Sclerosis				ERS3487120	SAMEA5683131	Metagenomics	NextSeq 500	12689826.0	ALS_1641						wgs_ALS_1641								N					1.0
+PRJEB32767	ERR3348903	D000690	Amyotrophic Lateral Sclerosis				ERS3487125	SAMEA5683136	Metagenomics	NextSeq 500	12638650.0	ALS_1730						wgs_ALS_1730								N					1.0
+PRJEB32767	ERR3348909	D000690	Amyotrophic Lateral Sclerosis				ERS3487131	SAMEA5683142	Metagenomics	NextSeq 500	12559537.0	ALS_1779						wgs_ALS_1779								N					1.0
+PRJEB32767	ERR3348957	D000690	Amyotrophic Lateral Sclerosis				ERS3487179	SAMEA5683191	Metagenomics	NextSeq 500	12547472.0	ALS_1899						wgs_ALS_1899								N					1.0
+PRJEB32767	ERR3348924	D000690	Amyotrophic Lateral Sclerosis				ERS3487146	SAMEA5683157	Metagenomics	NextSeq 500	12518808.0	ALS_728						wgs_ALS_728								N					1.0
+PRJEB32767	ERR3348922	D000690	Amyotrophic Lateral Sclerosis				ERS3487144	SAMEA5683155	Metagenomics	NextSeq 500	12387050.0	ALS_1890						wgs_ALS_1890								N					1.0
+PRJEB32767	ERR3348920	D000690	Amyotrophic Lateral Sclerosis				ERS3487142	SAMEA5683153	Metagenomics	NextSeq 500	12368331.0	ALS_1883						wgs_ALS_1883								N					1.0
+PRJEB32767	ERR3348916	D000690	Amyotrophic Lateral Sclerosis				ERS3487138	SAMEA5683149	Metagenomics	NextSeq 500	12277837.0	ALS_1825						wgs_ALS_1825								N					1.0
+PRJEB32767	ERR3348921	D000690	Amyotrophic Lateral Sclerosis				ERS3487143	SAMEA5683154	Metagenomics	NextSeq 500	12076324.0	ALS_1888						wgs_ALS_1888								N					1.0
+PRJEB32767	ERR3348910	D000690	Amyotrophic Lateral Sclerosis				ERS3487132	SAMEA5683143	Metagenomics	NextSeq 500	11332676.0	ALS_1781						wgs_ALS_1781								N					1.0
+PRJEB32767	ERR3348915	D000690	Amyotrophic Lateral Sclerosis				ERS3487137	SAMEA5683148	Metagenomics	NextSeq 500	11329804.0	ALS_1814						wgs_ALS_1814								N					1.0
+PRJEB32767	ERR3348954	D000690	Amyotrophic Lateral Sclerosis				ERS3487176	SAMEA5683188	Metagenomics	NextSeq 500	11260951.0	ALS_1896						wgs_ALS_1896								N					1.0
+PRJEB32767	ERR3348923	D000690	Amyotrophic Lateral Sclerosis				ERS3487145	SAMEA5683156	Metagenomics	NextSeq 500	11011386.0	ALS_2222						wgs_ALS_2222								N					1.0
+PRJEB32767	ERR3348953	D000690	Amyotrophic Lateral Sclerosis				ERS3487175	SAMEA5683187	Metagenomics	NextSeq 500	10843023.0	ALS_1871						wgs_ALS_1871								N					1.0
+PRJEB32767	ERR3348956	D000690	Amyotrophic Lateral Sclerosis				ERS3487178	SAMEA5683190	Metagenomics	NextSeq 500	10598677.0	ALS_1898						wgs_ALS_1898								N					1.0
+PRJEB32767	ERR3348907	D000690	Amyotrophic Lateral Sclerosis				ERS3487129	SAMEA5683140	Metagenomics	NextSeq 500	10384672.0	ALS_1753						wgs_ALS_1753								N					1.0
+PRJEB32767	ERR3348958	D000690	Amyotrophic Lateral Sclerosis				ERS3487180	SAMEA5683192	Metagenomics	NextSeq 500	9814836.0	ALS_1897						wgs_ALS_1897								N					1.0
+PRJNA736213	SRR15000768	D000690	Amyotrophic Lateral Sclerosis				SRS9342017	SAMN19897774	AMPLICON	Illumina MiSeq	405875.0	SLA7_T0	71.0	male		Italy	2017-01-01 00:00:00	SLA7_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000769	D000690	Amyotrophic Lateral Sclerosis				SRS9342016	SAMN19897773	AMPLICON	Illumina MiSeq	379433.0	SLA3_T0	70.0	male		Italy	2017-01-01 00:00:00	SLA3_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000759	D000690	Amyotrophic Lateral Sclerosis				SRS9342026	SAMN19897763	AMPLICON	Illumina MiSeq	205000.0	SLA1_T0	43.0	male		Italy	2017-01-01 00:00:00	SLA1_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000758	D000690	Amyotrophic Lateral Sclerosis				SRS9342027	SAMN19897764	AMPLICON	Illumina MiSeq	196271.0	SLA10_T0	72.0	male		Italy	2017-01-01 00:00:00	SLA10_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000777	D000690	Amyotrophic Lateral Sclerosis				SRS9342008	SAMN19897765	AMPLICON	Illumina MiSeq	152434.0	SLA11_T0	66.0	male		Italy	2017-01-01 00:00:00	SLA11_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000770	D000690	Amyotrophic Lateral Sclerosis				SRS9342015	SAMN19897772	AMPLICON	Illumina MiSeq	128083.0	SLA20	62.0	male		Italy	2017-01-01 00:00:00	SLA20					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000766	D000690	Amyotrophic Lateral Sclerosis				SRS9342019	SAMN19897775	AMPLICON	Illumina MiSeq	122687.0	SLA8_T0	77.0	male		Italy	2017-01-01 00:00:00	SLA8_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000772	D000690	Amyotrophic Lateral Sclerosis				SRS9342013	SAMN19897770	AMPLICON	Illumina MiSeq	111575.0	SLA18	65.0	male		Italy	2017-01-01 00:00:00	SLA18					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000765	D000690	Amyotrophic Lateral Sclerosis				SRS9342022	SAMN19897776	AMPLICON	Illumina MiSeq	101479.0	SLA9_T0	60.0	male		Italy	2017-01-01 00:00:00	SLA9_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000775	D000690	Amyotrophic Lateral Sclerosis				SRS9342010	SAMN19897767	AMPLICON	Illumina MiSeq	86051.0	SLA13_T0	42.0	male		Italy	2017-01-01 00:00:00	SLA13_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000773	D000690	Amyotrophic Lateral Sclerosis				SRS9342012	SAMN19897769	AMPLICON	Illumina MiSeq	79738.0	SLA15	79.0	female		Italy	2017-01-01 00:00:00	SLA15					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000771	D000690	Amyotrophic Lateral Sclerosis				SRS9342014	SAMN19897771	AMPLICON	Illumina MiSeq	73926.0	SLA2_T0	40.0	male		Italy	2017-01-01 00:00:00	SLA2_T0					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0
+PRJNA736213	SRR15000760	D000690	Amyotrophic Lateral Sclerosis				SRS9342025	SAMN19897762	AMPLICON	Illumina MiSeq	61917.0	SLA19	49.0	male		Italy	2017-01-01 00:00:00	SLA19					The original sampling time was only the year, now it is set to January 1st.			Y			44.63447765	10.940674	1.0

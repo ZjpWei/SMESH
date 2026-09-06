@@ -1,0 +1,466 @@
+project_id	run_id	disease	phenotype	is_disease_stage_available	disease_stage	diet	sample_id	second_sample_id	experiment_type	instrument_model	nr_reads_sequenced	original_sample_description	host_age	sex	BMI	country	collection_date	sample_name	Recent_Antibiotics_Use	antibiotics_used	Antibiotics_Dose	Days_Without_Antibiotics_Use	more_info	curated_sample_description	our_project_id	more	id	checking	latitude	longitude	QCstatus
+PRJEB11199	ERR1328369	D000856	Anorexia Nervosa				ERS986920	SAMEA3679771	AMPLICON	Illumina MiSeq	95212.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.079					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328372	D000856	Anorexia Nervosa				ERS986923	SAMEA3679774	AMPLICON	Illumina MiSeq	94943.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.085					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328366	D000856	Anorexia Nervosa				ERS986917	SAMEA3679768	AMPLICON	Illumina MiSeq	94879.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.069					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328401	D000856	Anorexia Nervosa				ERS986952	SAMEA3679803	AMPLICON	Illumina MiSeq	91938.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.133					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328377	D000856	Anorexia Nervosa				ERS986928	SAMEA3679779	AMPLICON	Illumina MiSeq	89687.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.090					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328434	D000856	Anorexia Nervosa				ERS986985	SAMEA3679836	AMPLICON	Illumina MiSeq	86964.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.202					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328393	D000856	Anorexia Nervosa				ERS986944	SAMEA3679795	AMPLICON	Illumina MiSeq	86395.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.116					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328417	D000856	Anorexia Nervosa				ERS986968	SAMEA3679819	AMPLICON	Illumina MiSeq	86334.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.168					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328338	D000856	Anorexia Nervosa				ERS986889	SAMEA3679740	AMPLICON	Illumina MiSeq	83775.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.005					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328374	D000856	Anorexia Nervosa				ERS986925	SAMEA3679776	AMPLICON	Illumina MiSeq	83355.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.087					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328371	D000856	Anorexia Nervosa				ERS986922	SAMEA3679773	AMPLICON	Illumina MiSeq	83171.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.084					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328348	D000856	Anorexia Nervosa				ERS986899	SAMEA3679750	AMPLICON	Illumina MiSeq	82015.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.031					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328382	D000856	Anorexia Nervosa				ERS986933	SAMEA3679784	AMPLICON	Illumina MiSeq	81740.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.099					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328342	D000856	Anorexia Nervosa				ERS986893	SAMEA3679744	AMPLICON	Illumina MiSeq	81091.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.017					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328429	D000856	Anorexia Nervosa				ERS986980	SAMEA3679831	AMPLICON	Illumina MiSeq	80608.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.192					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328370	D000856	Anorexia Nervosa				ERS986921	SAMEA3679772	AMPLICON	Illumina MiSeq	80561.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.083					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328406	D000856	Anorexia Nervosa				ERS986957	SAMEA3679808	AMPLICON	Illumina MiSeq	80285.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.140					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328390	D000856	Anorexia Nervosa				ERS986941	SAMEA3679792	AMPLICON	Illumina MiSeq	79345.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.111					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328408	D000856	Anorexia Nervosa				ERS986959	SAMEA3679810	AMPLICON	Illumina MiSeq	78991.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.145					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328350	D000856	Anorexia Nervosa				ERS986901	SAMEA3679752	AMPLICON	Illumina MiSeq	78958.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.033					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328364	D000856	Anorexia Nervosa				ERS986915	SAMEA3679766	AMPLICON	Illumina MiSeq	78928.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.062					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328396	D000856	Anorexia Nervosa				ERS986947	SAMEA3679798	AMPLICON	Illumina MiSeq	78854.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.126					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328345	D000856	Anorexia Nervosa				ERS986896	SAMEA3679747	AMPLICON	Illumina MiSeq	78618.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.025					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328373	D000856	Anorexia Nervosa				ERS986924	SAMEA3679775	AMPLICON	Illumina MiSeq	78467.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.086					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328430	D000856	Anorexia Nervosa				ERS986981	SAMEA3679832	AMPLICON	Illumina MiSeq	78253.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.194					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328409	D000856	Anorexia Nervosa				ERS986960	SAMEA3679811	AMPLICON	Illumina MiSeq	77751.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.152					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328425	D000856	Anorexia Nervosa				ERS986976	SAMEA3679827	AMPLICON	Illumina MiSeq	76748.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.180					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328420	D000856	Anorexia Nervosa				ERS986971	SAMEA3679822	AMPLICON	Illumina MiSeq	76381.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.171					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328422	D000856	Anorexia Nervosa				ERS986973	SAMEA3679824	AMPLICON	Illumina MiSeq	76239.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.176					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328381	D000856	Anorexia Nervosa				ERS986932	SAMEA3679783	AMPLICON	Illumina MiSeq	76215.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.096					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328389	D000856	Anorexia Nervosa				ERS986940	SAMEA3679791	AMPLICON	Illumina MiSeq	76165.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.110					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328379	D000856	Anorexia Nervosa				ERS986930	SAMEA3679781	AMPLICON	Illumina MiSeq	76153.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.092					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328376	D000856	Anorexia Nervosa				ERS986927	SAMEA3679778	AMPLICON	Illumina MiSeq	75423.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.089					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328395	D000856	Anorexia Nervosa				ERS986946	SAMEA3679797	AMPLICON	Illumina MiSeq	75396.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.122					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328405	D000856	Anorexia Nervosa				ERS986956	SAMEA3679807	AMPLICON	Illumina MiSeq	75297.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.139					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328397	D000856	Anorexia Nervosa				ERS986948	SAMEA3679799	AMPLICON	Illumina MiSeq	75113.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.127					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328385	D000856	Anorexia Nervosa				ERS986936	SAMEA3679787	AMPLICON	Illumina MiSeq	74869.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.104					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328403	D000856	Anorexia Nervosa				ERS986954	SAMEA3679805	AMPLICON	Illumina MiSeq	74569.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.135					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328368	D000856	Anorexia Nervosa				ERS986919	SAMEA3679770	AMPLICON	Illumina MiSeq	74459.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.078					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328416	D000856	Anorexia Nervosa				ERS986967	SAMEA3679818	AMPLICON	Illumina MiSeq	74171.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.165					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328404	D000856	Anorexia Nervosa				ERS986955	SAMEA3679806	AMPLICON	Illumina MiSeq	73504.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.137					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328362	D000856	Anorexia Nervosa				ERS986913	SAMEA3679764	AMPLICON	Illumina MiSeq	72978.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.057					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328349	D000856	Anorexia Nervosa				ERS986900	SAMEA3679751	AMPLICON	Illumina MiSeq	72692.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.032					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328388	D000856	Anorexia Nervosa				ERS986939	SAMEA3679790	AMPLICON	Illumina MiSeq	71943.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.109					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328392	D000856	Anorexia Nervosa				ERS986943	SAMEA3679794	AMPLICON	Illumina MiSeq	71870.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.114					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328398	D000856	Anorexia Nervosa				ERS986949	SAMEA3679800	AMPLICON	Illumina MiSeq	71638.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.128					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328353	D000856	Anorexia Nervosa				ERS986904	SAMEA3679755	AMPLICON	Illumina MiSeq	71614.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.040					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328359	D000856	Anorexia Nervosa				ERS986910	SAMEA3679761	AMPLICON	Illumina MiSeq	71129.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.049					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328413	D000856	Anorexia Nervosa				ERS986964	SAMEA3679815	AMPLICON	Illumina MiSeq	70669.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.159					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328402	D000856	Anorexia Nervosa				ERS986953	SAMEA3679804	AMPLICON	Illumina MiSeq	70578.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.134					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328428	D000856	Anorexia Nervosa				ERS986979	SAMEA3679830	AMPLICON	Illumina MiSeq	70448.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.191					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328380	D000856	Anorexia Nervosa				ERS986931	SAMEA3679782	AMPLICON	Illumina MiSeq	70264.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.094					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328435	D000856	Anorexia Nervosa				ERS986986	SAMEA3679837	AMPLICON	Illumina MiSeq	69759.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.203					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328378	D000856	Anorexia Nervosa				ERS986929	SAMEA3679780	AMPLICON	Illumina MiSeq	69596.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.091					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328400	D000856	Anorexia Nervosa				ERS986951	SAMEA3679802	AMPLICON	Illumina MiSeq	69402.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.132					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328363	D000856	Anorexia Nervosa				ERS986914	SAMEA3679765	AMPLICON	Illumina MiSeq	69203.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.060					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328343	D000856	Anorexia Nervosa				ERS986894	SAMEA3679745	AMPLICON	Illumina MiSeq	68340.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.019					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328354	D000856	Anorexia Nervosa				ERS986905	SAMEA3679756	AMPLICON	Illumina MiSeq	68009.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.041					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328432	D000856	Anorexia Nervosa				ERS986983	SAMEA3679834	AMPLICON	Illumina MiSeq	67983.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.198					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328340	D000856	Anorexia Nervosa				ERS986891	SAMEA3679742	AMPLICON	Illumina MiSeq	67890.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.009					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328347	D000856	Anorexia Nervosa				ERS986898	SAMEA3679749	AMPLICON	Illumina MiSeq	67663.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.028					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328412	D000856	Anorexia Nervosa				ERS986963	SAMEA3679814	AMPLICON	Illumina MiSeq	67347.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.157					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328421	D000856	Anorexia Nervosa				ERS986972	SAMEA3679823	AMPLICON	Illumina MiSeq	66359.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.173					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328355	D000856	Anorexia Nervosa				ERS986906	SAMEA3679757	AMPLICON	Illumina MiSeq	66286.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.042					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328357	D000856	Anorexia Nervosa				ERS986908	SAMEA3679759	AMPLICON	Illumina MiSeq	65836.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.047					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328337	D000856	Anorexia Nervosa				ERS986888	SAMEA3679739	AMPLICON	Illumina MiSeq	65389.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID-001					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328433	D000856	Anorexia Nervosa				ERS986984	SAMEA3679835	AMPLICON	Illumina MiSeq	65255.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.199					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328426	D000856	Anorexia Nervosa				ERS986977	SAMEA3679828	AMPLICON	Illumina MiSeq	65042.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.181					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328387	D000856	Anorexia Nervosa				ERS986938	SAMEA3679789	AMPLICON	Illumina MiSeq	65038.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.108					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328427	D000856	Anorexia Nervosa				ERS986978	SAMEA3679829	AMPLICON	Illumina MiSeq	64952.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.184					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328341	D000856	Anorexia Nervosa				ERS986892	SAMEA3679743	AMPLICON	Illumina MiSeq	64899.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.012					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328424	D000856	Anorexia Nervosa				ERS986975	SAMEA3679826	AMPLICON	Illumina MiSeq	64736.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.179					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328386	D000856	Anorexia Nervosa				ERS986937	SAMEA3679788	AMPLICON	Illumina MiSeq	64164.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.106					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328358	D000856	Anorexia Nervosa				ERS986909	SAMEA3679760	AMPLICON	Illumina MiSeq	63980.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.048					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328346	D000856	Anorexia Nervosa				ERS986897	SAMEA3679748	AMPLICON	Illumina MiSeq	63628.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.026					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328394	D000856	Anorexia Nervosa				ERS986945	SAMEA3679796	AMPLICON	Illumina MiSeq	62849.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.120					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328411	D000856	Anorexia Nervosa				ERS986962	SAMEA3679813	AMPLICON	Illumina MiSeq	62799.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.154					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328410	D000856	Anorexia Nervosa				ERS986961	SAMEA3679812	AMPLICON	Illumina MiSeq	61061.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.153					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328339	D000856	Anorexia Nervosa				ERS986890	SAMEA3679741	AMPLICON	Illumina MiSeq	59854.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.007					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328419	D000856	Anorexia Nervosa				ERS986970	SAMEA3679821	AMPLICON	Illumina MiSeq	59782.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.170					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328361	D000856	Anorexia Nervosa				ERS986912	SAMEA3679763	AMPLICON	Illumina MiSeq	59306.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.054					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328356	D000856	Anorexia Nervosa				ERS986907	SAMEA3679758	AMPLICON	Illumina MiSeq	59120.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.043					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328351	D000856	Anorexia Nervosa				ERS986902	SAMEA3679753	AMPLICON	Illumina MiSeq	58595.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.034					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328414	D000856	Anorexia Nervosa				ERS986965	SAMEA3679816	AMPLICON	Illumina MiSeq	58395.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.160					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328365	D000856	Anorexia Nervosa				ERS986916	SAMEA3679767	AMPLICON	Illumina MiSeq	56452.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.064					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328418	D000856	Anorexia Nervosa				ERS986969	SAMEA3679820	AMPLICON	Illumina MiSeq	56451.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.169					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328384	D000856	Anorexia Nervosa				ERS986935	SAMEA3679786	AMPLICON	Illumina MiSeq	54188.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.103					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328367	D000856	Anorexia Nervosa				ERS986918	SAMEA3679769	AMPLICON	Illumina MiSeq	53859.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.070					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328352	D000856	Anorexia Nervosa				ERS986903	SAMEA3679754	AMPLICON	Illumina MiSeq	47935.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.038					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328431	D000856	Anorexia Nervosa				ERS986982	SAMEA3679833	AMPLICON	Illumina MiSeq	43291.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.197					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328360	D000856	Anorexia Nervosa				ERS986911	SAMEA3679762	AMPLICON	Illumina MiSeq	42311.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.050					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328383	D000856	Anorexia Nervosa				ERS986934	SAMEA3679785	AMPLICON	Illumina MiSeq	41575.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.101					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328344	D000856	Anorexia Nervosa				ERS986895	SAMEA3679746	AMPLICON	Illumina MiSeq	41104.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.022					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328423	D000856	Anorexia Nervosa				ERS986974	SAMEA3679825	AMPLICON	Illumina MiSeq	40244.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.178					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328399	D000856	Anorexia Nervosa				ERS986950	SAMEA3679801	AMPLICON	Illumina MiSeq	40233.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.131					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328375	D000856	Anorexia Nervosa				ERS986926	SAMEA3679777	AMPLICON	Illumina MiSeq	39307.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.088					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328391	D000856	Anorexia Nervosa				ERS986942	SAMEA3679793	AMPLICON	Illumina MiSeq	37780.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.113					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328415	D000856	Anorexia Nervosa				ERS986966	SAMEA3679817	AMPLICON	Illumina MiSeq	34733.0	AN patient at admission				Germany	2012-01-01 00:00:00	ID.164					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB11199	ERR1328407	D000856	Anorexia Nervosa				ERS986958	SAMEA3679809	AMPLICON	Illumina MiSeq	34391.0	AN patient upon discharge				Germany	2012-01-01 00:00:00	ID.144					The original sampling time was only the year, now it is set to January 1st.			Y					1.0
+PRJEB38930	ERR4264720	D000856	Anorexia Nervosa				ERS4688661	SAMEA6978821	AMPLICON	Illumina MiSeq	120515.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex41								N					1.0
+PRJEB38930	ERR4264782	D000856	Anorexia Nervosa				ERS4688723	SAMEA6978883	AMPLICON	Illumina MiSeq	85272.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex103								N					1.0
+PRJEB38930	ERR4264825	D000856	Anorexia Nervosa				ERS4688766	SAMEA6978926	AMPLICON	Illumina MiSeq	83883.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex146								N					1.0
+PRJEB38930	ERR4264754	D000856	Anorexia Nervosa				ERS4688695	SAMEA6978855	AMPLICON	Illumina MiSeq	80733.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex75								N					1.0
+PRJEB38930	ERR4264769	D000856	Anorexia Nervosa				ERS4688710	SAMEA6978870	AMPLICON	Illumina MiSeq	80095.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex90								N					1.0
+PRJEB38930	ERR4264798	D000856	Anorexia Nervosa				ERS4688739	SAMEA6978899	AMPLICON	Illumina MiSeq	71678.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex119								N					1.0
+PRJEB38930	ERR4264738	D000856	Anorexia Nervosa				ERS4688679	SAMEA6978839	AMPLICON	Illumina MiSeq	70609.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex59								N					1.0
+PRJEB38930	ERR4264751	D000856	Anorexia Nervosa				ERS4688692	SAMEA6978852	AMPLICON	Illumina MiSeq	69881.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex72								N					1.0
+PRJEB38930	ERR4264747	D000856	Anorexia Nervosa				ERS4688688	SAMEA6978848	AMPLICON	Illumina MiSeq	64700.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex68								N					1.0
+PRJEB38930	ERR4264831	D000856	Anorexia Nervosa				ERS4688772	SAMEA6978932	AMPLICON	Illumina MiSeq	63089.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex152								N					1.0
+PRJEB38930	ERR4264851	D000856	Anorexia Nervosa				ERS4688792	SAMEA6978952	AMPLICON	Illumina MiSeq	62596.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex172								N					1.0
+PRJEB38930	ERR4264746	D000856	Anorexia Nervosa				ERS4688687	SAMEA6978847	AMPLICON	Illumina MiSeq	57913.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex67								N					1.0
+PRJEB38930	ERR4264734	D000856	Anorexia Nervosa				ERS4688675	SAMEA6978835	AMPLICON	Illumina MiSeq	57655.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex55								N					1.0
+PRJEB38930	ERR4264819	D000856	Anorexia Nervosa				ERS4688760	SAMEA6978920	AMPLICON	Illumina MiSeq	57052.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex140								N					1.0
+PRJEB38930	ERR4264716	D000856	Anorexia Nervosa				ERS4688657	SAMEA6978817	AMPLICON	Illumina MiSeq	53858.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex37								N					1.0
+PRJEB38930	ERR4264826	D000856	Anorexia Nervosa				ERS4688767	SAMEA6978927	AMPLICON	Illumina MiSeq	52997.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex147								N					1.0
+PRJEB38930	ERR4264780	D000856	Anorexia Nervosa				ERS4688721	SAMEA6978881	AMPLICON	Illumina MiSeq	49162.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex101								N					1.0
+PRJEB38930	ERR4264735	D000856	Anorexia Nervosa				ERS4688676	SAMEA6978836	AMPLICON	Illumina MiSeq	48229.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex56								N					1.0
+PRJEB38930	ERR4264717	D000856	Anorexia Nervosa				ERS4688658	SAMEA6978818	AMPLICON	Illumina MiSeq	46896.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex38								N					1.0
+PRJEB38930	ERR4264736	D000856	Anorexia Nervosa				ERS4688677	SAMEA6978837	AMPLICON	Illumina MiSeq	43523.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex57								N					1.0
+PRJEB38930	ERR4264755	D000856	Anorexia Nervosa				ERS4688696	SAMEA6978856	AMPLICON	Illumina MiSeq	42744.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex76								N					1.0
+PRJEB38930	ERR4264728	D000856	Anorexia Nervosa				ERS4688669	SAMEA6978829	AMPLICON	Illumina MiSeq	38504.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex49								N					1.0
+PRJEB38930	ERR4264699	D000856	Anorexia Nervosa				ERS4688640	SAMEA6978800	AMPLICON	Illumina MiSeq	36166.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex20								N					1.0
+PRJEB38930	ERR4264724	D000856	Anorexia Nervosa				ERS4688665	SAMEA6978825	AMPLICON	Illumina MiSeq	36120.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex45								N					1.0
+PRJEB38930	ERR4264752	D000856	Anorexia Nervosa				ERS4688693	SAMEA6978853	AMPLICON	Illumina MiSeq	35608.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex73								N					1.0
+PRJEB38930	ERR4264827	D000856	Anorexia Nervosa				ERS4688768	SAMEA6978928	AMPLICON	Illumina MiSeq	35484.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex148								N					1.0
+PRJEB38930	ERR4264795	D000856	Anorexia Nervosa				ERS4688736	SAMEA6978896	AMPLICON	Illumina MiSeq	35177.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex116								N					1.0
+PRJEB38930	ERR4264829	D000856	Anorexia Nervosa				ERS4688770	SAMEA6978930	AMPLICON	Illumina MiSeq	34909.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex150								N					1.0
+PRJEB38930	ERR4264689	D000856	Anorexia Nervosa				ERS4688630	SAMEA6978790	AMPLICON	Illumina MiSeq	34252.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex10								N					1.0
+PRJEB38930	ERR4264783	D000856	Anorexia Nervosa				ERS4688724	SAMEA6978884	AMPLICON	Illumina MiSeq	33399.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex104								N					1.0
+PRJEB38930	ERR4264757	D000856	Anorexia Nervosa				ERS4688698	SAMEA6978858	AMPLICON	Illumina MiSeq	33037.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex78								N					1.0
+PRJEB38930	ERR4264732	D000856	Anorexia Nervosa				ERS4688673	SAMEA6978833	AMPLICON	Illumina MiSeq	31727.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex53								N					1.0
+PRJEB38930	ERR4264684	D000856	Anorexia Nervosa				ERS4688625	SAMEA6978785	AMPLICON	Illumina MiSeq	31147.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex5								N					1.0
+PRJEB38930	ERR4264698	D000856	Anorexia Nervosa				ERS4688639	SAMEA6978799	AMPLICON	Illumina MiSeq	30880.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex19								N					1.0
+PRJEB38930	ERR4264840	D000856	Anorexia Nervosa				ERS4688781	SAMEA6978941	AMPLICON	Illumina MiSeq	29094.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex161								N					1.0
+PRJEB38930	ERR4264842	D000856	Anorexia Nervosa				ERS4688783	SAMEA6978943	AMPLICON	Illumina MiSeq	28619.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex163								N					1.0
+PRJEB38930	ERR4264718	D000856	Anorexia Nervosa				ERS4688659	SAMEA6978819	AMPLICON	Illumina MiSeq	27781.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex39								N					1.0
+PRJEB38930	ERR4264820	D000856	Anorexia Nervosa				ERS4688761	SAMEA6978921	AMPLICON	Illumina MiSeq	27232.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex141								N					1.0
+PRJEB38930	ERR4264709	D000856	Anorexia Nervosa				ERS4688650	SAMEA6978810	AMPLICON	Illumina MiSeq	27068.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex30								N					1.0
+PRJEB38930	ERR4264733	D000856	Anorexia Nervosa				ERS4688674	SAMEA6978834	AMPLICON	Illumina MiSeq	26471.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex54								N					1.0
+PRJEB38930	ERR4264722	D000856	Anorexia Nervosa				ERS4688663	SAMEA6978823	AMPLICON	Illumina MiSeq	26436.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex43								N					1.0
+PRJEB38930	ERR4264828	D000856	Anorexia Nervosa				ERS4688769	SAMEA6978929	AMPLICON	Illumina MiSeq	26433.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex149								N					1.0
+PRJEB38930	ERR4264791	D000856	Anorexia Nervosa				ERS4688732	SAMEA6978892	AMPLICON	Illumina MiSeq	25748.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex112								N					1.0
+PRJEB38930	ERR4264745	D000856	Anorexia Nervosa				ERS4688686	SAMEA6978846	AMPLICON	Illumina MiSeq	23939.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex66								N					1.0
+PRJEB38930	ERR4264837	D000856	Anorexia Nervosa				ERS4688778	SAMEA6978938	AMPLICON	Illumina MiSeq	23765.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex158								N					1.0
+PRJEB38930	ERR4264753	D000856	Anorexia Nervosa				ERS4688694	SAMEA6978854	AMPLICON	Illumina MiSeq	22998.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex74								N					1.0
+PRJEB38930	ERR4264744	D000856	Anorexia Nervosa				ERS4688685	SAMEA6978845	AMPLICON	Illumina MiSeq	21115.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex65								N					1.0
+PRJEB38930	ERR4264743	D000856	Anorexia Nervosa				ERS4688684	SAMEA6978844	AMPLICON	Illumina MiSeq	20425.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex64								N					1.0
+PRJEB38930	ERR4264719	D000856	Anorexia Nervosa				ERS4688660	SAMEA6978820	AMPLICON	Illumina MiSeq	19031.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex40								N					1.0
+PRJEB38930	ERR4264723	D000856	Anorexia Nervosa				ERS4688664	SAMEA6978824	AMPLICON	Illumina MiSeq	18964.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex44								N					1.0
+PRJEB38930	ERR4264848	D000856	Anorexia Nervosa				ERS4688789	SAMEA6978949	AMPLICON	Illumina MiSeq	17931.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex169								N					1.0
+PRJEB38930	ERR4264833	D000856	Anorexia Nervosa				ERS4688774	SAMEA6978934	AMPLICON	Illumina MiSeq	17112.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex154								N					1.0
+PRJEB38930	ERR4264760	D000856	Anorexia Nervosa				ERS4688701	SAMEA6978861	AMPLICON	Illumina MiSeq	16196.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex81								N					1.0
+PRJEB38930	ERR4264841	D000856	Anorexia Nervosa				ERS4688782	SAMEA6978942	AMPLICON	Illumina MiSeq	15206.0	The role of gut microbiota in anorexia nervosa				Czech Republic		Anorex162								N					1.0
+PRJEB51776	ERR10906767	D000856	Anorexia Nervosa				ERS14655002	SAMEA112657458	Metagenomics	Ion Torrent Proton	10247246.0	human gut metagenome				Denmark		DKAN_92								N					0.0
+PRJEB51776	ERR10906765	D000856	Anorexia Nervosa				ERS14655002	SAMEA112657458	Metagenomics	Ion Torrent Proton	9936692.0	human gut metagenome				Denmark		DKAN_92								N					0.0
+PRJEB51776	ERR10906735	D000856	Anorexia Nervosa				ERS14654994	SAMEA112657450	Metagenomics	Ion Torrent Proton	9907716.0	human gut metagenome				Denmark		DKAN_84								N					0.0
+PRJEB51776	ERR10906733	D000856	Anorexia Nervosa				ERS14654994	SAMEA112657450	Metagenomics	Ion Torrent Proton	9546175.0	human gut metagenome				Denmark		DKAN_84								N					0.0
+PRJEB51776	ERR10906739	D000856	Anorexia Nervosa				ERS14654995	SAMEA112657451	Metagenomics	Ion Torrent Proton	9314442.0	human gut metagenome				Denmark		DKAN_85								N					0.0
+PRJEB51776	ERR10906467	D000856	Anorexia Nervosa				ERS14654928	SAMEA112657384	Metagenomics	Ion Torrent Proton	9286894.0	human gut metagenome				Denmark		DKAN_18								N					0.0
+PRJEB51776	ERR10906737	D000856	Anorexia Nervosa				ERS14654995	SAMEA112657451	Metagenomics	Ion Torrent Proton	9047901.0	human gut metagenome				Denmark		DKAN_85								N					0.0
+PRJEB51776	ERR10906605	D000856	Anorexia Nervosa				ERS14654962	SAMEA112657418	Metagenomics	Ion Torrent Proton	8868268.0	human gut metagenome				Denmark		DKAN_52								N					0.0
+PRJEB51776	ERR10906525	D000856	Anorexia Nervosa				ERS14654942	SAMEA112657398	Metagenomics	Ion Torrent Proton	8698516.0	human gut metagenome				Denmark		DKAN_32								N					0.0
+PRJEB51776	ERR10906613	D000856	Anorexia Nervosa				ERS14654964	SAMEA112657420	Metagenomics	Ion Torrent Proton	8660295.0	human gut metagenome				Denmark		DKAN_54								N					0.0
+PRJEB51776	ERR10906757	D000856	Anorexia Nervosa				ERS14655000	SAMEA112657456	Metagenomics	Ion Torrent Proton	8641496.0	human gut metagenome				Denmark		DKAN_90								N					0.0
+PRJEB51776	ERR10906763	D000856	Anorexia Nervosa				ERS14655001	SAMEA112657457	Metagenomics	Ion Torrent Proton	8562033.0	human gut metagenome				Denmark		DKAN_91								N					0.0
+PRJEB51776	ERR10906749	D000856	Anorexia Nervosa				ERS14654998	SAMEA112657454	Metagenomics	Ion Torrent Proton	8554730.0	human gut metagenome				Denmark		DKAN_88								N					0.0
+PRJEB51776	ERR10906547	D000856	Anorexia Nervosa				ERS14654948	SAMEA112657404	Metagenomics	Ion Torrent Proton	8469644.0	human gut metagenome				Denmark		DKAN_38								N					0.0
+PRJEB51776	ERR10906761	D000856	Anorexia Nervosa				ERS14655001	SAMEA112657457	Metagenomics	Ion Torrent Proton	8334549.0	human gut metagenome				Denmark		DKAN_91								N					0.0
+PRJEB51776	ERR10906214	D000856	Anorexia Nervosa				ERS14654865	SAMEA112657321	Metagenomics	Ion Torrent Proton	8027026.0	human gut metagenome				Denmark		DKAN_03								N					0.0
+PRJEB51776	ERR10906221	D000856	Anorexia Nervosa				ERS14654867	SAMEA112657323	Metagenomics	Ion Torrent Proton	8013125.0	human gut metagenome				Denmark		DKAN_05								N					0.0
+PRJEB51776	ERR10906618	D000856	Anorexia Nervosa				ERS14654966	SAMEA112657422	Metagenomics	Ion Torrent Proton	7988135.0	human gut metagenome				Denmark		DKAN_56								N					0.0
+PRJEB51776	ERR10906601	D000856	Anorexia Nervosa				ERS14654961	SAMEA112657417	Metagenomics	Ion Torrent Proton	7981363.0	human gut metagenome				Denmark		DKAN_51								N					0.0
+PRJEB51776	ERR10906479	D000856	Anorexia Nervosa				ERS14654931	SAMEA112657387	Metagenomics	Ion Torrent Proton	7925789.0	human gut metagenome				Denmark		DKAN_21								N					0.0
+PRJEB51776	ERR10906770	D000856	Anorexia Nervosa				ERS14655003	SAMEA112657459	Metagenomics	Ion Torrent Proton	7922839.0	human gut metagenome				Denmark		DKAN_93								N					0.0
+PRJEB51776	ERR10906606	D000856	Anorexia Nervosa				ERS14654963	SAMEA112657419	Metagenomics	Ion Torrent Proton	7784847.0	human gut metagenome				Denmark		DKAN_53								N					0.0
+PRJEB51776	ERR10906219	D000856	Anorexia Nervosa				ERS14654867	SAMEA112657323	Metagenomics	Ion Torrent Proton	7759207.0	human gut metagenome				Denmark		DKAN_05								N					0.0
+PRJEB51776	ERR10906579	D000856	Anorexia Nervosa				ERS14654956	SAMEA112657412	Metagenomics	Ion Torrent Proton	7670517.0	human gut metagenome				Denmark		DKAN_46								N					0.0
+PRJEB51776	ERR10906771	D000856	Anorexia Nervosa				ERS14655003	SAMEA112657459	Metagenomics	Ion Torrent Proton	7663319.0	human gut metagenome				Denmark		DKAN_93								N					0.0
+PRJEB51776	ERR10906403	D000856	Anorexia Nervosa				ERS14654912	SAMEA112657368	Metagenomics	Ion Torrent Proton	7623539.0	human gut metagenome				Denmark		DKAN_136								N					0.0
+PRJEB51776	ERR10906785	D000856	Anorexia Nervosa				ERS14655007	SAMEA112657463	Metagenomics	Ion Torrent Proton	7600637.0	human gut metagenome				Denmark		DKAN_97								N					0.0
+PRJEB51776	ERR10906539	D000856	Anorexia Nervosa				ERS14654946	SAMEA112657402	Metagenomics	Ion Torrent Proton	7570149.0	human gut metagenome				Denmark		DKAN_36								N					0.0
+PRJEB51776	ERR10906247	D000856	Anorexia Nervosa				ERS14654874	SAMEA112657330	Metagenomics	Ion Torrent Proton	7529815.0	human gut metagenome				Denmark		DKAN_101								N					0.0
+PRJEB51776	ERR10906789	D000856	Anorexia Nervosa				ERS14655008	SAMEA112657464	Metagenomics	Ion Torrent Proton	7460608.0	human gut metagenome				Denmark		DKAN_98								N					0.0
+PRJEB51776	ERR10906251	D000856	Anorexia Nervosa				ERS14654875	SAMEA112657331	Metagenomics	Ion Torrent Proton	7443042.0	human gut metagenome				Denmark		DKAN_102								N					0.0
+PRJEB51776	ERR10906563	D000856	Anorexia Nervosa				ERS14654952	SAMEA112657408	Metagenomics	Ion Torrent Proton	7324155.0	human gut metagenome				Denmark		DKAN_42								N					0.0
+PRJEB51776	ERR10906521	D000856	Anorexia Nervosa				ERS14654941	SAMEA112657397	Metagenomics	Ion Torrent Proton	7322488.0	human gut metagenome				Denmark		DKAN_31								N					0.0
+PRJEB51776	ERR10906431	D000856	Anorexia Nervosa				ERS14654919	SAMEA112657375	Metagenomics	Ion Torrent Proton	7317919.0	human gut metagenome				Denmark		DKAN_142								N					0.0
+PRJEB51776	ERR10906793	D000856	Anorexia Nervosa				ERS14655009	SAMEA112657465	Metagenomics	Ion Torrent Proton	7260878.0	human gut metagenome				Denmark		DKAN_99								N					0.0
+PRJEB51776	ERR10906619	D000856	Anorexia Nervosa				ERS14654966	SAMEA112657422	Metagenomics	Ion Torrent Proton	7169120.0	human gut metagenome				Denmark		DKAN_56								N					0.0
+PRJEB51776	ERR10906532	D000856	Anorexia Nervosa				ERS14654944	SAMEA112657400	Metagenomics	Ion Torrent Proton	7162608.0	human gut metagenome				Denmark		DKAN_34								N					0.0
+PRJEB51776	ERR10906509	D000856	Anorexia Nervosa				ERS14654938	SAMEA112657394	Metagenomics	Ion Torrent Proton	7143977.0	human gut metagenome				Denmark		DKAN_28								N					0.0
+PRJEB51776	ERR10906411	D000856	Anorexia Nervosa				ERS14654914	SAMEA112657370	Metagenomics	Ion Torrent Proton	7118092.0	human gut metagenome				Denmark		DKAN_138								N					0.0
+PRJEB51776	ERR10906607	D000856	Anorexia Nervosa				ERS14654963	SAMEA112657419	Metagenomics	Ion Torrent Proton	7081877.0	human gut metagenome				Denmark		DKAN_53								N					0.0
+PRJEB51776	ERR10906701	D000856	Anorexia Nervosa				ERS14654986	SAMEA112657442	Metagenomics	Ion Torrent Proton	7039027.0	human gut metagenome				Denmark		DKAN_76								N					0.0
+PRJEB51776	ERR10906471	D000856	Anorexia Nervosa				ERS14654929	SAMEA112657385	Metagenomics	Ion Torrent Proton	7031769.0	human gut metagenome				Denmark		DKAN_19								N					0.0
+PRJEB51776	ERR10906535	D000856	Anorexia Nervosa				ERS14654945	SAMEA112657401	Metagenomics	Ion Torrent Proton	6973888.0	human gut metagenome				Denmark		DKAN_35								N					0.0
+PRJEB51776	ERR10906259	D000856	Anorexia Nervosa				ERS14654877	SAMEA112657333	Metagenomics	Ion Torrent Proton	6939362.0	human gut metagenome				Denmark		DKAN_104								N					0.0
+PRJEB51776	ERR10906409	D000856	Anorexia Nervosa				ERS14654914	SAMEA112657370	Metagenomics	Ion Torrent Proton	6907589.0	human gut metagenome				Denmark		DKAN_138								N					0.0
+PRJEB51776	ERR10906533	D000856	Anorexia Nervosa				ERS14654944	SAMEA112657400	Metagenomics	Ion Torrent Proton	6869789.0	human gut metagenome				Denmark		DKAN_34								N					0.0
+PRJEB51776	ERR10906483	D000856	Anorexia Nervosa				ERS14654932	SAMEA112657388	Metagenomics	Ion Torrent Proton	6849997.0	human gut metagenome				Denmark		DKAN_22								N					0.0
+PRJEB51776	ERR10906405	D000856	Anorexia Nervosa				ERS14654913	SAMEA112657369	Metagenomics	Ion Torrent Proton	6837120.0	human gut metagenome				Denmark		DKAN_137								N					0.0
+PRJEB51776	ERR10906593	D000856	Anorexia Nervosa				ERS14654959	SAMEA112657415	Metagenomics	Ion Torrent Proton	6821539.0	human gut metagenome				Denmark		DKAN_49								N					0.0
+PRJEB51776	ERR10906642	D000856	Anorexia Nervosa				ERS14654972	SAMEA112657428	Metagenomics	Ion Torrent Proton	6799108.0	human gut metagenome				Denmark		DKAN_62								N					0.0
+PRJEB51776	ERR10906406	D000856	Anorexia Nervosa				ERS14654913	SAMEA112657369	Metagenomics	Ion Torrent Proton	6578512.0	human gut metagenome				Denmark		DKAN_137								N					0.0
+PRJEB51776	ERR10906647	D000856	Anorexia Nervosa				ERS14654973	SAMEA112657429	Metagenomics	Ion Torrent Proton	6571396.0	human gut metagenome				Denmark		DKAN_63								N					0.0
+PRJEB51776	ERR10906407	D000856	Anorexia Nervosa				ERS14654913	SAMEA112657369	Metagenomics	Ion Torrent Proton	6564686.0	human gut metagenome				Denmark		DKAN_137								N					0.0
+PRJEB51776	ERR10906559	D000856	Anorexia Nervosa				ERS14654951	SAMEA112657407	Metagenomics	Ion Torrent Proton	6527626.0	human gut metagenome				Denmark		DKAN_41								N					0.0
+PRJEB51776	ERR10906633	D000856	Anorexia Nervosa				ERS14654969	SAMEA112657425	Metagenomics	Ion Torrent Proton	6497599.0	human gut metagenome				Denmark		DKAN_59								N					0.0
+PRJEB51776	ERR10906222	D000856	Anorexia Nervosa				ERS14654867	SAMEA112657323	Metagenomics	Ion Torrent Proton	6469724.0	human gut metagenome				Denmark		DKAN_05								N					0.0
+PRJEB51776	ERR10906587	D000856	Anorexia Nervosa				ERS14654958	SAMEA112657414	Metagenomics	Ion Torrent Proton	6425556.0	human gut metagenome				Denmark		DKAN_48								N					0.0
+PRJEB51776	ERR10906410	D000856	Anorexia Nervosa				ERS14654914	SAMEA112657370	Metagenomics	Ion Torrent Proton	6397855.0	human gut metagenome				Denmark		DKAN_138								N					0.0
+PRJEB51776	ERR10906420	D000856	Anorexia Nervosa				ERS14654916	SAMEA112657372	Metagenomics	Ion Torrent Proton	6256667.0	human gut metagenome				Denmark		DKAN_14								N					0.0
+PRJEB51776	ERR10906404	D000856	Anorexia Nervosa				ERS14654912	SAMEA112657368	Metagenomics	Ion Torrent Proton	6217137.0	human gut metagenome				Denmark		DKAN_136								N					0.0
+PRJEB51776	ERR10906588	D000856	Anorexia Nervosa				ERS14654958	SAMEA112657414	Metagenomics	Ion Torrent Proton	6162790.0	human gut metagenome				Denmark		DKAN_48								N					0.0
+PRJEB51776	ERR10906527	D000856	Anorexia Nervosa				ERS14654943	SAMEA112657399	Metagenomics	Ion Torrent Proton	6056594.0	human gut metagenome				Denmark		DKAN_33								N					0.0
+PRJEB51776	ERR10906376	D000856	Anorexia Nervosa				ERS14654906	SAMEA112657362	Metagenomics	Ion Torrent Proton	6042136.0	human gut metagenome				Denmark		DKAN_130								N					0.0
+PRJEB51776	ERR10906648	D000856	Anorexia Nervosa				ERS14654973	SAMEA112657429	Metagenomics	Ion Torrent Proton	6022825.0	human gut metagenome				Denmark		DKAN_63								N					0.0
+PRJEB51776	ERR10906673	D000856	Anorexia Nervosa				ERS14654979	SAMEA112657435	Metagenomics	Ion Torrent Proton	6014528.0	human gut metagenome				Denmark		DKAN_69								N					0.0
+PRJEB51776	ERR10906677	D000856	Anorexia Nervosa				ERS14654980	SAMEA112657436	Metagenomics	Ion Torrent Proton	5980119.0	human gut metagenome				Denmark		DKAN_70								N					0.0
+PRJEB51776	ERR10906672	D000856	Anorexia Nervosa				ERS14654979	SAMEA112657435	Metagenomics	Ion Torrent Proton	5977212.0	human gut metagenome				Denmark		DKAN_69								N					0.0
+PRJEB51776	ERR10906778	D000856	Anorexia Nervosa				ERS14655005	SAMEA112657461	Metagenomics	Ion Torrent Proton	5973893.0	human gut metagenome				Denmark		DKAN_95								N					0.0
+PRJEB51776	ERR10906676	D000856	Anorexia Nervosa				ERS14654980	SAMEA112657436	Metagenomics	Ion Torrent Proton	5935696.0	human gut metagenome				Denmark		DKAN_70								N					0.0
+PRJEB51776	ERR10906461	D000856	Anorexia Nervosa				ERS14654926	SAMEA112657382	Metagenomics	Ion Torrent Proton	5930202.0	human gut metagenome				Denmark		DKAN_16								N					0.0
+PRJEB51776	ERR10906253	D000856	Anorexia Nervosa				ERS14654875	SAMEA112657331	Metagenomics	Ion Torrent Proton	5923031.0	human gut metagenome				Denmark		DKAN_102								N					0.0
+PRJEB51776	ERR10906787	D000856	Anorexia Nervosa				ERS14655007	SAMEA112657463	Metagenomics	Ion Torrent Proton	5916511.0	human gut metagenome				Denmark		DKAN_97								N					0.0
+PRJEB51776	ERR10906614	D000856	Anorexia Nervosa				ERS14654965	SAMEA112657421	Metagenomics	Ion Torrent Proton	5874245.0	human gut metagenome				Denmark		DKAN_55								N					0.0
+PRJEB51776	ERR10906210	D000856	Anorexia Nervosa				ERS14654864	SAMEA112657320	Metagenomics	Ion Torrent Proton	5861968.0	human gut metagenome				Denmark		DKAN_02								N					0.0
+PRJEB51776	ERR10906249	D000856	Anorexia Nervosa				ERS14654874	SAMEA112657330	Metagenomics	Ion Torrent Proton	5856907.0	human gut metagenome				Denmark		DKAN_101								N					0.0
+PRJEB51776	ERR10906401	D000856	Anorexia Nervosa				ERS14654912	SAMEA112657368	Metagenomics	Ion Torrent Proton	5837785.0	human gut metagenome				Denmark		DKAN_136								N					0.0
+PRJEB51776	ERR10906721	D000856	Anorexia Nervosa				ERS14654991	SAMEA112657447	Metagenomics	Ion Torrent Proton	5813480.0	human gut metagenome				Denmark		DKAN_81								N					0.0
+PRJEB51776	ERR10906375	D000856	Anorexia Nervosa				ERS14654906	SAMEA112657362	Metagenomics	Ion Torrent Proton	5809918.0	human gut metagenome				Denmark		DKAN_130								N					0.0
+PRJEB51776	ERR10906432	D000856	Anorexia Nervosa				ERS14654919	SAMEA112657375	Metagenomics	Ion Torrent Proton	5807469.0	human gut metagenome				Denmark		DKAN_142								N					0.0
+PRJEB51776	ERR10906487	D000856	Anorexia Nervosa				ERS14654933	SAMEA112657389	Metagenomics	Ion Torrent Proton	5795247.0	human gut metagenome				Denmark		DKAN_23								N					0.0
+PRJEB51776	ERR10906637	D000856	Anorexia Nervosa				ERS14654970	SAMEA112657426	Metagenomics	Ion Torrent Proton	5781237.0	human gut metagenome				Denmark		DKAN_60								N					0.0
+PRJEB51776	ERR10906638	D000856	Anorexia Nervosa				ERS14654971	SAMEA112657427	Metagenomics	Ion Torrent Proton	5779492.0	human gut metagenome				Denmark		DKAN_61								N					0.0
+PRJEB51776	ERR10906709	D000856	Anorexia Nervosa				ERS14654988	SAMEA112657444	Metagenomics	Ion Torrent Proton	5759984.0	human gut metagenome				Denmark		DKAN_78								N					0.0
+PRJEB51776	ERR10906779	D000856	Anorexia Nervosa				ERS14655005	SAMEA112657461	Metagenomics	Ion Torrent Proton	5720945.0	human gut metagenome				Denmark		DKAN_95								N					0.0
+PRJEB51776	ERR10906781	D000856	Anorexia Nervosa				ERS14655006	SAMEA112657462	Metagenomics	Ion Torrent Proton	5691845.0	human gut metagenome				Denmark		DKAN_96								N					0.0
+PRJEB51776	ERR10906543	D000856	Anorexia Nervosa				ERS14654947	SAMEA112657403	Metagenomics	Ion Torrent Proton	5663867.0	human gut metagenome				Denmark		DKAN_37								N					0.0
+PRJEB51776	ERR10906250	D000856	Anorexia Nervosa				ERS14654874	SAMEA112657330	Metagenomics	Ion Torrent Proton	5638546.0	human gut metagenome				Denmark		DKAN_101								N					0.0
+PRJEB51776	ERR10906780	D000856	Anorexia Nervosa				ERS14655005	SAMEA112657461	Metagenomics	Ion Torrent Proton	5632692.0	human gut metagenome				Denmark		DKAN_95								N					0.0
+PRJEB51776	ERR10906663	D000856	Anorexia Nervosa				ERS14654976	SAMEA112657432	Metagenomics	Ion Torrent Proton	5627084.0	human gut metagenome				Denmark		DKAN_66								N					0.0
+PRJEB51776	ERR10906310	D000856	Anorexia Nervosa				ERS14654891	SAMEA112657347	Metagenomics	Ion Torrent Proton	5606976.0	human gut metagenome				Denmark		DKAN_117								N					0.0
+PRJEB51776	ERR10906671	D000856	Anorexia Nervosa				ERS14654978	SAMEA112657434	Metagenomics	Ion Torrent Proton	5605571.0	human gut metagenome				Denmark		DKAN_68								N					0.0
+PRJEB51776	ERR10906463	D000856	Anorexia Nervosa				ERS14654927	SAMEA112657383	Metagenomics	Ion Torrent Proton	5599255.0	human gut metagenome				Denmark		DKAN_17								N					0.0
+PRJEB51776	ERR10906788	D000856	Anorexia Nervosa				ERS14655007	SAMEA112657463	Metagenomics	Ion Torrent Proton	5574419.0	human gut metagenome				Denmark		DKAN_97								N					0.0
+PRJEB51776	ERR10906636	D000856	Anorexia Nervosa				ERS14654970	SAMEA112657426	Metagenomics	Ion Torrent Proton	5569107.0	human gut metagenome				Denmark		DKAN_60								N					0.0
+PRJEB51776	ERR10906203	D000856	Anorexia Nervosa				ERS14654863	SAMEA112657319	Metagenomics	Ion Torrent Proton	5563870.0	human gut metagenome				Denmark		DKAN_01								N					0.0
+PRJEB51776	ERR10906616	D000856	Anorexia Nervosa				ERS14654965	SAMEA112657421	Metagenomics	Ion Torrent Proton	5556367.0	human gut metagenome				Denmark		DKAN_55								N					0.0
+PRJEB51776	ERR10906412	D000856	Anorexia Nervosa				ERS14654914	SAMEA112657370	Metagenomics	Ion Torrent Proton	5537718.0	human gut metagenome				Denmark		DKAN_138								N					0.0
+PRJEB51776	ERR10906215	D000856	Anorexia Nervosa				ERS14654866	SAMEA112657322	Metagenomics	Ion Torrent Proton	5524459.0	human gut metagenome				Denmark		DKAN_04								N					0.0
+PRJEB51776	ERR10906741	D000856	Anorexia Nervosa				ERS14654996	SAMEA112657452	Metagenomics	Ion Torrent Proton	5512376.0	human gut metagenome				Denmark		DKAN_86								N					0.0
+PRJEB51776	ERR10906651	D000856	Anorexia Nervosa				ERS14654974	SAMEA112657430	Metagenomics	Ion Torrent Proton	5483226.0	human gut metagenome				Denmark		DKAN_64								N					0.0
+PRJEB51776	ERR10906713	D000856	Anorexia Nervosa				ERS14654989	SAMEA112657445	Metagenomics	Ion Torrent Proton	5470868.0	human gut metagenome				Denmark		DKAN_79								N					0.0
+PRJEB51776	ERR10906575	D000856	Anorexia Nervosa				ERS14654955	SAMEA112657411	Metagenomics	Ion Torrent Proton	5459877.0	human gut metagenome				Denmark		DKAN_45								N					0.0
+PRJEB51776	ERR10906311	D000856	Anorexia Nervosa				ERS14654891	SAMEA112657347	Metagenomics	Ion Torrent Proton	5457874.0	human gut metagenome				Denmark		DKAN_117								N					0.0
+PRJEB51776	ERR10906454	D000856	Anorexia Nervosa				ERS14654925	SAMEA112657381	Metagenomics	Ion Torrent Proton	5443859.0	human gut metagenome				Denmark		DKAN_15								N					0.0
+PRJEB51776	ERR10906717	D000856	Anorexia Nervosa				ERS14654990	SAMEA112657446	Metagenomics	Ion Torrent Proton	5443445.0	human gut metagenome				Denmark		DKAN_80								N					0.0
+PRJEB51776	ERR10906640	D000856	Anorexia Nervosa				ERS14654971	SAMEA112657427	Metagenomics	Ion Torrent Proton	5440405.0	human gut metagenome				Denmark		DKAN_61								N					0.0
+PRJEB51776	ERR10906754	D000856	Anorexia Nervosa				ERS14654999	SAMEA112657455	Metagenomics	Ion Torrent Proton	5433596.0	human gut metagenome				Denmark		DKAN_89								N					0.0
+PRJEB51776	ERR10906220	D000856	Anorexia Nervosa				ERS14654867	SAMEA112657323	Metagenomics	Ion Torrent Proton	5410331.0	human gut metagenome				Denmark		DKAN_05								N					0.0
+PRJEB51776	ERR10906592	D000856	Anorexia Nervosa				ERS14654959	SAMEA112657415	Metagenomics	Ion Torrent Proton	5408803.0	human gut metagenome				Denmark		DKAN_49								N					0.0
+PRJEB51776	ERR10906254	D000856	Anorexia Nervosa				ERS14654875	SAMEA112657331	Metagenomics	Ion Torrent Proton	5408572.0	human gut metagenome				Denmark		DKAN_102								N					0.0
+PRJEB51776	ERR10906369	D000856	Anorexia Nervosa				ERS14654904	SAMEA112657360	Metagenomics	Ion Torrent Proton	5399871.0	human gut metagenome				Denmark		DKAN_129								N					0.0
+PRJEB51776	ERR10906216	D000856	Anorexia Nervosa				ERS14654866	SAMEA112657322	Metagenomics	Ion Torrent Proton	5389955.0	human gut metagenome				Denmark		DKAN_04								N					0.0
+PRJEB51776	ERR10906204	D000856	Anorexia Nervosa				ERS14654863	SAMEA112657319	Metagenomics	Ion Torrent Proton	5380906.0	human gut metagenome				Denmark		DKAN_01								N					0.0
+PRJEB51776	ERR10906464	D000856	Anorexia Nervosa				ERS14654927	SAMEA112657383	Metagenomics	Ion Torrent Proton	5363017.0	human gut metagenome				Denmark		DKAN_17								N					0.0
+PRJEB51776	ERR10906408	D000856	Anorexia Nervosa				ERS14654913	SAMEA112657369	Metagenomics	Ion Torrent Proton	5357607.0	human gut metagenome				Denmark		DKAN_137								N					0.0
+PRJEB51776	ERR10906402	D000856	Anorexia Nervosa				ERS14654912	SAMEA112657368	Metagenomics	Ion Torrent Proton	5336698.0	human gut metagenome				Denmark		DKAN_136								N					0.0
+PRJEB51776	ERR10906218	D000856	Anorexia Nervosa				ERS14654866	SAMEA112657322	Metagenomics	Ion Torrent Proton	5332899.0	human gut metagenome				Denmark		DKAN_04								N					0.0
+PRJEB51776	ERR10906632	D000856	Anorexia Nervosa				ERS14654969	SAMEA112657425	Metagenomics	Ion Torrent Proton	5330635.0	human gut metagenome				Denmark		DKAN_59								N					0.0
+PRJEB51776	ERR10906615	D000856	Anorexia Nervosa				ERS14654965	SAMEA112657421	Metagenomics	Ion Torrent Proton	5320486.0	human gut metagenome				Denmark		DKAN_55								N					0.0
+PRJEB51776	ERR10906205	D000856	Anorexia Nervosa				ERS14654863	SAMEA112657319	Metagenomics	Ion Torrent Proton	5316164.0	human gut metagenome				Denmark		DKAN_01								N					0.0
+PRJEB51776	ERR10906312	D000856	Anorexia Nervosa				ERS14654891	SAMEA112657347	Metagenomics	Ion Torrent Proton	5315216.0	human gut metagenome				Denmark		DKAN_117								N					0.0
+PRJEB51776	ERR10906458	D000856	Anorexia Nervosa				ERS14654926	SAMEA112657382	Metagenomics	Ion Torrent Proton	5307940.0	human gut metagenome				Denmark		DKAN_16								N					0.0
+PRJEB51776	ERR10906705	D000856	Anorexia Nervosa				ERS14654987	SAMEA112657443	Metagenomics	Ion Torrent Proton	5307713.0	human gut metagenome				Denmark		DKAN_77								N					0.0
+PRJEB51776	ERR10906755	D000856	Anorexia Nervosa				ERS14654999	SAMEA112657455	Metagenomics	Ion Torrent Proton	5305924.0	human gut metagenome				Denmark		DKAN_89								N					0.0
+PRJEB51776	ERR10906313	D000856	Anorexia Nervosa				ERS14654891	SAMEA112657347	Metagenomics	Ion Torrent Proton	5284099.0	human gut metagenome				Denmark		DKAN_117								N					0.0
+PRJEB51776	ERR10906639	D000856	Anorexia Nervosa				ERS14654971	SAMEA112657427	Metagenomics	Ion Torrent Proton	5276106.0	human gut metagenome				Denmark		DKAN_61								N					0.0
+PRJEB51776	ERR10906217	D000856	Anorexia Nervosa				ERS14654866	SAMEA112657322	Metagenomics	Ion Torrent Proton	5273230.0	human gut metagenome				Denmark		DKAN_04								N					0.0
+PRJEB51776	ERR10906455	D000856	Anorexia Nervosa				ERS14654925	SAMEA112657381	Metagenomics	Ion Torrent Proton	5266898.0	human gut metagenome				Denmark		DKAN_15								N					0.0
+PRJEB51776	ERR10906488	D000856	Anorexia Nervosa				ERS14654933	SAMEA112657389	Metagenomics	Ion Torrent Proton	5265924.0	human gut metagenome				Denmark		DKAN_23								N					0.0
+PRJEB51776	ERR10906791	D000856	Anorexia Nervosa				ERS14655008	SAMEA112657464	Metagenomics	Ion Torrent Proton	5263159.0	human gut metagenome				Denmark		DKAN_98								N					0.0
+PRJEB51776	ERR10906655	D000856	Anorexia Nervosa				ERS14654974	SAMEA112657430	Metagenomics	Ion Torrent Proton	5262880.0	human gut metagenome				Denmark		DKAN_64								N					0.0
+PRJEB51776	ERR10906708	D000856	Anorexia Nervosa				ERS14654987	SAMEA112657443	Metagenomics	Ion Torrent Proton	5258100.0	human gut metagenome				Denmark		DKAN_77								N					0.0
+PRJEB51776	ERR10906368	D000856	Anorexia Nervosa				ERS14654904	SAMEA112657360	Metagenomics	Ion Torrent Proton	5253333.0	human gut metagenome				Denmark		DKAN_129								N					0.0
+PRJEB51776	ERR10906419	D000856	Anorexia Nervosa				ERS14654916	SAMEA112657372	Metagenomics	Ion Torrent Proton	5253260.0	human gut metagenome				Denmark		DKAN_14								N					0.0
+PRJEB51776	ERR10906764	D000856	Anorexia Nervosa				ERS14655001	SAMEA112657457	Metagenomics	Ion Torrent Proton	5245165.0	human gut metagenome				Denmark		DKAN_91								N					0.0
+PRJEB51776	ERR10906742	D000856	Anorexia Nervosa				ERS14654996	SAMEA112657452	Metagenomics	Ion Torrent Proton	5232356.0	human gut metagenome				Denmark		DKAN_86								N					0.0
+PRJEB51776	ERR10906649	D000856	Anorexia Nervosa				ERS14654973	SAMEA112657429	Metagenomics	Ion Torrent Proton	5227325.0	human gut metagenome				Denmark		DKAN_63								N					0.0
+PRJEB51776	ERR10906634	D000856	Anorexia Nervosa				ERS14654970	SAMEA112657426	Metagenomics	Ion Torrent Proton	5222473.0	human gut metagenome				Denmark		DKAN_60								N					0.0
+PRJEB51776	ERR10906456	D000856	Anorexia Nervosa				ERS14654925	SAMEA112657381	Metagenomics	Ion Torrent Proton	5218830.0	human gut metagenome				Denmark		DKAN_15								N					0.0
+PRJEB51776	ERR10906576	D000856	Anorexia Nervosa				ERS14654955	SAMEA112657411	Metagenomics	Ion Torrent Proton	5218046.0	human gut metagenome				Denmark		DKAN_45								N					0.0
+PRJEB51776	ERR10906670	D000856	Anorexia Nervosa				ERS14654978	SAMEA112657434	Metagenomics	Ion Torrent Proton	5217687.0	human gut metagenome				Denmark		DKAN_68								N					0.0
+PRJEB51776	ERR10906544	D000856	Anorexia Nervosa				ERS14654947	SAMEA112657403	Metagenomics	Ion Torrent Proton	5216719.0	human gut metagenome				Denmark		DKAN_37								N					0.0
+PRJEB51776	ERR10906600	D000856	Anorexia Nervosa				ERS14654961	SAMEA112657417	Metagenomics	Ion Torrent Proton	5213404.0	human gut metagenome				Denmark		DKAN_51								N					0.0
+PRJEB51776	ERR10906207	D000856	Anorexia Nervosa				ERS14654864	SAMEA112657320	Metagenomics	Ion Torrent Proton	5210083.0	human gut metagenome				Denmark		DKAN_02								N					0.0
+PRJEB51776	ERR10906209	D000856	Anorexia Nervosa				ERS14654864	SAMEA112657320	Metagenomics	Ion Torrent Proton	5198093.0	human gut metagenome				Denmark		DKAN_02								N					0.0
+PRJEB51776	ERR10906646	D000856	Anorexia Nervosa				ERS14654972	SAMEA112657428	Metagenomics	Ion Torrent Proton	5183616.0	human gut metagenome				Denmark		DKAN_62								N					0.0
+PRJEB51776	ERR10906367	D000856	Anorexia Nervosa				ERS14654904	SAMEA112657360	Metagenomics	Ion Torrent Proton	5182354.0	human gut metagenome				Denmark		DKAN_129								N					0.0
+PRJEB51776	ERR10906574	D000856	Anorexia Nervosa				ERS14654955	SAMEA112657411	Metagenomics	Ion Torrent Proton	5181029.0	human gut metagenome				Denmark		DKAN_45								N					0.0
+PRJEB51776	ERR10906459	D000856	Anorexia Nervosa				ERS14654926	SAMEA112657382	Metagenomics	Ion Torrent Proton	5147827.0	human gut metagenome				Denmark		DKAN_16								N					0.0
+PRJEB51776	ERR10906782	D000856	Anorexia Nervosa				ERS14655006	SAMEA112657462	Metagenomics	Ion Torrent Proton	5145450.0	human gut metagenome				Denmark		DKAN_96								N					0.0
+PRJEB51776	ERR10906321	D000856	Anorexia Nervosa				ERS14654893	SAMEA112657349	Metagenomics	Ion Torrent Proton	5141324.0	human gut metagenome				Denmark		DKAN_119								N					0.0
+PRJEB51776	ERR10906322	D000856	Anorexia Nervosa				ERS14654893	SAMEA112657349	Metagenomics	Ion Torrent Proton	5131965.0	human gut metagenome				Denmark		DKAN_119								N					0.0
+PRJEB51776	ERR10906457	D000856	Anorexia Nervosa				ERS14654925	SAMEA112657381	Metagenomics	Ion Torrent Proton	5126716.0	human gut metagenome				Denmark		DKAN_15								N					0.0
+PRJEB51776	ERR10906213	D000856	Anorexia Nervosa				ERS14654865	SAMEA112657321	Metagenomics	Ion Torrent Proton	5120978.0	human gut metagenome				Denmark		DKAN_03								N					0.0
+PRJEB51776	ERR10906720	D000856	Anorexia Nervosa				ERS14654990	SAMEA112657446	Metagenomics	Ion Torrent Proton	5118539.0	human gut metagenome				Denmark		DKAN_80								N					0.0
+PRJEB51776	ERR10906795	D000856	Anorexia Nervosa				ERS14655009	SAMEA112657465	Metagenomics	Ion Torrent Proton	5116063.0	human gut metagenome				Denmark		DKAN_99								N					0.0
+PRJEB51776	ERR10906784	D000856	Anorexia Nervosa				ERS14655006	SAMEA112657462	Metagenomics	Ion Torrent Proton	5108274.0	human gut metagenome				Denmark		DKAN_96								N					0.0
+PRJEB51776	ERR10906792	D000856	Anorexia Nervosa				ERS14655008	SAMEA112657464	Metagenomics	Ion Torrent Proton	5100954.0	human gut metagenome				Denmark		DKAN_98								N					0.0
+PRJEB51776	ERR10906674	D000856	Anorexia Nervosa				ERS14654979	SAMEA112657435	Metagenomics	Ion Torrent Proton	5089172.0	human gut metagenome				Denmark		DKAN_69								N					0.0
+PRJEB51776	ERR10906208	D000856	Anorexia Nervosa				ERS14654864	SAMEA112657320	Metagenomics	Ion Torrent Proton	5065091.0	human gut metagenome				Denmark		DKAN_02								N					0.0
+PRJEB51776	ERR10906756	D000856	Anorexia Nervosa				ERS14654999	SAMEA112657455	Metagenomics	Ion Torrent Proton	5063714.0	human gut metagenome				Denmark		DKAN_89								N					0.0
+PRJEB51776	ERR10906712	D000856	Anorexia Nervosa				ERS14654988	SAMEA112657444	Metagenomics	Ion Torrent Proton	5053734.0	human gut metagenome				Denmark		DKAN_78								N					0.0
+PRJEB51776	ERR10906710	D000856	Anorexia Nervosa				ERS14654988	SAMEA112657444	Metagenomics	Ion Torrent Proton	5052830.0	human gut metagenome				Denmark		DKAN_78								N					0.0
+PRJEB51776	ERR10906465	D000856	Anorexia Nervosa				ERS14654927	SAMEA112657383	Metagenomics	Ion Torrent Proton	5039588.0	human gut metagenome				Denmark		DKAN_17								N					0.0
+PRJEB51776	ERR10906744	D000856	Anorexia Nervosa				ERS14654996	SAMEA112657452	Metagenomics	Ion Torrent Proton	5037614.0	human gut metagenome				Denmark		DKAN_86								N					0.0
+PRJEB51776	ERR10906370	D000856	Anorexia Nervosa				ERS14654904	SAMEA112657360	Metagenomics	Ion Torrent Proton	5037463.0	human gut metagenome				Denmark		DKAN_129								N					0.0
+PRJEB51776	ERR10906662	D000856	Anorexia Nervosa				ERS14654976	SAMEA112657432	Metagenomics	Ion Torrent Proton	5036151.0	human gut metagenome				Denmark		DKAN_66								N					0.0
+PRJEB51776	ERR10906356	D000856	Anorexia Nervosa				ERS14654901	SAMEA112657357	Metagenomics	Ion Torrent Proton	5035236.0	human gut metagenome				Denmark		DKAN_126								N					0.0
+PRJEB51776	ERR10906377	D000856	Anorexia Nervosa				ERS14654906	SAMEA112657362	Metagenomics	Ion Torrent Proton	5031640.0	human gut metagenome				Denmark		DKAN_130								N					0.0
+PRJEB51776	ERR10906716	D000856	Anorexia Nervosa				ERS14654989	SAMEA112657445	Metagenomics	Ion Torrent Proton	5029218.0	human gut metagenome				Denmark		DKAN_79								N					0.0
+PRJEB51776	ERR10906558	D000856	Anorexia Nervosa				ERS14654951	SAMEA112657407	Metagenomics	Ion Torrent Proton	5005252.0	human gut metagenome				Denmark		DKAN_41								N					0.0
+PRJEB51776	ERR10906542	D000856	Anorexia Nervosa				ERS14654947	SAMEA112657403	Metagenomics	Ion Torrent Proton	5003725.0	human gut metagenome				Denmark		DKAN_37								N					0.0
+PRJEB51776	ERR10906577	D000856	Anorexia Nervosa				ERS14654955	SAMEA112657411	Metagenomics	Ion Torrent Proton	5002059.0	human gut metagenome				Denmark		DKAN_45								N					0.0
+PRJEB51776	ERR10906206	D000856	Anorexia Nervosa				ERS14654863	SAMEA112657319	Metagenomics	Ion Torrent Proton	4994698.0	human gut metagenome				Denmark		DKAN_01								N					0.0
+PRJEB51776	ERR10906724	D000856	Anorexia Nervosa				ERS14654991	SAMEA112657447	Metagenomics	Ion Torrent Proton	4993776.0	human gut metagenome				Denmark		DKAN_81								N					0.0
+PRJEB51776	ERR10906486	D000856	Anorexia Nervosa				ERS14654933	SAMEA112657389	Metagenomics	Ion Torrent Proton	4991570.0	human gut metagenome				Denmark		DKAN_23								N					0.0
+PRJEB51776	ERR10906545	D000856	Anorexia Nervosa				ERS14654947	SAMEA112657403	Metagenomics	Ion Torrent Proton	4975990.0	human gut metagenome				Denmark		DKAN_37								N					0.0
+PRJEB51776	ERR10906711	D000856	Anorexia Nervosa				ERS14654988	SAMEA112657444	Metagenomics	Ion Torrent Proton	4968611.0	human gut metagenome				Denmark		DKAN_78								N					0.0
+PRJEB51776	ERR10906743	D000856	Anorexia Nervosa				ERS14654996	SAMEA112657452	Metagenomics	Ion Torrent Proton	4957660.0	human gut metagenome				Denmark		DKAN_86								N					0.0
+PRJEB51776	ERR10906612	D000856	Anorexia Nervosa				ERS14654964	SAMEA112657420	Metagenomics	Ion Torrent Proton	4953876.0	human gut metagenome				Denmark		DKAN_54								N					0.0
+PRJEB51776	ERR10906704	D000856	Anorexia Nervosa				ERS14654986	SAMEA112657442	Metagenomics	Ion Torrent Proton	4951558.0	human gut metagenome				Denmark		DKAN_76								N					0.0
+PRJEB51776	ERR10906562	D000856	Anorexia Nervosa				ERS14654952	SAMEA112657408	Metagenomics	Ion Torrent Proton	4946674.0	human gut metagenome				Denmark		DKAN_42								N					0.0
+PRJEB51776	ERR10906678	D000856	Anorexia Nervosa				ERS14654980	SAMEA112657436	Metagenomics	Ion Torrent Proton	4945773.0	human gut metagenome				Denmark		DKAN_70								N					0.0
+PRJEB51776	ERR10906706	D000856	Anorexia Nervosa				ERS14654987	SAMEA112657443	Metagenomics	Ion Torrent Proton	4941206.0	human gut metagenome				Denmark		DKAN_77								N					0.0
+PRJEB51776	ERR10906718	D000856	Anorexia Nervosa				ERS14654990	SAMEA112657446	Metagenomics	Ion Torrent Proton	4930233.0	human gut metagenome				Denmark		DKAN_80								N					0.0
+PRJEB51776	ERR10906460	D000856	Anorexia Nervosa				ERS14654926	SAMEA112657382	Metagenomics	Ion Torrent Proton	4922274.0	human gut metagenome				Denmark		DKAN_16								N					0.0
+PRJEB51776	ERR10906489	D000856	Anorexia Nervosa				ERS14654933	SAMEA112657389	Metagenomics	Ion Torrent Proton	4920851.0	human gut metagenome				Denmark		DKAN_23								N					0.0
+PRJEB51776	ERR10906719	D000856	Anorexia Nervosa				ERS14654990	SAMEA112657446	Metagenomics	Ion Torrent Proton	4919456.0	human gut metagenome				Denmark		DKAN_80								N					0.0
+PRJEB51776	ERR10906715	D000856	Anorexia Nervosa				ERS14654989	SAMEA112657445	Metagenomics	Ion Torrent Proton	4913469.0	human gut metagenome				Denmark		DKAN_79								N					0.0
+PRJEB51776	ERR10906604	D000856	Anorexia Nervosa				ERS14654962	SAMEA112657418	Metagenomics	Ion Torrent Proton	4909831.0	human gut metagenome				Denmark		DKAN_52								N					0.0
+PRJEB51776	ERR10906472	D000856	Anorexia Nervosa				ERS14654929	SAMEA112657385	Metagenomics	Ion Torrent Proton	4907994.0	human gut metagenome				Denmark		DKAN_19								N					0.0
+PRJEB51776	ERR10906538	D000856	Anorexia Nervosa				ERS14654946	SAMEA112657402	Metagenomics	Ion Torrent Proton	4906311.0	human gut metagenome				Denmark		DKAN_36								N					0.0
+PRJEB51776	ERR10906578	D000856	Anorexia Nervosa				ERS14654956	SAMEA112657412	Metagenomics	Ion Torrent Proton	4896603.0	human gut metagenome				Denmark		DKAN_46								N					0.0
+PRJEB51776	ERR10906462	D000856	Anorexia Nervosa				ERS14654927	SAMEA112657383	Metagenomics	Ion Torrent Proton	4890696.0	human gut metagenome				Denmark		DKAN_17								N					0.0
+PRJEB51776	ERR10906484	D000856	Anorexia Nervosa				ERS14654932	SAMEA112657388	Metagenomics	Ion Torrent Proton	4886425.0	human gut metagenome				Denmark		DKAN_22								N					0.0
+PRJEB51776	ERR10906796	D000856	Anorexia Nervosa				ERS14655009	SAMEA112657465	Metagenomics	Ion Torrent Proton	4885144.0	human gut metagenome				Denmark		DKAN_99								N					0.0
+PRJEB51776	ERR10906760	D000856	Anorexia Nervosa				ERS14655000	SAMEA112657456	Metagenomics	Ion Torrent Proton	4883261.0	human gut metagenome				Denmark		DKAN_90								N					0.0
+PRJEB51776	ERR10906590	D000856	Anorexia Nervosa				ERS14654959	SAMEA112657415	Metagenomics	Ion Torrent Proton	4882155.0	human gut metagenome				Denmark		DKAN_49								N					0.0
+PRJEB51776	ERR10906506	D000856	Anorexia Nervosa				ERS14654938	SAMEA112657394	Metagenomics	Ion Torrent Proton	4881963.0	human gut metagenome				Denmark		DKAN_28								N					0.0
+PRJEB51776	ERR10906714	D000856	Anorexia Nervosa				ERS14654989	SAMEA112657445	Metagenomics	Ion Torrent Proton	4880167.0	human gut metagenome				Denmark		DKAN_79								N					0.0
+PRJEB51776	ERR10906526	D000856	Anorexia Nervosa				ERS14654943	SAMEA112657399	Metagenomics	Ion Torrent Proton	4875392.0	human gut metagenome				Denmark		DKAN_33								N					0.0
+PRJEB51776	ERR10906722	D000856	Anorexia Nervosa				ERS14654991	SAMEA112657447	Metagenomics	Ion Torrent Proton	4866690.0	human gut metagenome				Denmark		DKAN_81								N					0.0
+PRJEB51776	ERR10906534	D000856	Anorexia Nervosa				ERS14654945	SAMEA112657401	Metagenomics	Ion Torrent Proton	4865476.0	human gut metagenome				Denmark		DKAN_35								N					0.0
+PRJEB51776	ERR10906783	D000856	Anorexia Nervosa				ERS14655006	SAMEA112657462	Metagenomics	Ion Torrent Proton	4860344.0	human gut metagenome				Denmark		DKAN_96								N					0.0
+PRJEB51776	ERR10906261	D000856	Anorexia Nervosa				ERS14654877	SAMEA112657333	Metagenomics	Ion Torrent Proton	4858561.0	human gut metagenome				Denmark		DKAN_104								N					0.0
+PRJEB51776	ERR10906482	D000856	Anorexia Nervosa				ERS14654932	SAMEA112657388	Metagenomics	Ion Torrent Proton	4856794.0	human gut metagenome				Denmark		DKAN_22								N					0.0
+PRJEB51776	ERR10906470	D000856	Anorexia Nervosa				ERS14654929	SAMEA112657385	Metagenomics	Ion Torrent Proton	4850883.0	human gut metagenome				Denmark		DKAN_19								N					0.0
+PRJEB51776	ERR10906586	D000856	Anorexia Nervosa				ERS14654958	SAMEA112657414	Metagenomics	Ion Torrent Proton	4848426.0	human gut metagenome				Denmark		DKAN_48								N					0.0
+PRJEB51776	ERR10906660	D000856	Anorexia Nervosa				ERS14654976	SAMEA112657432	Metagenomics	Ion Torrent Proton	4840899.0	human gut metagenome				Denmark		DKAN_66								N					0.0
+PRJEB51776	ERR10906507	D000856	Anorexia Nervosa				ERS14654938	SAMEA112657394	Metagenomics	Ion Torrent Proton	4826797.0	human gut metagenome				Denmark		DKAN_28								N					0.0
+PRJEB51776	ERR10906753	D000856	Anorexia Nervosa				ERS14654999	SAMEA112657455	Metagenomics	Ion Torrent Proton	4813909.0	human gut metagenome				Denmark		DKAN_89								N					0.0
+PRJEB51776	ERR10906528	D000856	Anorexia Nervosa				ERS14654943	SAMEA112657399	Metagenomics	Ion Torrent Proton	4813530.0	human gut metagenome				Denmark		DKAN_33								N					0.0
+PRJEB51776	ERR10906518	D000856	Anorexia Nervosa				ERS14654941	SAMEA112657397	Metagenomics	Ion Torrent Proton	4800386.0	human gut metagenome				Denmark		DKAN_31								N					0.0
+PRJEB51776	ERR10906319	D000856	Anorexia Nervosa				ERS14654893	SAMEA112657349	Metagenomics	Ion Torrent Proton	4787173.0	human gut metagenome				Denmark		DKAN_119								N					0.0
+PRJEB51776	ERR10906707	D000856	Anorexia Nervosa				ERS14654987	SAMEA112657443	Metagenomics	Ion Torrent Proton	4785453.0	human gut metagenome				Denmark		DKAN_77								N					0.0
+PRJEB51776	ERR10906652	D000856	Anorexia Nervosa				ERS14654974	SAMEA112657430	Metagenomics	Ion Torrent Proton	4785045.0	human gut metagenome				Denmark		DKAN_64								N					0.0
+PRJEB51776	ERR10906478	D000856	Anorexia Nervosa				ERS14654931	SAMEA112657387	Metagenomics	Ion Torrent Proton	4782986.0	human gut metagenome				Denmark		DKAN_21								N					0.0
+PRJEB51776	ERR10906417	D000856	Anorexia Nervosa				ERS14654916	SAMEA112657372	Metagenomics	Ion Torrent Proton	4781849.0	human gut metagenome				Denmark		DKAN_14								N					0.0
+PRJEB51776	ERR10906752	D000856	Anorexia Nervosa				ERS14654998	SAMEA112657454	Metagenomics	Ion Torrent Proton	4777569.0	human gut metagenome				Denmark		DKAN_88								N					0.0
+PRJEB51776	ERR10906630	D000856	Anorexia Nervosa				ERS14654969	SAMEA112657425	Metagenomics	Ion Torrent Proton	4769115.0	human gut metagenome				Denmark		DKAN_59								N					0.0
+PRJEB51776	ERR10906635	D000856	Anorexia Nervosa				ERS14654970	SAMEA112657426	Metagenomics	Ion Torrent Proton	4768014.0	human gut metagenome				Denmark		DKAN_60								N					0.0
+PRJEB51776	ERR10906560	D000856	Anorexia Nervosa				ERS14654951	SAMEA112657407	Metagenomics	Ion Torrent Proton	4765983.0	human gut metagenome				Denmark		DKAN_41								N					0.0
+PRJEB51776	ERR10906429	D000856	Anorexia Nervosa				ERS14654919	SAMEA112657375	Metagenomics	Ion Torrent Proton	4763591.0	human gut metagenome				Denmark		DKAN_142								N					0.0
+PRJEB51776	ERR10906546	D000856	Anorexia Nervosa				ERS14654948	SAMEA112657404	Metagenomics	Ion Torrent Proton	4759474.0	human gut metagenome				Denmark		DKAN_38								N					0.0
+PRJEB51776	ERR10906378	D000856	Anorexia Nervosa				ERS14654906	SAMEA112657362	Metagenomics	Ion Torrent Proton	4739732.0	human gut metagenome				Denmark		DKAN_130								N					0.0
+PRJEB51776	ERR10906352	D000856	Anorexia Nervosa				ERS14654901	SAMEA112657357	Metagenomics	Ion Torrent Proton	4725239.0	human gut metagenome				Denmark		DKAN_126								N					0.0
+PRJEB51776	ERR10906320	D000856	Anorexia Nervosa				ERS14654893	SAMEA112657349	Metagenomics	Ion Torrent Proton	4722239.0	human gut metagenome				Denmark		DKAN_119								N					0.0
+PRJEB51776	ERR10906355	D000856	Anorexia Nervosa				ERS14654901	SAMEA112657357	Metagenomics	Ion Torrent Proton	4706894.0	human gut metagenome				Denmark		DKAN_126								N					0.0
+PRJEB51776	ERR10906473	D000856	Anorexia Nervosa				ERS14654929	SAMEA112657385	Metagenomics	Ion Torrent Proton	4705578.0	human gut metagenome				Denmark		DKAN_19								N					0.0
+PRJEB51776	ERR10906418	D000856	Anorexia Nervosa				ERS14654916	SAMEA112657372	Metagenomics	Ion Torrent Proton	4703181.0	human gut metagenome				Denmark		DKAN_14								N					0.0
+PRJEB51776	ERR10906661	D000856	Anorexia Nervosa				ERS14654976	SAMEA112657432	Metagenomics	Ion Torrent Proton	4694096.0	human gut metagenome				Denmark		DKAN_66								N					0.0
+PRJEB51776	ERR10906723	D000856	Anorexia Nervosa				ERS14654991	SAMEA112657447	Metagenomics	Ion Torrent Proton	4681652.0	human gut metagenome				Denmark		DKAN_81								N					0.0
+PRJEB51776	ERR10906668	D000856	Anorexia Nervosa				ERS14654978	SAMEA112657434	Metagenomics	Ion Torrent Proton	4646511.0	human gut metagenome				Denmark		DKAN_68								N					0.0
+PRJEB51776	ERR10906669	D000856	Anorexia Nervosa				ERS14654978	SAMEA112657434	Metagenomics	Ion Torrent Proton	4637410.0	human gut metagenome				Denmark		DKAN_68								N					0.0
+PRJEB51776	ERR10906466	D000856	Anorexia Nervosa				ERS14654928	SAMEA112657384	Metagenomics	Ion Torrent Proton	4628486.0	human gut metagenome				Denmark		DKAN_18								N					0.0
+PRJEB51776	ERR10906262	D000856	Anorexia Nervosa				ERS14654877	SAMEA112657333	Metagenomics	Ion Torrent Proton	4625475.0	human gut metagenome				Denmark		DKAN_104								N					0.0
+PRJEB51776	ERR10906260	D000856	Anorexia Nervosa				ERS14654877	SAMEA112657333	Metagenomics	Ion Torrent Proton	4615816.0	human gut metagenome				Denmark		DKAN_104								N					0.0
+PRJEB51776	ERR10906529	D000856	Anorexia Nervosa				ERS14654943	SAMEA112657399	Metagenomics	Ion Torrent Proton	4615277.0	human gut metagenome				Denmark		DKAN_33								N					0.0
+PRJEB51776	ERR10906430	D000856	Anorexia Nervosa				ERS14654919	SAMEA112657375	Metagenomics	Ion Torrent Proton	4593684.0	human gut metagenome				Denmark		DKAN_142								N					0.0
+PRJEB51776	ERR10906354	D000856	Anorexia Nervosa				ERS14654901	SAMEA112657357	Metagenomics	Ion Torrent Proton	4586752.0	human gut metagenome				Denmark		DKAN_126								N					0.0
+PRJEB51776	ERR10906519	D000856	Anorexia Nervosa				ERS14654941	SAMEA112657397	Metagenomics	Ion Torrent Proton	4586453.0	human gut metagenome				Denmark		DKAN_31								N					0.0
+PRJEB51776	ERR10906608	D000856	Anorexia Nervosa				ERS14654963	SAMEA112657419	Metagenomics	Ion Torrent Proton	4564484.0	human gut metagenome				Denmark		DKAN_53								N					0.0
+PRJEB51776	ERR10906561	D000856	Anorexia Nervosa				ERS14654951	SAMEA112657407	Metagenomics	Ion Torrent Proton	4533502.0	human gut metagenome				Denmark		DKAN_41								N					0.0
+PRJEB51776	ERR10906211	D000856	Anorexia Nervosa				ERS14654865	SAMEA112657321	Metagenomics	Ion Torrent Proton	4531454.0	human gut metagenome				Denmark		DKAN_03								N					0.0
+PRJEB51776	ERR10906485	D000856	Anorexia Nervosa				ERS14654932	SAMEA112657388	Metagenomics	Ion Torrent Proton	4516579.0	human gut metagenome				Denmark		DKAN_22								N					0.0
+PRJEB51776	ERR10906530	D000856	Anorexia Nervosa				ERS14654944	SAMEA112657400	Metagenomics	Ion Torrent Proton	4512010.0	human gut metagenome				Denmark		DKAN_34								N					0.0
+PRJEB51776	ERR10906564	D000856	Anorexia Nervosa				ERS14654952	SAMEA112657408	Metagenomics	Ion Torrent Proton	4481714.0	human gut metagenome				Denmark		DKAN_42								N					0.0
+PRJEB51776	ERR10906620	D000856	Anorexia Nervosa				ERS14654966	SAMEA112657422	Metagenomics	Ion Torrent Proton	4455893.0	human gut metagenome				Denmark		DKAN_56								N					0.0
+PRJEB51776	ERR10906591	D000856	Anorexia Nervosa				ERS14654959	SAMEA112657415	Metagenomics	Ion Torrent Proton	4447865.0	human gut metagenome				Denmark		DKAN_49								N					0.0
+PRJEB51776	ERR10906480	D000856	Anorexia Nervosa				ERS14654931	SAMEA112657387	Metagenomics	Ion Torrent Proton	4421689.0	human gut metagenome				Denmark		DKAN_21								N					0.0
+PRJEB51776	ERR10906508	D000856	Anorexia Nervosa				ERS14654938	SAMEA112657394	Metagenomics	Ion Torrent Proton	4409614.0	human gut metagenome				Denmark		DKAN_28								N					0.0
+PRJEB51776	ERR10906617	D000856	Anorexia Nervosa				ERS14654965	SAMEA112657421	Metagenomics	Ion Torrent Proton	4400505.0	human gut metagenome				Denmark		DKAN_55								N					0.0
+PRJEB51776	ERR10906212	D000856	Anorexia Nervosa				ERS14654865	SAMEA112657321	Metagenomics	Ion Torrent Proton	4384304.0	human gut metagenome				Denmark		DKAN_03								N					0.0
+PRJEB51776	ERR10906702	D000856	Anorexia Nervosa				ERS14654986	SAMEA112657442	Metagenomics	Ion Torrent Proton	4376937.0	human gut metagenome				Denmark		DKAN_76								N					0.0
+PRJEB51776	ERR10906762	D000856	Anorexia Nervosa				ERS14655001	SAMEA112657457	Metagenomics	Ion Torrent Proton	4375255.0	human gut metagenome				Denmark		DKAN_91								N					0.0
+PRJEB51776	ERR10906540	D000856	Anorexia Nervosa				ERS14654946	SAMEA112657402	Metagenomics	Ion Torrent Proton	4368375.0	human gut metagenome				Denmark		DKAN_36								N					0.0
+PRJEB51776	ERR10906631	D000856	Anorexia Nervosa				ERS14654969	SAMEA112657425	Metagenomics	Ion Torrent Proton	4365310.0	human gut metagenome				Denmark		DKAN_59								N					0.0
+PRJEB51776	ERR10906598	D000856	Anorexia Nervosa				ERS14654961	SAMEA112657417	Metagenomics	Ion Torrent Proton	4363026.0	human gut metagenome				Denmark		DKAN_51								N					0.0
+PRJEB51776	ERR10906703	D000856	Anorexia Nervosa				ERS14654986	SAMEA112657442	Metagenomics	Ion Torrent Proton	4343674.0	human gut metagenome				Denmark		DKAN_76								N					0.0
+PRJEB51776	ERR10906653	D000856	Anorexia Nervosa				ERS14654974	SAMEA112657430	Metagenomics	Ion Torrent Proton	4311435.0	human gut metagenome				Denmark		DKAN_64								N					0.0
+PRJEB51776	ERR10906536	D000856	Anorexia Nervosa				ERS14654945	SAMEA112657401	Metagenomics	Ion Torrent Proton	4303505.0	human gut metagenome				Denmark		DKAN_35								N					0.0
+PRJEB51776	ERR10906580	D000856	Anorexia Nervosa				ERS14654956	SAMEA112657412	Metagenomics	Ion Torrent Proton	4293010.0	human gut metagenome				Denmark		DKAN_46								N					0.0
+PRJEB51776	ERR10906520	D000856	Anorexia Nervosa				ERS14654941	SAMEA112657397	Metagenomics	Ion Torrent Proton	4279308.0	human gut metagenome				Denmark		DKAN_31								N					0.0
+PRJEB51776	ERR10906565	D000856	Anorexia Nervosa				ERS14654952	SAMEA112657408	Metagenomics	Ion Torrent Proton	4269751.0	human gut metagenome				Denmark		DKAN_42								N					0.0
+PRJEB51776	ERR10906522	D000856	Anorexia Nervosa				ERS14654942	SAMEA112657398	Metagenomics	Ion Torrent Proton	4269002.0	human gut metagenome				Denmark		DKAN_32								N					0.0
+PRJEB51776	ERR10906541	D000856	Anorexia Nervosa				ERS14654946	SAMEA112657402	Metagenomics	Ion Torrent Proton	4168476.0	human gut metagenome				Denmark		DKAN_36								N					0.0
+PRJEB51776	ERR10906610	D000856	Anorexia Nervosa				ERS14654964	SAMEA112657420	Metagenomics	Ion Torrent Proton	4151976.0	human gut metagenome				Denmark		DKAN_54								N					0.0
+PRJEB51776	ERR10906537	D000856	Anorexia Nervosa				ERS14654945	SAMEA112657401	Metagenomics	Ion Torrent Proton	4148309.0	human gut metagenome				Denmark		DKAN_35								N					0.0
+PRJEB51776	ERR10906643	D000856	Anorexia Nervosa				ERS14654972	SAMEA112657428	Metagenomics	Ion Torrent Proton	4137092.0	human gut metagenome				Denmark		DKAN_62								N					0.0
+PRJEB51776	ERR10906548	D000856	Anorexia Nervosa				ERS14654948	SAMEA112657404	Metagenomics	Ion Torrent Proton	4097828.0	human gut metagenome				Denmark		DKAN_38								N					0.0
+PRJEB51776	ERR10906641	D000856	Anorexia Nervosa				ERS14654971	SAMEA112657427	Metagenomics	Ion Torrent Proton	4095666.0	human gut metagenome				Denmark		DKAN_61								N					0.0
+PRJEB51776	ERR10906581	D000856	Anorexia Nervosa				ERS14654956	SAMEA112657412	Metagenomics	Ion Torrent Proton	4095481.0	human gut metagenome				Denmark		DKAN_46								N					0.0
+PRJEB51776	ERR10906481	D000856	Anorexia Nervosa				ERS14654931	SAMEA112657387	Metagenomics	Ion Torrent Proton	4071528.0	human gut metagenome				Denmark		DKAN_21								N					0.0
+PRJEB51776	ERR10906758	D000856	Anorexia Nervosa				ERS14655000	SAMEA112657456	Metagenomics	Ion Torrent Proton	4019909.0	human gut metagenome				Denmark		DKAN_90								N					0.0
+PRJEB51776	ERR10906599	D000856	Anorexia Nervosa				ERS14654961	SAMEA112657417	Metagenomics	Ion Torrent Proton	3988789.0	human gut metagenome				Denmark		DKAN_51								N					0.0
+PRJEB51776	ERR10906602	D000856	Anorexia Nervosa				ERS14654962	SAMEA112657418	Metagenomics	Ion Torrent Proton	3982782.0	human gut metagenome				Denmark		DKAN_52								N					0.0
+PRJEB51776	ERR10906750	D000856	Anorexia Nervosa				ERS14654998	SAMEA112657454	Metagenomics	Ion Torrent Proton	3959284.0	human gut metagenome				Denmark		DKAN_88								N					0.0
+PRJEB51776	ERR10906772	D000856	Anorexia Nervosa				ERS14655003	SAMEA112657459	Metagenomics	Ion Torrent Proton	3934698.0	human gut metagenome				Denmark		DKAN_93								N					0.0
+PRJEB51776	ERR10906549	D000856	Anorexia Nervosa				ERS14654948	SAMEA112657404	Metagenomics	Ion Torrent Proton	3930091.0	human gut metagenome				Denmark		DKAN_38								N					0.0
+PRJEB51776	ERR10906523	D000856	Anorexia Nervosa				ERS14654942	SAMEA112657398	Metagenomics	Ion Torrent Proton	3912699.0	human gut metagenome				Denmark		DKAN_32								N					0.0
+PRJEB51776	ERR10906644	D000856	Anorexia Nervosa				ERS14654972	SAMEA112657428	Metagenomics	Ion Torrent Proton	3769119.0	human gut metagenome				Denmark		DKAN_62								N					0.0
+PRJEB51776	ERR10906751	D000856	Anorexia Nervosa				ERS14654998	SAMEA112657454	Metagenomics	Ion Torrent Proton	3750039.0	human gut metagenome				Denmark		DKAN_88								N					0.0
+PRJEB51776	ERR10906759	D000856	Anorexia Nervosa				ERS14655000	SAMEA112657456	Metagenomics	Ion Torrent Proton	3728457.0	human gut metagenome				Denmark		DKAN_90								N					0.0
+PRJEB51776	ERR10906611	D000856	Anorexia Nervosa				ERS14654964	SAMEA112657420	Metagenomics	Ion Torrent Proton	3723675.0	human gut metagenome				Denmark		DKAN_54								N					0.0
+PRJEB51776	ERR10906524	D000856	Anorexia Nervosa				ERS14654942	SAMEA112657398	Metagenomics	Ion Torrent Proton	3682921.0	human gut metagenome				Denmark		DKAN_32								N					0.0
+PRJEB51776	ERR10906469	D000856	Anorexia Nervosa				ERS14654928	SAMEA112657384	Metagenomics	Ion Torrent Proton	3615909.0	human gut metagenome				Denmark		DKAN_18								N					0.0
+PRJEB51776	ERR10906603	D000856	Anorexia Nervosa				ERS14654962	SAMEA112657418	Metagenomics	Ion Torrent Proton	3602396.0	human gut metagenome				Denmark		DKAN_52								N					0.0
+PRJEB51776	ERR10906468	D000856	Anorexia Nervosa				ERS14654928	SAMEA112657384	Metagenomics	Ion Torrent Proton	3418152.0	human gut metagenome				Denmark		DKAN_18								N					0.0
+PRJEB51776	ERR10906675	D000856	Anorexia Nervosa				ERS14654979	SAMEA112657435	Metagenomics	Ion Torrent Proton	3407947.0	human gut metagenome				Denmark		DKAN_69								N					0.0
+PRJEB51776	ERR10906794	D000856	Anorexia Nervosa				ERS14655009	SAMEA112657465	Metagenomics	Ion Torrent Proton	3402898.0	human gut metagenome				Denmark		DKAN_99								N					0.0
+PRJEB51776	ERR10906777	D000856	Anorexia Nervosa				ERS14655005	SAMEA112657461	Metagenomics	Ion Torrent Proton	3323743.0	human gut metagenome				Denmark		DKAN_95								N					0.0
+PRJEB51776	ERR10906679	D000856	Anorexia Nervosa				ERS14654980	SAMEA112657436	Metagenomics	Ion Torrent Proton	3289673.0	human gut metagenome				Denmark		DKAN_70								N					0.0
+PRJEB51776	ERR10906589	D000856	Anorexia Nervosa				ERS14654958	SAMEA112657414	Metagenomics	Ion Torrent Proton	3166746.0	human gut metagenome				Denmark		DKAN_48								N					0.0
+PRJEB51776	ERR10906740	D000856	Anorexia Nervosa				ERS14654995	SAMEA112657451	Metagenomics	Ion Torrent Proton	3105901.0	human gut metagenome				Denmark		DKAN_85								N					0.0
+PRJEB51776	ERR10906790	D000856	Anorexia Nervosa				ERS14655008	SAMEA112657464	Metagenomics	Ion Torrent Proton	2799511.0	human gut metagenome				Denmark		DKAN_98								N					0.0
+PRJEB51776	ERR10906738	D000856	Anorexia Nervosa				ERS14654995	SAMEA112657451	Metagenomics	Ion Torrent Proton	2615788.0	human gut metagenome				Denmark		DKAN_85								N					0.0
+PRJEB51776	ERR10906650	D000856	Anorexia Nervosa				ERS14654973	SAMEA112657429	Metagenomics	Ion Torrent Proton	2558207.0	human gut metagenome				Denmark		DKAN_63								N					0.0
+PRJEB51776	ERR10906654	D000856	Anorexia Nervosa				ERS14654974	SAMEA112657430	Metagenomics	Ion Torrent Proton	2362412.0	human gut metagenome				Denmark		DKAN_64								N					0.0
+PRJEB51776	ERR10906248	D000856	Anorexia Nervosa				ERS14654874	SAMEA112657330	Metagenomics	Ion Torrent Proton	2147756.0	human gut metagenome				Denmark		DKAN_101								N					0.0
+PRJEB51776	ERR10906531	D000856	Anorexia Nervosa				ERS14654944	SAMEA112657400	Metagenomics	Ion Torrent Proton	2080582.0	human gut metagenome				Denmark		DKAN_34								N					0.0
+PRJEB51776	ERR10906736	D000856	Anorexia Nervosa				ERS14654994	SAMEA112657450	Metagenomics	Ion Torrent Proton	1992123.0	human gut metagenome				Denmark		DKAN_84								N					0.0
+PRJEB51776	ERR10906252	D000856	Anorexia Nervosa				ERS14654875	SAMEA112657331	Metagenomics	Ion Torrent Proton	1881705.0	human gut metagenome				Denmark		DKAN_102								N					0.0
+PRJEB51776	ERR10906734	D000856	Anorexia Nervosa				ERS14654994	SAMEA112657450	Metagenomics	Ion Torrent Proton	1683107.0	human gut metagenome				Denmark		DKAN_84								N					0.0
+PRJEB51776	ERR10906621	D000856	Anorexia Nervosa				ERS14654966	SAMEA112657422	Metagenomics	Ion Torrent Proton	1595174.0	human gut metagenome				Denmark		DKAN_56								N					0.0
+PRJEB51776	ERR10906786	D000856	Anorexia Nervosa				ERS14655007	SAMEA112657463	Metagenomics	Ion Torrent Proton	1570794.0	human gut metagenome				Denmark		DKAN_97								N					0.0
+PRJEB51776	ERR10906609	D000856	Anorexia Nervosa				ERS14654963	SAMEA112657419	Metagenomics	Ion Torrent Proton	1546158.0	human gut metagenome				Denmark		DKAN_53								N					0.0
+PRJEB51776	ERR10906645	D000856	Anorexia Nervosa				ERS14654972	SAMEA112657428	Metagenomics	Ion Torrent Proton	1430779.0	human gut metagenome				Denmark		DKAN_62								N					0.0
+PRJEB51776	ERR10906353	D000856	Anorexia Nervosa				ERS14654901	SAMEA112657357	Metagenomics	Ion Torrent Proton	1102256.0	human gut metagenome				Denmark		DKAN_126								N					0.0
+PRJEB51776	ERR10906769	D000856	Anorexia Nervosa				ERS14655003	SAMEA112657459	Metagenomics	Ion Torrent Proton	1032844.0	human gut metagenome				Denmark		DKAN_93								N					0.0
+PRJEB51776	ERR10906768	D000856	Anorexia Nervosa				ERS14655002	SAMEA112657458	Metagenomics	Ion Torrent Proton	978248.0	human gut metagenome				Denmark		DKAN_92								N					0.0
+PRJEB51776	ERR10906766	D000856	Anorexia Nervosa				ERS14655002	SAMEA112657458	Metagenomics	Ion Torrent Proton	820501.0	human gut metagenome				Denmark		DKAN_92								N					0.0
+PRJEB51776	ERR10906318	D000856	Anorexia Nervosa				ERS14654893	SAMEA112657349	Metagenomics	Ion Torrent Proton	416256.0	human gut metagenome				Denmark		DKAN_119								N					0.0

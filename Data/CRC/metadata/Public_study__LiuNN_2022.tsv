@@ -1,0 +1,164 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+SAMN19291048	SAMN19291048	Homo sapiens	Control	Study Control	China	feces	30.0	23.7	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291049	SAMN19291049	Homo sapiens	Control	Study Control	China	feces	36.0	21.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291051	SAMN19291051	Homo sapiens	Control	Study Control	China	feces	37.0	23.1	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291050	SAMN19291050	Homo sapiens	Control	Study Control	China	feces	40.0	24.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291019	SAMN19291019	Homo sapiens	Control	Study Control	China	feces	43.0	23.9	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291044	SAMN19291044	Homo sapiens	Control	Study Control	China	feces	43.0	19.3	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291037	SAMN19291037	Homo sapiens	Control	Study Control	China	feces	47.0	27.4	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291040	SAMN19291040	Homo sapiens	Control	Study Control	China	feces	47.0	20.2	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291030	SAMN19291030	Homo sapiens	Control	Study Control	China	feces	48.0	21.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291039	SAMN19291039	Homo sapiens	Control	Study Control	China	feces	48.0	25.6	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291023	SAMN19291023	Homo sapiens	Control	Study Control	China	feces	49.0	23.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291034	SAMN19291034	Homo sapiens	Control	Study Control	China	feces	49.0	21.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291029	SAMN19291029	Homo sapiens	Control	Study Control	China	feces	50.0	22.3	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291028	SAMN19291028	Homo sapiens	Control	Study Control	China	feces	51.0	29.0	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291032	SAMN19291032	Homo sapiens	Control	Study Control	China	feces	51.0	23.4	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291035	SAMN19291035	Homo sapiens	Control	Study Control	China	feces	51.0	19.9	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291026	SAMN19291026	Homo sapiens	Control	Study Control	China	feces	53.0	22.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291041	SAMN19291041	Homo sapiens	Control	Study Control	China	feces	53.0	27.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291021	SAMN19291021	Homo sapiens	Control	Study Control	China	feces	54.0	25.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290998	SAMN19290998	Homo sapiens	Control	Study Control	China	feces	55.0	21.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291000	SAMN19291000	Homo sapiens	Control	Study Control	China	feces	55.0	21.5	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291002	SAMN19291002	Homo sapiens	Control	Study Control	China	feces	55.0	25.3	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291011	SAMN19291011	Homo sapiens	Control	Study Control	China	feces	55.0	17.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291054	SAMN19291054	Homo sapiens	Control	Study Control	China	feces	55.0	22.4	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291056	SAMN19291056	Homo sapiens	Control	Study Control	China	feces	55.0	22.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291060	SAMN19291060	Homo sapiens	Control	Study Control	China	feces	55.0	24.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291061	SAMN19291061	Homo sapiens	Control	Study Control	China	feces	55.0	20.5	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290994	SAMN19290994	Homo sapiens	Control	Study Control	China	feces	56.0	27.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291013	SAMN19291013	Homo sapiens	Control	Study Control	China	feces	56.0	25.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290981	SAMN19290981	Homo sapiens	Control	Study Control	China	feces	56.0	22.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290990	SAMN19290990	Homo sapiens	Control	Study Control	China	feces	57.0	24.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290979	SAMN19290979	Homo sapiens	Control	Study Control	China	feces	57.0	19.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291004	SAMN19291004	Homo sapiens	Control	Study Control	China	feces	57.0	20.5	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290988	SAMN19290988	Homo sapiens	Control	Study Control	China	feces	58.0	24.6	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290996	SAMN19290996	Homo sapiens	Control	Study Control	China	feces	58.0	22.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290999	SAMN19290999	Homo sapiens	Control	Study Control	China	feces	58.0	22.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291006	SAMN19291006	Homo sapiens	Control	Study Control	China	feces	58.0	24.1	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291053	SAMN19291053	Homo sapiens	Control	Study Control	China	feces	58.0	23.1	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290989	SAMN19290989	Homo sapiens	Control	Study Control	China	feces	59.0	18.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290993	SAMN19290993	Homo sapiens	Control	Study Control	China	feces	59.0	20.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290980	SAMN19290980	Homo sapiens	Control	Study Control	China	feces	59.0	20.4	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291059	SAMN19291059	Homo sapiens	Control	Study Control	China	feces	59.0	21.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291062	SAMN19291062	Homo sapiens	Control	Study Control	China	feces	59.0	19.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290991	SAMN19290991	Homo sapiens	Control	Study Control	China	feces	60.0	21.0	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291017	SAMN19291017	Homo sapiens	Control	Study Control	China	feces	60.0	22.0	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291018	SAMN19291018	Homo sapiens	Control	Study Control	China	feces	60.0	25.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291055	SAMN19291055	Homo sapiens	Control	Study Control	China	feces	60.0	20.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291058	SAMN19291058	Homo sapiens	Control	Study Control	China	feces	60.0	27.3	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291008	SAMN19291008	Homo sapiens	Control	Study Control	China	feces	61.0	22.9	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291052	SAMN19291052	Homo sapiens	Control	Study Control	China	feces	61.0	21.3	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290986	SAMN19290986	Homo sapiens	Control	Study Control	China	feces	61.0	20.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290978	SAMN19290978	Homo sapiens	Control	Study Control	China	feces	62.0	23.4	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290997	SAMN19290997	Homo sapiens	Control	Study Control	China	feces	62.0	19.3	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291001	SAMN19291001	Homo sapiens	Control	Study Control	China	feces	62.0	17.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291009	SAMN19291009	Homo sapiens	Control	Study Control	China	feces	62.0	23.4	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290987	SAMN19290987	Homo sapiens	Control	Study Control	China	feces	63.0	25.1	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290992	SAMN19290992	Homo sapiens	Control	Study Control	China	feces	63.0	20.3	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19290995	SAMN19290995	Homo sapiens	Control	Study Control	China	feces	63.0	30.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291005	SAMN19291005	Homo sapiens	Control	Study Control	China	feces	63.0	24.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291012	SAMN19291012	Homo sapiens	Control	Study Control	China	feces	63.0	18.7	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291014	SAMN19291014	Homo sapiens	Control	Study Control	China	feces	63.0	24.6	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291027	SAMN19291027	Homo sapiens	Control	Study Control	China	feces	63.0	28.6	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291007	SAMN19291007	Homo sapiens	Control	Study Control	China	feces	64.0	21.1	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291010	SAMN19291010	Homo sapiens	Control	Study Control	China	feces	64.0	22.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291016	SAMN19291016	Homo sapiens	Control	Study Control	China	feces	64.0	21.9	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291015	SAMN19291015	Homo sapiens	Control	Study Control	China	feces	65.0	19.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290982	SAMN19290982	Homo sapiens	Control	Study Control	China	feces	65.0	23.2	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290983	SAMN19290983	Homo sapiens	Control	Study Control	China	feces	65.0	24.1	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290984	SAMN19290984	Homo sapiens	Control	Study Control	China	feces	65.0	17.5	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291063	SAMN19291063	Homo sapiens	Control	Study Control	China	feces	65.0	25.5	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291003	SAMN19291003	Homo sapiens	Control	Study Control	China	feces	66.0	30.1	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291020	SAMN19291020	Homo sapiens	Control	Study Control	China	feces	66.0	25.6	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291025	SAMN19291025	Homo sapiens	Control	Study Control	China	feces	67.0	20.3	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291033	SAMN19291033	Homo sapiens	Control	Study Control	China	feces	68.0	31.3	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291036	SAMN19291036	Homo sapiens	Control	Study Control	China	feces	68.0	22.1	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291043	SAMN19291043	Homo sapiens	Control	Study Control	China	feces	69.0	20.2	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291024	SAMN19291024	Homo sapiens	Control	Study Control	China	feces	70.0	24.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291046	SAMN19291046	Homo sapiens	Control	Study Control	China	feces	70.0	22.0	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291022	SAMN19291022	Homo sapiens	Control	Study Control	China	feces	71.0	24.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291031	SAMN19291031	Homo sapiens	Control	Study Control	China	feces	71.0	27.6	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291042	SAMN19291042	Homo sapiens	Control	Study Control	China	feces	71.0	23.9	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290985	SAMN19290985	Homo sapiens	Control	Study Control	China	feces	71.0	20.8	Control	Female		nd	Public_study__LiuNN_2022	Control
+SAMN19291038	SAMN19291038	Homo sapiens	Control	Study Control	China	feces	72.0	20.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291045	SAMN19291045	Homo sapiens	Control	Study Control	China	feces	72.0	24.7	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19291047	SAMN19291047	Homo sapiens	Control	Study Control	China	feces	72.0	25.2	Control	Male		nd	Public_study__LiuNN_2022	Control
+SAMN19290917	SAMN19290917	Homo sapiens	colorectal carcinoma	Case	China	feces	29.0	24.5	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290937	SAMN19290937	Homo sapiens	colorectal carcinoma	Case	China	feces	31.0	20.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290944	SAMN19290944	Homo sapiens	colorectal carcinoma	Case	China	feces	41.0	23.9	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290951	SAMN19290951	Homo sapiens	colorectal carcinoma	Case	China	feces	43.0	22.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290913	SAMN19290913	Homo sapiens	colorectal carcinoma	Case	China	feces	45.0	21.1	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290936	SAMN19290936	Homo sapiens	colorectal carcinoma	Case	China	feces	45.0	24.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290933	SAMN19290933	Homo sapiens	colorectal carcinoma	Case	China	feces	46.0	18.3	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290908	SAMN19290908	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	28.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290902	SAMN19290902	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	28.6	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290947	SAMN19290947	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	24.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290955	SAMN19290955	Homo sapiens	colorectal carcinoma	Case	China	feces	47.0	22.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290898	SAMN19290898	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	24.2	colorectal carcinoma		CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290931	SAMN19290931	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	21.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290971	SAMN19290971	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	28.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290973	SAMN19290973	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	22.5	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290977	SAMN19290977	Homo sapiens	colorectal carcinoma	Case	China	feces	48.0	25.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290946	SAMN19290946	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	18.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290953	SAMN19290953	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	20.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290969	SAMN19290969	Homo sapiens	colorectal carcinoma	Case	China	feces	50.0	26.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290899	SAMN19290899	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	21.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290905	SAMN19290905	Homo sapiens	colorectal carcinoma	Case	China	feces	51.0	24.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290934	SAMN19290934	Homo sapiens	colorectal carcinoma	Case	China	feces	53.0	29.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290920	SAMN19290920	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	25.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290926	SAMN19290926	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	22.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290941	SAMN19290941	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	25.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290961	SAMN19290961	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	18.3	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290965	SAMN19290965	Homo sapiens	colorectal carcinoma	Case	China	feces	54.0	23.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290935	SAMN19290935	Homo sapiens	colorectal carcinoma	Case	China	feces	55.0	27.2	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290950	SAMN19290950	Homo sapiens	colorectal carcinoma	Case	China	feces	56.0	25.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290956	SAMN19290956	Homo sapiens	colorectal carcinoma	Case	China	feces	56.0	22.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290911	SAMN19290911	Homo sapiens	colorectal carcinoma	Case	China	feces	57.0	29.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290912	SAMN19290912	Homo sapiens	colorectal carcinoma	Case	China	feces	57.0	17.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290918	SAMN19290918	Homo sapiens	colorectal carcinoma	Case	China	feces	57.0	26.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290923	SAMN19290923	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	20.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290930	SAMN19290930	Homo sapiens	colorectal carcinoma	Case	China	feces	58.0	24.4	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290903	SAMN19290903	Homo sapiens	colorectal carcinoma	Case	China	feces	59.0	19.1	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290916	SAMN19290916	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	23.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290919	SAMN19290919	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	20.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290921	SAMN19290921	Homo sapiens	colorectal carcinoma	Case	China	feces	60.0	24.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290914	SAMN19290914	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	19.9	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290922	SAMN19290922	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	20.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290943	SAMN19290943	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	21.9	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290959	SAMN19290959	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	23.4	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290963	SAMN19290963	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	23.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290976	SAMN19290976	Homo sapiens	colorectal carcinoma	Case	China	feces	61.0	27.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290938	SAMN19290938	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	21.6	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290957	SAMN19290957	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	26.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290960	SAMN19290960	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	19.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290975	SAMN19290975	Homo sapiens	colorectal carcinoma	Case	China	feces	62.0	26.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290929	SAMN19290929	Homo sapiens	colorectal carcinoma	Case	China	feces	63.0	23.3	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290932	SAMN19290932	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	24.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290970	SAMN19290970	Homo sapiens	colorectal carcinoma	Case	China	feces	64.0	22.2	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290909	SAMN19290909	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	22.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290910	SAMN19290910	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	21.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290949	SAMN19290949	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	26.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290962	SAMN19290962	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	23.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290964	SAMN19290964	Homo sapiens	colorectal carcinoma	Case	China	feces	65.0	24.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290900	SAMN19290900	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	26.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290940	SAMN19290940	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	18.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290968	SAMN19290968	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	18.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290972	SAMN19290972	Homo sapiens	colorectal carcinoma	Case	China	feces	66.0	24.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290915	SAMN19290915	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	22.7	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290924	SAMN19290924	Homo sapiens	colorectal carcinoma	Case	China	feces	67.0	29.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290925	SAMN19290925	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	29.6	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290927	SAMN19290927	Homo sapiens	colorectal carcinoma	Case	China	feces	68.0	30.4	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290967	SAMN19290967	Homo sapiens	colorectal carcinoma	Case	China	feces	69.0	19.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290942	SAMN19290942	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	24.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290948	SAMN19290948	Homo sapiens	colorectal carcinoma	Case	China	feces	70.0	31.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290928	SAMN19290928	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	25.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290939	SAMN19290939	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	24.5	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290954	SAMN19290954	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	20.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290958	SAMN19290958	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	24.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290974	SAMN19290974	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	26.2	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290906	SAMN19290906	Homo sapiens	colorectal carcinoma	Case	China	feces	71.0	25.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290907	SAMN19290907	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	19.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290904	SAMN19290904	Homo sapiens	colorectal carcinoma	Case	China	feces	73.0	20.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290901	SAMN19290901	Homo sapiens	colorectal carcinoma	Case	China	feces	74.0	21.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC
+SAMN19290952	SAMN19290952	Homo sapiens	colorectal carcinoma	Case	China	feces	77.0	24.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__LiuNN_2022	CRC

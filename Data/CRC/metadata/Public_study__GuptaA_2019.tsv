@@ -1,0 +1,61 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+GupDM_JP	GupDM_JP	Homo sapiens	colorectal carcinoma	Case	India	feces	67.0	17.7	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JG	GupDM_JG	Homo sapiens	colorectal carcinoma	Case	India	feces	71.0	18.1	colorectal carcinoma	Male	I	nd	Public_study__GuptaA_2019	CRC
+GupDM_A4	GupDM_A4	Homo sapiens	colorectal carcinoma	Case	India	feces	72.0	18.2	colorectal carcinoma	Male	III	nd	Public_study__GuptaA_2019	CRC
+GupDM_JM	GupDM_JM	Homo sapiens	colorectal carcinoma	Case	India	feces	60.0	18.3	colorectal carcinoma	Male	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A13	GupDM_A13	Homo sapiens	colorectal carcinoma	Case	India	feces	48.0	18.7	colorectal carcinoma	Male	II	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JK	GupDM_JK	Homo sapiens	colorectal carcinoma	Case	India	feces	66.0	18.7	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JI	GupDM_JI	Homo sapiens	colorectal carcinoma	Case	India	feces	54.0	19.0	colorectal carcinoma	Male	I	nd	Public_study__GuptaA_2019	CRC
+GupDM_A7	GupDM_A7	Homo sapiens	colorectal carcinoma	Case	India	feces	59.0	19.1	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A2	GupDM_A2	Homo sapiens	colorectal carcinoma	Case	India	feces	55.0	19.1	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A_11	GupDM_A_11	Homo sapiens	colorectal carcinoma	Case	India	feces	41.0	19.2	colorectal carcinoma	Female	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JC	GupDM_JC	Homo sapiens	colorectal carcinoma	Case	India	feces	61.0	19.5	colorectal carcinoma	Male	III	nd	Public_study__GuptaA_2019	CRC
+GupDM_JN	GupDM_JN	Homo sapiens	colorectal carcinoma	Case	India	feces	58.0	19.9	colorectal carcinoma	Male	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JJ	GupDM_JJ	Homo sapiens	colorectal carcinoma	Case	India	feces	62.0	20.0	colorectal carcinoma	Female	IV	nd	Public_study__GuptaA_2019	CRC
+GupDM_JO	GupDM_JO	Homo sapiens	colorectal carcinoma	Case	India	feces	71.0	20.0	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A1	GupDM_A1	Homo sapiens	colorectal carcinoma	Case	India	feces	62.0	20.1	colorectal carcinoma	Male	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JE	GupDM_JE	Homo sapiens	colorectal carcinoma	Case	India	feces	64.0	20.1	colorectal carcinoma	Male	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A12	GupDM_A12	Homo sapiens	colorectal carcinoma	Case	India	feces	65.0	20.3	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JL	GupDM_JL	Homo sapiens	colorectal carcinoma	Case	India	feces	59.0	20.3	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A14	GupDM_A14	Homo sapiens	colorectal carcinoma	Case	India	feces	56.0	20.5	colorectal carcinoma	Male	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A8	GupDM_A8	Homo sapiens	colorectal carcinoma	Case	India	feces	66.0	20.5	colorectal carcinoma	Female	I	nd	Public_study__GuptaA_2019	CRC
+GupDM_A3	GupDM_A3	Homo sapiens	colorectal carcinoma	Case	India	feces	49.0	20.8	colorectal carcinoma	Male	III	nd	Public_study__GuptaA_2019	CRC
+GupDM_A10	GupDM_A10	Homo sapiens	colorectal carcinoma	Case	India	feces	65.0	21.0	colorectal carcinoma	Female	III	nd	Public_study__GuptaA_2019	CRC
+GupDM_A5	GupDM_A5	Homo sapiens	colorectal carcinoma	Case	India	feces	75.0	21.2	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A_15	GupDM_A_15	Homo sapiens	colorectal carcinoma	Case	India	feces	59.0	21.4	colorectal carcinoma	Male	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JH	GupDM_JH	Homo sapiens	colorectal carcinoma	Case	India	feces	58.0	21.5	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JD	GupDM_JD	Homo sapiens	colorectal carcinoma	Case	India	feces	57.0	21.7	colorectal carcinoma	Male	I	nd	Public_study__GuptaA_2019	CRC
+GupDM_A9	GupDM_A9	Homo sapiens	colorectal carcinoma	Case	India	feces	56.0	22.2	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_A6	GupDM_A6	Homo sapiens	colorectal carcinoma	Case	India	feces	58.0	22.7	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JB	GupDM_JB	Homo sapiens	colorectal carcinoma	Case	India	feces	53.0	23.0	colorectal carcinoma	Female	III	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_JA	GupDM_JA	Homo sapiens	colorectal carcinoma	Case	India	feces	47.0	23.8	colorectal carcinoma	Female	I	left_sided	Public_study__GuptaA_2019	CRC
+GupDM_HAK	GupDM_HAK	Homo sapiens	Control	Study Control	India	feces	29.0	22.0	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAJ	GupDM_HAJ	Homo sapiens	Control	Study Control	India	feces	22.0	23.2	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAI	GupDM_HAI	Homo sapiens	Control	Study Control	India	feces	24.0	26.0	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HAH	GupDM_HAH	Homo sapiens	Control	Study Control	India	feces	25.0	21.3	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAG	GupDM_HAG	Homo sapiens	Control	Study Control	India	feces	23.0	22.3	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAL	GupDM_HAL	Homo sapiens	Control	Study Control	India	feces	24.0	23.3	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAM	GupDM_HAM	Homo sapiens	Control	Study Control	India	feces	23.0	19.2	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAN	GupDM_HAN	Homo sapiens	Control	Study Control	India	feces	26.0	22.0	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAO	GupDM_HAO	Homo sapiens	Control	Study Control	India	feces	26.0	20.8	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HAP	GupDM_HAP	Homo sapiens	Control	Study Control	India	feces	25.0	21.7	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HAR	GupDM_HAR	Homo sapiens	Control	Study Control	India	feces	28.0	25.5	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HAT	GupDM_HAT	Homo sapiens	Control	Study Control	India	feces	26.0	22.7	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HDF	GupDM_HDF	Homo sapiens	Control	Study Control	India	feces	58.0	25.7	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HDB	GupDM_HDB	Homo sapiens	Control	Study Control	India	feces	50.0	25.1	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCY	GupDM_HCY	Homo sapiens	Control	Study Control	India	feces	53.0	26.8	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCL	GupDM_HCL	Homo sapiens	Control	Study Control	India	feces	64.0	36.4	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCU	GupDM_HCU	Homo sapiens	Control	Study Control	India	feces	61.0	19.5	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HCV	GupDM_HCV	Homo sapiens	Control	Study Control	India	feces	58.0	19.9	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCQ	GupDM_HCQ	Homo sapiens	Control	Study Control	India	feces	52.0	23.0	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCR	GupDM_HCR	Homo sapiens	Control	Study Control	India	feces	62.0	20.8	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HCS	GupDM_HCS	Homo sapiens	Control	Study Control	India	feces	50.0	17.9	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCT	GupDM_HCT	Homo sapiens	Control	Study Control	India	feces	58.0	19.2	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HCM	GupDM_HCM	Homo sapiens	Control	Study Control	India	feces	62.0	22.9	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCN	GupDM_HCN	Homo sapiens	Control	Study Control	India	feces	57.0	17.9	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HCO	GupDM_HCO	Homo sapiens	Control	Study Control	India	feces	57.0	20.8	Control	Female		nd	Public_study__GuptaA_2019	Control
+GupDM_HCP	GupDM_HCP	Homo sapiens	Control	Study Control	India	feces	71.0	19.2	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HP	GupDM_HP	Homo sapiens	Control	Study Control	India	feces	30.0	19.4	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HS	GupDM_HS	Homo sapiens	Control	Study Control	India	feces	25.0	18.3	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HR	GupDM_HR	Homo sapiens	Control	Study Control	India	feces	26.0	22.2	Control	Male		nd	Public_study__GuptaA_2019	Control
+GupDM_HBR	GupDM_HBR	Homo sapiens	Control	Study Control	India	feces	50.0	27.1	Control	Female		nd	Public_study__GuptaA_2019	Control

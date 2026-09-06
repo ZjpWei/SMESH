@@ -1,0 +1,15 @@
+Selected project id: PRJNA524816
+Project ID	Run ID	Sample name	Assay type	Sequencing method	Phenotype name	Sample description	Phenotype ID	country	Geographic location	Longitude	lattitude	age	sex	BMI	Antibiotic use	Antibiotic name	Bodysite	Batch	Batch2	QC bacteria	QC fungi	QC State
+PRJNA524816	SRR8652004	4 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	56	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652005	5 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	49	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652006	5 healthy control	16S	Illumina HiSeq 2500	Health	NA	D006262	China	NA	NA	NA	57	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652007	1 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	37	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652008	2 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	72	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652009	3 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	53	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652010	1 healthy control	16S	Illumina HiSeq 2500	Health	NA	D006262	China	NA	NA	NA	54	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652011	2 healthy control	16S	Illumina HiSeq 2500	Health	NA	D006262	China	NA	NA	NA	69	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652012	3 healthy control	16S	Illumina HiSeq 2500	Health	NA	D006262	China	NA	NA	NA	46	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652013	4 healthy control	16S	Illumina HiSeq 2500	Health	NA	D006262	China	NA	NA	NA	41	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652014	6 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	53	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652015	7 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	67	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA
+PRJNA524816	SRR8652016	8 cervical cancer patient	16S	Illumina HiSeq 2500	Uterine Cervical Neoplasms	NA	D002583	China	NA	NA	NA	57	female	NA	NA	NA	Fecal	PRJNA524816	PRJNA524816	1	1	NA	NA

@@ -1,0 +1,61 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+CRC_MR_SBJ01C_17	CRC_MR_SBJ01C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	51.0	20.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ02C_17	CRC_MR_SBJ02C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	51.0	31.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ03H_17	CRC_MR_SBJ03H_17	Homo sapiens	Control	Study Control	Italy	feces	52.0	23.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ04C_17	CRC_MR_SBJ04C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	29.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ05C_17	CRC_MR_SBJ05C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	46.0	22.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ06C_17	CRC_MR_SBJ06C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	57.0	27.8	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ07C_17	CRC_MR_SBJ07C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	38.0	27.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ10C_17	CRC_MR_SBJ10C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	68.0	24.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ11C_17	CRC_MR_SBJ11C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	68.0		colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ12C_17	CRC_MR_SBJ12C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	65.0	29.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ16H_17	CRC_MR_SBJ16H_17	Homo sapiens	Control	Study Control	Italy	feces	56.0	25.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ17H_17	CRC_MR_SBJ17H_17	Homo sapiens	Control	Study Control	Italy	feces	50.0	23.6	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ18H_17	CRC_MR_SBJ18H_17	Homo sapiens	Control	Study Control	Italy	feces	54.0	25.2	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ20C_17	CRC_MR_SBJ20C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	29.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ21H_17	CRC_MR_SBJ21H_17	Homo sapiens	Control	Study Control	Italy	feces	67.0	20.4	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ22C_17	CRC_MR_SBJ22C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	62.0	31.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ24H_17	CRC_MR_SBJ24H_17	Homo sapiens	Control	Study Control	Italy	feces	66.0	19.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ25C_17	CRC_MR_SBJ25C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	70.0	28.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ26C_17	CRC_MR_SBJ26C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	56.0	27.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ27C_17	CRC_MR_SBJ27C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	61.0	27.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ29C_17	CRC_MR_SBJ29C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	65.0	25.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ31C_17	CRC_MR_SBJ31C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	62.0	26.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ32C_17	CRC_MR_SBJ32C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	39.0	20.5	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ33C_17	CRC_MR_SBJ33C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	63.0	30.0	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ34H_17	CRC_MR_SBJ34H_17	Homo sapiens	Control	Study Control	Italy	feces	58.0	20.3	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ35C_17	CRC_MR_SBJ35C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	27.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ36C_17	CRC_MR_SBJ36C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	51.0	19.4	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ37H_17	CRC_MR_SBJ37H_17	Homo sapiens	Control	Study Control	Italy	feces	58.0	17.7	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ39C_17	CRC_MR_SBJ39C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	58.0	34.7	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ40C_17	CRC_MR_SBJ40C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	59.0	38.5	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ42C_17	CRC_MR_SBJ42C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	64.0	24.9	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ45H_17	CRC_MR_SBJ45H_17	Homo sapiens	Control	Study Control	Italy	feces	54.0	24.5	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ46H_17	CRC_MR_SBJ46H_17	Homo sapiens	Control	Study Control	Italy	feces	66.0	21.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ47C_17	CRC_MR_SBJ47C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	50.0	19.8	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ49C_17	CRC_MR_SBJ49C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	69.0	22.6	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ50C_17	CRC_MR_SBJ50C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	56.0	25.2	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ51C_17	CRC_MR_SBJ51C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	62.0	21.0	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ52C_17	CRC_MR_SBJ52C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	66.0	28.1	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ53C_17	CRC_MR_SBJ53C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	55.0	29.4	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ55C_17	CRC_MR_SBJ55C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	67.0	29.1	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ57H_17	CRC_MR_SBJ57H_17	Homo sapiens	Control	Study Control	Italy	feces	66.0	21.1	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ60H_17	CRC_MR_SBJ60H_17	Homo sapiens	Control	Study Control	Italy	feces	56.0	23.5	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ61C_17	CRC_MR_SBJ61C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	56.0	25.4	colorectal carcinoma	Female	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ63H_17	CRC_MR_SBJ63H_17	Homo sapiens	Control	Study Control	Italy	feces			Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ64C_17	CRC_MR_SBJ64C_17	Homo sapiens	colorectal carcinoma	Case	Italy	feces	48.0	25.3	colorectal carcinoma	Male	CRC_stage_unlabelled	nd	Public_study__ThomasAM_2018b	CRC
+CRC_MR_SBJ65H_17	CRC_MR_SBJ65H_17	Homo sapiens	Control	Study Control	Italy	feces	53.0	32.4	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ67H_17	CRC_MR_SBJ67H_17	Homo sapiens	Control	Study Control	Italy	feces	46.0	34.5	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ68H_17	CRC_MR_SBJ68H_17	Homo sapiens	Control	Study Control	Italy	feces	60.0	28.1	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ69H_17	CRC_MR_SBJ69H_17	Homo sapiens	Control	Study Control	Italy	feces	62.0	28.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ73H_17	CRC_MR_SBJ73H_17	Homo sapiens	Control	Study Control	Italy	feces	61.0	22.0	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ74H_17	CRC_MR_SBJ74H_17	Homo sapiens	Control	Study Control	Italy	feces	69.0	26.4	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ75H_17	CRC_MR_SBJ75H_17	Homo sapiens	Control	Study Control	Italy	feces	65.0	23.4	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ77H_17	CRC_MR_SBJ77H_17	Homo sapiens	Control	Study Control	Italy	feces	64.0	21.3	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ78H_17	CRC_MR_SBJ78H_17	Homo sapiens	Control	Study Control	Italy	feces	54.0	24.7	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ79H_17	CRC_MR_SBJ79H_17	Homo sapiens	Control	Study Control	Italy	feces	67.0	26.4	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ80H_17	CRC_MR_SBJ80H_17	Homo sapiens	Control	Study Control	Italy	feces	40.0	26.1	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ81H_17	CRC_MR_SBJ81H_17	Homo sapiens	Control	Study Control	Italy	feces	60.0	23.9	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ82H_17	CRC_MR_SBJ82H_17	Homo sapiens	Control	Study Control	Italy	feces	69.0	28.7	Control	Female		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ83H_17	CRC_MR_SBJ83H_17	Homo sapiens	Control	Study Control	Italy	feces	47.0	26.3	Control	Male		nd	Public_study__ThomasAM_2018b	Control
+CRC_MR_SBJ84H_17	CRC_MR_SBJ84H_17	Homo sapiens	Control	Study Control	Italy	feces	41.0	24.2	Control	Male		nd	Public_study__ThomasAM_2018b	Control

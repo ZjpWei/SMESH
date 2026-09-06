@@ -1,0 +1,58 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+C10	C10	Homo sapiens	Control	Study Control	Turkey	feces	49.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C15	C15	Homo sapiens	Control	Study Control	Turkey	feces	55.0	31.2	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C41	C41	Homo sapiens	Control	Study Control	Turkey	feces	61.0	42.6	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C46	C46	Homo sapiens	Control	Study Control	Turkey	feces	54.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C6	C6	Homo sapiens	Control	Study Control	Turkey	feces	48.0	29.6	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C9	C9	Homo sapiens	Control	Study Control	Turkey	feces	45.0	27.7	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C11	C11	Homo sapiens	Control	Study Control	Turkey	feces	72.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C12	C12	Homo sapiens	Control	Study Control	Turkey	feces	56.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C16	C16	Homo sapiens	Control	Study Control	Turkey	feces	49.0	22.8	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C18	C18	Homo sapiens	Control	Study Control	Turkey	feces	51.0	27.8	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C19	C19	Homo sapiens	Control	Study Control	Turkey	feces	36.0	27.5	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C1	C1	Homo sapiens	Control	Study Control	Turkey	feces	70.0	30.5	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C20	C20	Homo sapiens	Control	Study Control	Turkey	feces	65.0	30.4	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C21	C21	Homo sapiens	Control	Study Control	Turkey	feces	60.0	27.4	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C22	C22	Homo sapiens	Control	Study Control	Turkey	feces	44.0	21.1	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C23	C23	Homo sapiens	Control	Study Control	Turkey	feces	59.0	24.2	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C24	C24	Homo sapiens	Control	Study Control	Turkey	feces	55.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C25	C25	Homo sapiens	Control	Study Control	Turkey	feces	69.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C26	C26	Homo sapiens	Control	Study Control	Turkey	feces	44.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C28	C28	Homo sapiens	Control	Study Control	Turkey	feces	47.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C30	C30	Homo sapiens	Control	Study Control	Turkey	feces	58.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C31	C31	Homo sapiens	Control	Study Control	Turkey	feces	67.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C32	C32	Homo sapiens	Control	Study Control	Turkey	feces	68.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C33	C33	Homo sapiens	Control	Study Control	Turkey	feces	50.0	21.6	Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C34	C34	Homo sapiens	Control	Study Control	Turkey	feces	80.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C35	C35	Homo sapiens	Control	Study Control	Turkey	feces	42.0	27.7	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C36	C36	Homo sapiens	Control	Study Control	Turkey	feces	42.0	27.2	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C37	C37	Homo sapiens	Control	Study Control	Turkey	feces	47.0	26.1	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C38	C38	Homo sapiens	Control	Study Control	Turkey	feces	44.0	20.8	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C39	C39	Homo sapiens	Control	Study Control	Turkey	feces	63.0	23.0	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C3	C3	Homo sapiens	Control	Study Control	Turkey	feces	42.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C40	C40	Homo sapiens	Control	Study Control	Turkey	feces	43.0	27.5	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C42	C42	Homo sapiens	Control	Study Control	Turkey	feces	45.0	28.7	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C43	C43	Homo sapiens	Control	Study Control	Turkey	feces	39.0	23.3	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C44	C44	Homo sapiens	Control	Study Control	Turkey	feces	52.0	26.4	Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C45	C45	Homo sapiens	Control	Study Control	Turkey	feces	65.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C4	C4	Homo sapiens	Control	Study Control	Turkey	feces	52.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+C5	C5	Homo sapiens	Control	Study Control	Turkey	feces	46.0		Control	Female		nd	This_study_cohort6__IIGM_TU	Control
+C7	C7	Homo sapiens	Control	Study Control	Turkey	feces	64.0		Control	Male		nd	This_study_cohort6__IIGM_TU	Control
+H15_1	H15_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	66.0	31.2	colorectal carcinoma	Female	I	left_sided	This_study_cohort6__IIGM_TU	CRC
+H18_1	H18_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	53.0	25.3	colorectal carcinoma	Female	III	nd	This_study_cohort6__IIGM_TU	CRC
+H2_1	H2_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	63.0	23.1	colorectal carcinoma	Male	I	nd	This_study_cohort6__IIGM_TU	CRC
+H25_1	H25_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	55.0		colorectal carcinoma	Male	IV	nd	This_study_cohort6__IIGM_TU	CRC
+H26_1	H26_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	75.0		colorectal carcinoma	Female	II	nd	This_study_cohort6__IIGM_TU	CRC
+H41_1	H41_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	74.0	20.3	colorectal carcinoma	Male	I	nd	This_study_cohort6__IIGM_TU	CRC
+H42_1	H42_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	79.0	20.1	colorectal carcinoma	Male	III	nd	This_study_cohort6__IIGM_TU	CRC
+H50_1	H50_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	59.0	24.1	colorectal carcinoma	Male	II	left_sided	This_study_cohort6__IIGM_TU	CRC
+H5_1	H5_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	72.0		colorectal carcinoma	Male	I	left_sided	This_study_cohort6__IIGM_TU	CRC
+H60_1	H60_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	59.0		colorectal carcinoma	Female	II	right_sided	This_study_cohort6__IIGM_TU	CRC
+H61_1	H61_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	60.0		colorectal carcinoma	Female	III	left_sided	This_study_cohort6__IIGM_TU	CRC
+H8_1	H8_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	61.0	21.9	colorectal carcinoma	Male	II	nd	This_study_cohort6__IIGM_TU	CRC
+H9_1	H9_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	53.0	26.4	colorectal carcinoma	Female	IV	left_sided	This_study_cohort6__IIGM_TU	CRC
+H32_1	H32_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	74.0	27.8	colorectal carcinoma	Male	III	left_sided	This_study_cohort6__IIGM_TU	CRC
+H49_1	H49_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	68.0	26.1	colorectal carcinoma	Male	III	nd	This_study_cohort6__IIGM_TU	CRC
+H59_1	H59_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	65.0		colorectal carcinoma	Male	II	right_sided	This_study_cohort6__IIGM_TU	CRC
+H78_1	H78_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	50.0	30.9	colorectal carcinoma	Female	II	left_sided	This_study_cohort6__IIGM_TU	CRC
+H83_1	H83_1	Homo sapiens	colorectal carcinoma	Case	Turkey	feces	54.0	36.2	colorectal carcinoma	Male	III	left_sided	This_study_cohort6__IIGM_TU	CRC

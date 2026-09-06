@@ -1,0 +1,111 @@
+Name	Sample Source ID	Organism	Target Condition	Control	Country	Body Site	Age	BMI	Disease	Sex	Tumor Staging AJCC	Primary Tumor Location	Study name	Study condition
+MMRS11288076ST-27-0-0	MMRS11288076ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	65.0	23.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS11664448ST-27-0-0	MMRS11664448ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS11932626ST-27-0-0	MMRS11932626ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	65.0	29.6	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS12272136ST-27-0-0	MMRS12272136ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	51.0	25.8	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS14379078ST-27-0-0	MMRS14379078ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	53.0	25.0	colorectal carcinoma	Male	III	nd	Public_study__VogtmannE_2016	CRC
+MMRS14602194ST-27-0-0	MMRS14602194ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	84.0		colorectal carcinoma	Female	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS15137911ST-27-0-0	MMRS15137911ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	64.0	35.7	colorectal carcinoma	Female	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS16644320ST-27-0-0	MMRS16644320ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	53.0	27.9	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS17603756ST-27-0-0	MMRS17603756ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	16.8	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS17963147ST-27-0-0	MMRS17963147ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	69.0	24.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS18295921ST-27-0-0	MMRS18295921ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	42.0	22.0	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS20257302ST-27-0-0	MMRS20257302ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	62.0	20.7	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS21365932ST-27-0-0	MMRS21365932ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	56.0	23.0	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS24340226ST-27-0-0	MMRS24340226ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	70.0	25.1	colorectal carcinoma	Male	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS25211151ST-27-0-0	MMRS25211151ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	60.0	20.5	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS25641480ST-27-0-0	MMRS25641480ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	54.0	23.5	colorectal carcinoma	Female	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS29805707ST-27-0-0	MMRS29805707ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	49.0	33.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS31306426ST-27-0-0	MMRS31306426ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	73.0	25.8	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS32573774ST-27-0-0	MMRS32573774ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	82.0	20.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS33294861ST-27-0-0	MMRS33294861ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	48.0	23.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS34525504ST-27-0-0	MMRS34525504ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	71.0	24.7	colorectal carcinoma	Male	II	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS34569532ST-27-0-0	MMRS34569532ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	72.0	23.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS35808664ST-27-0-0	MMRS35808664ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	31.6	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS36405092ST-27-0-0	MMRS36405092ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	48.0	26.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS38861560ST-27-0-0	MMRS38861560ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	76.0	22.1	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS38954404ST-27-0-0	MMRS38954404ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	55.0	23.8	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS39415781ST-27-0-0	MMRS39415781ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	70.0	28.6	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS39582183ST-27-0-0	MMRS39582183ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	39.0	23.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS40913371ST-27-0-0	MMRS40913371ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	76.0	26.9	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS41266697ST-27-0-0	MMRS41266697ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	54.0	24.0	colorectal carcinoma	Female	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS41711735ST-27-0-0	MMRS41711735ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	58.0	21.1	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS42570301ST-27-0-0	MMRS42570301ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS42780924ST-27-0-0	MMRS42780924ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	31.4	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS43563715ST-27-0-0	MMRS43563715ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	71.0	22.6	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS43939546ST-27-0-0	MMRS43939546ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	63.0	25.7	colorectal carcinoma	Female	IV	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS44197125ST-27-0-0	MMRS44197125ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	40.0	17.4	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS44203591ST-27-0-0	MMRS44203591ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	59.0	20.4	colorectal carcinoma	Female	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS44587603ST-27-0-0	MMRS44587603ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	66.0	31.5	colorectal carcinoma	Female	IV	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS47662059ST-27-0-0	MMRS47662059ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	74.0	23.6	colorectal carcinoma	Male	II	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS47685461ST-27-0-0	MMRS47685461ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	67.0	33.2	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS48639115ST-27-0-0	MMRS48639115ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS51307502ST-27-0-0	MMRS51307502ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	45.0	22.6	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS51410669ST-27-0-0	MMRS51410669ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	21.1	colorectal carcinoma	Male	II	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS51728985ST-27-0-0	MMRS51728985ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	61.0	24.4	colorectal carcinoma	Male	II	nd	Public_study__VogtmannE_2016	CRC
+MMRS51737257ST-27-0-0	MMRS51737257ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	25.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS54246132ST-27-0-0	MMRS54246132ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	24.0	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS54316675ST-27-0-0	MMRS54316675ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	55.0	29.6	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS55294627ST-27-0-0	MMRS55294627ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	43.0	32.0	colorectal carcinoma	Male	IV	nd	Public_study__VogtmannE_2016	CRC
+MMRS56137463ST-27-0-0	MMRS56137463ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	51.0	24.8	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS57276462ST-27-0-0	MMRS57276462ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	67.0	30.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS57569834ST-27-0-0	MMRS57569834ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	58.0	24.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS59699117ST-27-0-0	MMRS59699117ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	85.0	22.8	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS61683006ST-27-0-0	MMRS61683006ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	62.0	25.8	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS62192467ST-27-0-0	MMRS62192467ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	70.0	31.2	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS62376181ST-27-0-0	MMRS62376181ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	69.0	20.8	colorectal carcinoma	Female	IV	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS62666492ST-27-0-0	MMRS62666492ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	60.0	33.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS64281211ST-27-0-0	MMRS64281211ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	71.0	27.8	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS64281551ST-27-0-0	MMRS64281551ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	28.3	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS65205033ST-27-0-0	MMRS65205033ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	89.0	22.7	colorectal carcinoma	Female	IV	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS65742083ST-27-0-0	MMRS65742083ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	63.0	24.8	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS65862658ST-27-0-0	MMRS65862658ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	72.0	23.6	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS65945127ST-27-0-0	MMRS65945127ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	32.1	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS66868025ST-27-0-0	MMRS66868025ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	58.0	26.8	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS67096717ST-27-0-0	MMRS67096717ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	79.0	35.2	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS67247116ST-27-0-0	MMRS67247116ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	53.0	25.4	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS67690541ST-27-0-0	MMRS67690541ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS68630931ST-27-0-0	MMRS68630931ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	59.0	23.6	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS68910755ST-27-0-0	MMRS68910755ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	83.0	16.8	colorectal carcinoma	Female	CRC_stage_unlabelled	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS71238091ST-27-0-0	MMRS71238091ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS71762412ST-27-0-0	MMRS71762412ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	44.0	23.4	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS72802364ST-27-0-0	MMRS72802364ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	74.0		colorectal carcinoma	Male	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS72980899ST-27-0-0	MMRS72980899ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	63.0	21.3	colorectal carcinoma	Male	IV	nd	Public_study__VogtmannE_2016	CRC
+MMRS73787048ST-27-0-0	MMRS73787048ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	47.0	24.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS77018926ST-27-0-0	MMRS77018926ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	40.0	23.7	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS77321055ST-27-0-0	MMRS77321055ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	31.0	19.6	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS77487595ST-27-0-0	MMRS77487595ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	78.0	22.6	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS78791111ST-27-0-0	MMRS78791111ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	24.3	colorectal carcinoma	Male	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS79893829ST-27-0-0	MMRS79893829ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	66.0	28.2	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS80093644ST-27-0-0	MMRS80093644ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	31.0	19.6	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS81130264ST-27-0-0	MMRS81130264ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	64.0	32.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS81135225ST-27-0-0	MMRS81135225ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	57.0	25.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS81194191ST-27-0-0	MMRS81194191ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	54.0	18.6	colorectal carcinoma	Male	IV	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS81671217ST-27-0-0	MMRS81671217ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	57.0	26.4	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS84085284ST-27-0-0	MMRS84085284ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	68.0	22.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS84159866ST-27-0-0	MMRS84159866ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	67.0	18.6	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS84954772ST-27-0-0	MMRS84954772ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	56.0	25.8	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS85382779ST-27-0-0	MMRS85382779ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	66.0	21.6	colorectal carcinoma	Male	IV	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS85438660ST-27-0-0	MMRS85438660ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	68.0	23.0	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS85548821ST-27-0-0	MMRS85548821ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	71.0	23.2	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS86168210ST-27-0-0	MMRS86168210ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	79.0	21.3	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS86178473ST-27-0-0	MMRS86178473ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	65.0	25.1	colorectal carcinoma	Male	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS86958796ST-27-0-0	MMRS86958796ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	55.0	31.6	colorectal carcinoma	Female	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS87723283ST-27-0-0	MMRS87723283ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	42.0	27.6	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS88581325ST-27-0-0	MMRS88581325ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	73.0	23.9	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS90191266ST-27-0-0	MMRS90191266ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	37.0	22.5	colorectal carcinoma	Male	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS91297590ST-27-0-0	MMRS91297590ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	36.0	21.3	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS92544445ST-27-0-0	MMRS92544445ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	72.0	27.8	colorectal carcinoma	Female	III	right_sided	Public_study__VogtmannE_2016	CRC
+MMRS92546335ST-27-0-0	MMRS92546335ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	42.0	27.2	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS92727331ST-27-0-0	MMRS92727331ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces			Control			nd	Public_study__VogtmannE_2016	Control
+MMRS93508324ST-27-0-0	MMRS93508324ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	71.0		colorectal carcinoma	Female	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS93621581ST-27-0-0	MMRS93621581ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	60.0	23.1	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS94549160ST-27-0-0	MMRS94549160ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	76.0	23.8	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS95277876ST-27-0-0	MMRS95277876ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	48.0	21.5	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS95479054ST-27-0-0	MMRS95479054ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	45.0	24.4	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS95674036ST-27-0-0	MMRS95674036ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	68.0	38.4	Control	Female		nd	Public_study__VogtmannE_2016	Control
+MMRS96422329ST-27-0-0	MMRS96422329ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	66.0	22.3	colorectal carcinoma	Male	II	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS97052561ST-27-0-0	MMRS97052561ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	69.0	27.8	colorectal carcinoma	Female	III	left_sided	Public_study__VogtmannE_2016	CRC
+MMRS97307143ST-27-0-0	MMRS97307143ST-27-0-0	Homo sapiens	Control	Study Control	United States	feces	56.0	22.7	Control	Male		nd	Public_study__VogtmannE_2016	Control
+MMRS97327636ST-27-0-0	MMRS97327636ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	84.0	23.5	colorectal carcinoma	Male	IV	nd	Public_study__VogtmannE_2016	CRC
+MMRS99045180ST-27-0-0	MMRS99045180ST-27-0-0	Homo sapiens	colorectal carcinoma	Case	United States	feces	67.0	30.0	colorectal carcinoma	Female	III	left_sided	Public_study__VogtmannE_2016	CRC
