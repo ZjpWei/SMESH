@@ -1,7 +1,6 @@
 # SMESH — figure and table scripts
 
-Every figure and supplementary table in *Structure-learning microbiome meta-analysis reveals
-shared and context-dependent microbial signatures* is produced by a script in this folder.
+Every figure and supplementary table in *Structure-learning meta-analysis resolves cross-context heterogeneity in microbiome associations* is produced by a script in this folder.
 
 These scripts **only draw**. They read results that already exist; they do not fit any model.
 The pipeline that produces those results is in [`../Analysis/`](../Analysis) — see its

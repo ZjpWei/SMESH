@@ -1,7 +1,6 @@
 # SMESH
 
-Code and results for *Structure-learning microbiome meta-analysis reveals shared and
-context-dependent microbial signatures*.
+Code and results for *Structure-learning meta-analysis resolves cross-context heterogeneity in microbiome associations*.
 
 SMESH is a two-stage, precision-weighted finite-mixture meta-analysis for microbiome studies.
 It takes per-study association summaries, learns how the studies group into a small number of

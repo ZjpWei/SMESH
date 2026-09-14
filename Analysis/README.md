@@ -1,7 +1,6 @@
 # SMESH — analysis code
 
-Code for the analyses in *Structure-learning microbiome meta-analysis reveals shared and
-context-dependent microbial signatures*.
+Code for the analyses in *Structure-learning meta-analysis resolves cross-context heterogeneity in microbiome associations*.
 
 This folder contains the pipeline: data preprocessing, the simulation studies, and the
 real-data model fits. Scripts that draw the figures and build the supplementary tables live
