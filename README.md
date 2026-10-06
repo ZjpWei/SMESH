@@ -5,7 +5,7 @@ Code and results for *Structure-learning meta-analysis resolves cross-context he
 SMESH is a two-stage, precision-weighted finite-mixture meta-analysis for microbiome studies.
 It takes per-study association summaries, learns how the studies group into a small number of
 **clusters**, and simultaneously selects the taxa whose effect is shared by every cluster and
-those that are specific to some of them — instead of forcing one pooled effect per taxon.
+those that are specific to some of them instead of forcing one pooled effect per taxon.
 
 The repository holds three real-data applications and two simulation studies:
 
