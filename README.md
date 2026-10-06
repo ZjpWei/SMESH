@@ -131,8 +131,8 @@ stricter-filter refits behind panel D of Figure S3, written by step 5.
 | Item | Contents |
 |---|---|
 | `Data/CRC.Rdata` | the semi-synthetic template the replicates are generated from |
-| `Sim_CRC_stage1/` | 991 replicates: SMESH against the benchmark methods |
-| `Sim_CRC_stage2/` | 1,000 replicates: SMESH across four input summary types |
+| `Sim_CRC_stage1/` | SMESH against the benchmark methods |
+| `Sim_CRC_stage2/` | SMESH across four input summary types |
 | `Sim_CRC_stage{1,2}.tar.gz` | the archived replicates |
 
 `Figure2`, `Figure3`, `FigureS1` and `FigureS2` write their panels into `Simulation/Figure/`,
