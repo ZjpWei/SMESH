@@ -81,8 +81,16 @@ It is skipped when those three already exist, so a rerun does not repeat the slo
 | Application | Raw input | Result |
 |---|---|---|
 | Pan-disease (GMrepo) | `Data/GMrepo/` — `species_abundance.txt.gz`, `GMrepo_comparisons_summary.xlsx`, `GMrepo_runs_by_disease/`, lookups | 12 diseases, 32 comparisons, 5,784 samples, 244 species |
-| Pan-tumor (HGMT) | `Data/HGMT/` (genus profiles, metadata, SRA run tables, Table S4) | 15 tumour types, 36 comparisons, 8,042 samples, 159 genera |
+| Pan-tumor (HGMT) | `Data/HGMT/` (genus profiles, metadata, SRA run tables, Table S4) | 13 tumour types, 28 comparisons, 6,333 samples, 157 genera |
 | Colorectal | `Data/CRC/` — `metadata/`, `metaphlan4_profiles/`, `sequence/` | 26 stage strata, 2,679 samples |
+
+**Pan-tumor excludes two tumour types.** `exclude_types` drops Colorectal Polyps and Pancreatic
+Ductal Adenocarcinoma before the genus filter — they are the two contexts the cluster assignment
+cannot resolve, and the partition is unstable while they are in. Because the filter then runs on
+13 types rather than 15, `min_types` is 5 rather than 6, holding the threshold at the same
+proportion of contexts (6/15 = 40%, 5/13 = 38%); the absolute rule 6/13 = 46% would retain only
+118 genera. `HGMT_16S.Rdata` still holds all 36 comparisons; the exclusion applies to
+`HGMT_analysis.Rdata`, which the rest of the pipeline reads.
 
 Nothing is overwritten: each part writes to its own output directory, leaving the objects the
 paper was run on untouched.
@@ -133,6 +141,11 @@ Rscript Analysis/3_summary_statistics.R HGMT ANCOMBC2
 |---|---|
 | `application` | `GMrepo`, `HGMT`, `CRC` |
 | `method` | `PALM`, `ANCOMBC2`, `MaAsLin3`, `LinDA`, `Melody` |
+| `source` (optional) | a processed-data file to read instead of the application's default, e.g. `HGMT_analysis_alt.Rdata` |
+| `tag` (optional) | appended to every file written, e.g. `_alt` |
+
+The last two exist so a variant of an application can be produced without touching the published
+outputs; with both omitted the behaviour is exactly as before.
 
 For pan-disease and pan-tumor the per-dataset summaries are pooled within a
 disease / tumour type by `PALM::palm.meta.summary()`; for colorectal the strata
@@ -164,14 +177,17 @@ Rscript Analysis/4_real_data_analysis.R HGMT 4 SMESH 100
 > negative index past the end of a list, so `s = 100` drops nothing and fits all contexts.
 > `s = 1 … L` leaves out context *s*, which is how the leave-one-context-out consensus and
 > stability results are produced. The saved file names follow the same convention:
-> `Model4_SMESH_s100.Rdata` is the full-data fit.
+> `Model4_SMESH_s100.Rdata` is the full-data fit. **`L` is 12 for pan-disease, 13 for pan-tumor
+> and 26 for colorectal**; `HGMT_loso/` also holds `s = 14 … 17` from a job array sized for the
+> earlier 15-context data — those are full-data fits, not leave-one-out runs, and the figure
+> scripts exclude them.
 
 The full result set is produced by looping over `G`, `method` and `s`, for example:
 
 ```bash
 for G in 2 3 4 5 6; do
   for M in SMESH ANCOMBC2 MaAsLin3 LinDA SKM SHC; do
-    for s in $(seq 1 15) 100; do
+    for s in $(seq 1 13) 100; do
       Rscript Analysis/4_real_data_analysis.R HGMT $G $M $s
     done
   done

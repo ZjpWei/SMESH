@@ -60,12 +60,16 @@
          ss = "summary_stat_filter", G = 2)
   )
 
-  ## Group name from build_signature_groups() ("1|3") -> reader-facing label.
-  shared_type <- function(nm, G) {
-    pos <- strsplit(nm, "|", fixed = TRUE)[[1]]
-    if (length(pos) == G) "All-cluster shared"
-    else if (length(pos) == 1) sprintf("Cluster-specific (C%s)", pos)
-    else sprintf("Partially shared (%s)", paste0("C", pos, collapse = "|"))
+  ## Reader-facing label for a signature group.  The class comes from the block
+  ## `build_signature_groups()` assigns, which applies the definition used in the
+  ## figures: a feature is all-cluster shared when it is selected in every cluster
+  ## that can estimate it, even where another cluster has no data for it.
+  shared_type <- function(pattern, block) {
+    pos <- strsplit(pattern, "|", fixed = TRUE)[[1]]
+    switch(block,
+           "All-cluster shared",
+           sprintf("Partially shared (%s)", paste0("C", pos, collapse = "|")),
+           sprintf("Cluster-specific (C%s)", pos))
   }
 
   sheets <- list()
@@ -81,19 +85,16 @@
 
     ## Same two calls the figure scripts make, in the same order.
     beta          <- mask_unobserved_clusters(mu, W, st$est)
+    ## Which (feature, cluster) pairs no member context could estimate.
+    estimable     <- estimable_clusters(W, st$est)
     cluster_order <- order_clusters_by_selection(beta)
-    species_lst   <- build_signature_groups(beta, cluster_order)
+    species_lst   <- build_signature_groups(beta, cluster_order, estimable = estimable)
 
     ## Panel A draws `unlist(species_lst)` left to right.
-    taxa <- unlist(species_lst, use.names = FALSE)
-    type <- rep(vapply(names(species_lst), shared_type, character(1), G = G),
-                times = lengths(species_lst))
-
-    ## Which (feature, cluster) pairs no member context could estimate.
-    estimable <- vapply(seq_len(G), function(g) {
-      members <- rownames(W)[W[, g] != 0]
-      rowSums(!is.na(st$est[, members, drop = FALSE])) > 0
-    }, logical(nrow(mu)))
+    taxa  <- unlist(species_lst, use.names = FALSE)
+    block <- signature_block_index(species_lst, G)
+    type  <- rep(mapply(shared_type, attr(species_lst, "pattern"), block),
+                 times = lengths(species_lst))
 
     est <- beta[taxa, cluster_order, drop = FALSE]
     est[!estimable[taxa, cluster_order, drop = FALSE]] <- NA_real_

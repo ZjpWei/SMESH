@@ -31,9 +31,12 @@
   data_dir  <- "./HGMT_analysis/Data"
   fig_dir   <- "./HGMT_analysis/Figure"
   
-  n_studies <- 15        # leave-one-context-out runs; "s100" = all contexts
+  n_studies <- 13        # leave-one-context-out runs; "s100" = all contexts
+  ## NOTE: HGMT_loso also holds s14-s17 from a job array sized for the earlier
+  ## 15-context data.  Those are full 13-context fits, not leave-one-out runs,
+  ## so they must stay out of panels B and C.
   G_grid    <- 2:6       # candidate cluster counts
-  cut_off   <- 0.015      # relative GIC gain below which we stop adding clusters
+  cut_off   <- 0.0      # relative GIC gain below which we stop adding clusters
   
   dir.create(fig_dir, showWarnings = FALSE, recursive = TRUE)
   
@@ -109,9 +112,6 @@
   W          <- round(SMESH_model$disease$W)
   feature.ID <- rownames(SMESH_model$disease$mu)
   ref_cluster <- cluster_vec(SMESH_model)
-  ancombc2_cluster <- cluster_vec(ANCOMBC2_model)
-  ancombc2_cluster[ancombc2_cluster == 2 | ancombc2_cluster == 4] <- 
-    ancombc2_cluster[ancombc2_cluster == 2 | ancombc2_cluster == 4] %% 4 + 2
   
   stats <- summary_stat_matrices(summary_stat_meta_filter, feature.ID)
   beta  <- mask_unobserved_clusters(SMESH_model$disease$mu, W, stats$est)
@@ -123,30 +123,62 @@
   sel_rows      <- function(b) names(which(rowSums(b != 0) > 0))
   study_order   <- order_studies_within_clusters(stats$est[sel_rows(beta), ],
                                                  W, cluster_order)
-  species_lst   <- build_signature_groups(beta, cluster_order)
-  
-  ## Each row block: the effect matrix, and its columns in reference display
-  ## order so the blocks line up cluster-for-cluster with SMESH-PALM.
-  meta_panels <- list(
-    list(label = "SMESH-PALM",     AA = beta,                      cl = ref_cluster),
-    list(label = "SMESH-ANCOMBC2", AA = ANCOMBC2_model$disease$mu, cl = ancombc2_cluster),
-    list(label = "SMESH-MaAsLin3", AA = MaAsLin2_model$disease$mu, cl = cluster_vec(MaAsLin2_model)),
-    list(label = "SMESH-LinDA",    AA = LinDA_model$disease$mu,    cl = cluster_vec(LinDA_model)),
-    list(label = "SKM+FE",         AA = SKM_detect,                cl = SKM_tab),
-    list(label = "SHC+FE",         AA = SHC_detect,                cl = SHC_tab)
+  estimable     <- estimable_clusters(W, stats$est)
+  species_lst   <- build_signature_groups(beta, cluster_order, estimable = estimable)
+
+  ## Estimability is a property of each back-end's OWN summaries - ANCOMBC2 and
+  ## MaAsLin3 cannot estimate features PALM can - so every method is paired with
+  ## the summaries it was fitted on.  SKM+FE and SHC+FE run on the PALM ones.
+  load_sums <- function(file, obj) {
+    e <- new.env(); load(file.path(data_dir, file), envir = e); get(obj, envir = e)
+  }
+  est_of <- list(
+    "SMESH-PALM"     = stats$est,
+    "SMESH-ANCOMBC2" = summary_stat_matrices(
+       load_sums("Summary_stat_ancombc2.Rdata", "summary_stat_meta_filter_ancombc2"), feature.ID)$est,
+    "SMESH-MaAsLin3" = summary_stat_matrices(
+       load_sums("Summary_stat_MaAsLin3.Rdata", "summary_stat_meta_filter_MaAsLin3"), feature.ID)$est,
+    "SMESH-LinDA"    = summary_stat_matrices(
+       load_sums("Summary_stat_LinDA.Rdata", "summary_stat_meta_filter_Linda"), feature.ID)$est,
+    "SKM+FE"         = stats$est,
+    "SHC+FE"         = stats$est
   )
-  
+
+  ## Each row block: the effect matrix, the membership it came from, and its
+  ## columns in reference display order so the blocks line up cluster-for-cluster
+  ## with SMESH-PALM.
+  meta_panels <- list(
+    list(label = "SMESH-PALM",     AA = SMESH_model$disease$mu,    cl = ref_cluster,
+         W = W),
+    list(label = "SMESH-ANCOMBC2", AA = ANCOMBC2_model$disease$mu, cl = cluster_vec(ANCOMBC2_model),
+         W = round(ANCOMBC2_model$disease$W)),
+    list(label = "SMESH-MaAsLin3", AA = MaAsLin2_model$disease$mu, cl = cluster_vec(MaAsLin2_model),
+         W = round(MaAsLin2_model$disease$W)),
+    list(label = "SMESH-LinDA",    AA = LinDA_model$disease$mu,    cl = cluster_vec(LinDA_model),
+         W = round(LinDA_model$disease$W)),
+    list(label = "SKM+FE",         AA = SKM_detect,                cl = SKM_tab,
+         W = tab_to_W(SKM_tab)),
+    list(label = "SHC+FE",         AA = SHC_detect,                cl = SHC_tab,
+         W = tab_to_W(SHC_tab))
+  )
+
   g_A_lst <- lapply(meta_panels, function(p) {
+    est  <- est_of[[p$label]][rownames(p$AA), rownames(p$W), drop = FALSE]
+    Ecl  <- estimable_clusters(p$W, est)
+    ## Mask first, as the main figure does, then send the unestimable cells to
+    ## grey so they read differently from a cluster that selected nothing.
+    AAm  <- mask_unobserved_clusters(p$AA, p$W, est)
     cols <- tag_cols_in_ref_order(ref_cluster, p$cl, cluster_order)
     plot.single.study.heatmap.meta(
       x            = rev(cols),          # y is drawn bottom-up
       species_lst  = species_lst,
       G            = G,
       cluster_cols = cluster_palette(G, prefix = "C"),
-      AA           = p$AA,
+      AA           = AAm,
       mx           = 2,
       step         = 0.01,
-      text         = FALSE
+      text         = FALSE,
+      estimable    = Ecl
     )
   })
   

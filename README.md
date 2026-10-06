@@ -12,7 +12,7 @@ The repository holds three real-data applications and two simulation studies:
 | Application | Contexts | Data | Fitted G |
 |---|---|---|---|
 | **Pan-disease** | 12 diseases, 32 datasets | GMrepo, 244 species | 2 |
-| **Pan-tumor** | 15 tumour types, 36 datasets | HGMT, 159 genera | 4 |
+| **Pan-tumor** | 13 tumour types, 28 datasets | HGMT, 157 genera | 4 |
 | **Colorectal** | 26 study × stage strata, 2,679 samples | MetaPhlAn 4 profiles, 260 species | 2 |
 
 ---
@@ -88,6 +88,19 @@ The display conventions live in `heatmap_util.R` and nowhere else. Cluster order
 colours, context order and the signature grouping are decided there, which is why the panels of
 an application agree with each other and with the supplementary tables.
 
+`SMESH.R` implements Algorithms 1–3 of the supplement. Stage 1 runs the EM from `nperm` random
+starts at each support size and keeps the **best converged start** by GIC — the starts are not
+averaged, and their agreement is returned only as a diagnostic (`cluster_list`, `cluster_gic`).
+The support size comes from a cached golden-section search that also evaluates every size in the
+terminal bracket, G is the global minimum of the Stage 1 GIC, Stage 2 is restricted per feature
+to the sharing patterns its estimable clusters allow, and the reported effects are the
+unpenalized refit.
+
+> **The archived fits predate this implementation.** Everything under `<APP>_loso/` was produced
+> by the earlier consensus-based version, which built an agreement matrix across restarts and cut
+> it to define the clusters. That version is kept at `tmp/legacy/SMESH_consensus_legacy.R`.
+> Re-running step 4 with the current `SMESH.R` will not reproduce the archived fits.
+
 ---
 
 ## Data
@@ -142,7 +155,7 @@ The final artefacts, assembled from the per-panel PNGs and the table scripts.
 |---|---|
 | `fig1.pdf` – `fig6.pdf`, `figS1.pdf` – `figS5.pdf` | the figures as they appear in the paper |
 | `TableS1_pan_disease.{tex,csv}`, `TableS2_pan_tumor.{tex,csv}`, `TableS3_colorectal.{tex,csv}` | the study lists, as a `\input`-ready fragment and as CSV |
-| `TableS4_S6_SMESH_effects.xlsx` | Supplementary Tables S4–S6: SMESH-PALM cluster-level effect estimates, one tab per application |
+| `TableS4_S6_SMESH_effects.xlsx` | Supplementary Tables S4–S6: SMESH-PALM cluster-level effect estimates, one tab per application. A cluster that could not estimate a feature is written as the literal `NA` |
 | `cluster_covariates.xlsx`, `cluster_association_tests.csv`, `context_characteristics.csv` | the cluster-covariate check — supporting output, not part of the paper |
 
 Figure 1 is a schematic and is not generated from data.

@@ -2,7 +2,8 @@
 #   Make_TableS2.R  --  regenerate Supplementary Table S2 (pan-tumor studies)
 # =============================================================================
 #  One row per study-tumor case-control comparison actually used in the
-#  pan-tumor analysis (36 rows over 28 projects, 15 tumor types).
+#  pan-tumor analysis (28 rows over 26 projects, 13 tumor types; the published
+#  15-context version had 36 rows over 28 projects).
 #
 #  Read directly from HGMT_analysis/Data/HGMT_16S.Rdata, the object the
 #  analysis was run on.  HGMT_info.xlsx is NOT used: it still lists 19 tumor
@@ -53,11 +54,21 @@
   ## used here is a project decision, kept for consistency with the figures.
   fix_label <- function(x) dplyr::recode(x, !!!rename_map)
 
-  ## Feature set: genus present in >=10% of samples in >= 6 tumour types.
-  lab <- vapply(names(otu), ctx_of, character(1))
-  dl  <- lapply(unique(lab), function(l)
-    unique(unlist(lapply(otu[lab == l], function(d) colnames(d)[colMeans(d != 0) >= 0.1]))))
-  feature_ID <- names(which(table(unlist(dl)) >= 6))
+  ## Feature set and dataset list come from the processed object the analysis was
+  ## fitted on, rather than being recomputed here, so the table cannot drift from
+  ## the fit when the filter constants change.  Point ANALYSIS_FILE at the object
+  ## the current analysis uses.
+  ANALYSIS_FILE <- "HGMT_analysis/Data/HGMT_analysis.Rdata"
+
+  a <- new.env(); load(ANALYSIS_FILE, envir = a)
+  feature_ID <- a$feature_ID
+  keep_ds    <- names(a$otu_filter)
+  dropped    <- setdiff(names(otu), keep_ds)
+  if (length(dropped))
+    message("excluded from the table (not in ", basename(ANALYSIS_FILE), "): ",
+            paste(sort(unique(ctx_of(dropped))), collapse = ", "),
+            "  [", length(dropped), " datasets]")
+  otu <- otu[keep_ds]; mt <- mt[keep_ds]; ca <- ca[intersect(names(ca), keep_ds)]
 
   pretty_cov <- c(age = "Age", sex = "Sex", BMI = "BMI", country = "Country")
 

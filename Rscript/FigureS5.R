@@ -31,7 +31,7 @@
   fig_dir   <- "./CRC_analysis/Figure"
 
   G_grid  <- 2:5      # candidate cluster counts
-  cut_off <- 0.015    # relative GIC gain below which we stop adding clusters
+  cut_off <- 0.0      # relative GIC gain below which we stop adding clusters
 
   ## Studies are named "<study>:<stage>"; this is the order stages appear in.
   stage_levels <- c("Adenoma", "early", "late")
@@ -287,84 +287,4 @@
     filename = file.path(fig_dir, "SFig6_C.png"),
     plot = g_C,
     width = 250, height = 100, units = "mm", dpi = 300
-  )
-
-
-# =============================================================================
-#  Panel D - cluster assignments across methods
-# =============================================================================
-#  Panels D and E use each method at its own selected G, so a method that
-#  prefers more clusters than the reference gets its own extra colours.
-
-  SMESH_best    <- load_fit("SMESH",    best_G[["SMESH-PALM"]],     100)
-  ANCOMBC2_best <- load_fit("ANCOMBC2", best_G[["SMESH-ANCOMBC2"]], 100)
-  LinDA_best    <- load_fit("LinDA",    best_G[["SMESH-LinDA"]],    100)
-  MaAsLin2_best <- load_fit("MaAsLin3", best_G[["SMESH-MaAsLin3"]], 100)
-
-  ## Re-derive the display order for the selected-G reference fit.
-  W_best    <- round(SMESH_best$disease$W)
-  G_best    <- ncol(W_best)
-  beta_best <- mask_unobserved_clusters(SMESH_best$disease$mu, W_best, stats$est)
-
-  cluster_order_best <- order_clusters_by_selection(beta_best)
-  study_order_best   <- order_studies_by_key(stage, W_best, cluster_order_best,
-                                             stage_levels)
-
-  ## Head-room for competitors that split further than the reference.
-  n_extra <- max(0, max(vapply(
-    list(ANCOMBC2_best, LinDA_best, MaAsLin2_best),
-    function(m) ncol(m$disease$W), numeric(1)
-  )) - G_best)
-
-  g_D <- plot.cluster(
-    x            = rev(cluster_order_best),
-    cluster_cols = cluster_palette_reversed(G_best, n_extra = n_extra),
-    study_order  = rev(study_order_best),
-    ref   = list("SMESH-PALM" = cluster_vec(SMESH_best)),
-    other = list(
-      "SMESH-ANCOMBC2" = cluster_vec(ANCOMBC2_best),
-      "SMESH-MaAsLin3" = cluster_vec(MaAsLin2_best),
-      "SMESH-LinDA"    = cluster_vec(LinDA_best)
-    ),
-    height_gap = 0.45
-  )
-
-  ggsave(
-    filename = file.path(fig_dir, "SFig6_D.png"),
-    plot = g_D,
-    width = 200, height = 60, units = "mm", dpi = 300
-  )
-
-
-# =============================================================================
-#  Panel E - shared vs context-dependent signatures across methods
-# =============================================================================
-
-  selected_in_all <- function(mu) names(which(apply(mu, 1, function(d) all(d != 0))))
-  selected_in_any <- function(mu) names(which(rowSums(mu != 0) > 0))
-
-  method_mu <- list(
-    "SMESH-PALM"     = SMESH_best$disease$mu,
-    "SMESH-ANCOMBC2" = ANCOMBC2_best$disease$mu,
-    "SMESH-LinDA"    = LinDA_best$disease$mu,
-    "SMESH-MaAsLin3" = MaAsLin2_best$disease$mu
-  )
-
-  shared_lst   <- lapply(method_mu, selected_in_all)
-  specific_lst <- Map(function(mu, shared) setdiff(selected_in_any(mu), shared),
-                      method_mu, shared_lst)
-
-  g_E <- plot_panel_E_bar(
-    shared_lst   = shared_lst,
-    specific_lst = specific_lst,
-    ref_method   = "SMESH-PALM",
-    method_order = names(method_mu),
-    col_shared   = "#222222",
-    col_specific = "#8FA3B0"
-  )
-
-  ggsave(
-    filename = file.path(fig_dir, "SFig6_E.png"),
-    plot = g_E,
-    width = 350, height = 100, units = "mm", dpi = 300
   )

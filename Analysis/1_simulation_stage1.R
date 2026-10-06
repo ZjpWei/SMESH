@@ -585,7 +585,7 @@
 
   ## Melody
   ARI <- c(ARI, NA)
-  null.obj2 <- miMeta::melody.null.model(rel.abd = rel.abd, prev.filter = 0, parallel.core = NULL)
+  null.obj2 <- miMeta::melody.null.model(feature.counts = rel.abd, prev.filter = 0, parallel.core = NULL)
 
   summary.stat.obj2 <- miMeta::melody.get.summary(null.obj = null.obj2,
                                                   covariate.interest = covariate.interest,

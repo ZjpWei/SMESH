@@ -269,6 +269,39 @@ get_tax <- function(beta, ID) {
   names(sort(rowSums(beta)[tmp]))
 }
 
+#' Study x cluster membership matrix from a two-step method's clustering.
+#'
+#' SKM and SHC save theirs either as a data frame of `study` and `cluster` or as
+#' a cluster vector named by study; `estimable_clusters()` wants the same
+#' membership matrix the SMESH fits carry.
+tab_to_W <- function(tab) {
+  if (is.null(dim(tab))) tab <- data.frame(study = names(tab), cluster = as.integer(tab))
+  st <- as.character(tab$study); cl <- as.integer(tab$cluster)
+  W <- matrix(0, length(st), max(cl),
+              dimnames = list(st, paste0("C", seq_len(max(cl)))))
+  W[cbind(seq_along(st), cl)] <- 1
+  W
+}
+
+#' Which (feature, cluster) pairs any member context could estimate.
+#'
+#' A cluster whose member contexts never observed a feature cannot speak to it:
+#' its effect is masked to zero by `mask_unobserved_clusters()`, which otherwise
+#' makes the feature look as if the cluster had declined to select it.
+#'
+#' @param W        study x cluster membership matrix (rows named by study).
+#' @param est_mat  feature x study estimates, `NA` where a study could not estimate.
+#'
+#' @return feature x cluster logical matrix, columns in the order of `W`.
+estimable_clusters <- function(W, est_mat) {
+  out <- vapply(seq_len(ncol(W)), function(g) {
+    members <- rownames(W)[W[, g] != 0]
+    rowSums(!is.na(est_mat[, members, drop = FALSE])) > 0
+  }, logical(nrow(est_mat)))
+  dimnames(out) <- list(rownames(est_mat), colnames(W))
+  out
+}
+
 #' Split features into signature groups, one per non-empty subset of clusters.
 #'
 #' Groups run from the all-cluster-shared signature down to the
@@ -277,21 +310,99 @@ get_tax <- function(beta, ID) {
 #'
 #' @param beta          feature x cluster effect matrix.
 #' @param cluster_order raw cluster labels in display order.
-build_signature_groups <- function(beta, cluster_order) {
+#' @param estimable     optional feature x cluster logical matrix from
+#'   `estimable_clusters()`, aligned with `beta`.  When supplied, a feature counts
+#'   as all-cluster shared if it is selected in every cluster that could estimate
+#'   it, even where another cluster has no data for it at all; that cluster's
+#'   effect stays zero in the heat map.  With `NULL` (default) the stricter rule
+#'   applies - selected in every cluster - and the result is exactly as before.
+#' @param min_estimable smallest number of estimable clusters for which the
+#'   relaxed rule may call a feature all-cluster shared.  A feature only one
+#'   cluster can estimate stays cluster-specific.
+#'
+#' @return a list of feature vectors, one per signature group, carrying two
+#'   attributes: `block` (1 all-cluster shared, 2 subset-shared, 3
+#'   cluster-specific) and `pattern` (the active display positions, "1|3|4").
+#'   `signature_block_index()` reads `block` when it is present.
+build_signature_groups <- function(beta, cluster_order, estimable = NULL,
+                                   min_estimable = 2) {
   G <- ncol(beta)
   subsets <- unlist(
     lapply(G:1, function(k) combn(seq_len(G), k, simplify = FALSE)),
     recursive = FALSE
   )
 
-  groups <- lapply(subsets, function(pos) get_tax(beta, cluster_order[pos]))
-  names(groups) <- vapply(subsets, paste, character(1), collapse = "|")
-  groups
+  if (is.null(estimable)) {
+    groups <- lapply(subsets, function(pos) get_tax(beta, cluster_order[pos]))
+    names(groups) <- vapply(subsets, paste, character(1), collapse = "|")
+    return(groups)
+  }
+
+  estimable <- estimable[rownames(beta), cluster_order, drop = FALSE]
+  bet  <- beta[, cluster_order, drop = FALSE]
+  act  <- bet != 0
+  nact <- rowSums(act)
+  nest <- rowSums(estimable)
+
+  ## 1 = selected wherever it could be, 3 = one cluster only, 2 = in between.
+  cls <- ifelse(nact == 0, 0L,
+         ifelse(nact == nest & nest >= min_estimable, 1L,
+         ifelse(nact == 1, 3L, 2L)))
+  pattern_of <- apply(act, 1, function(a) paste(which(a), collapse = "|"))
+  total <- rowSums(bet)                    # drawing order: negative first
+
+  grp <- list(); blk <- integer(0); pat <- character(0)
+
+  ## All-cluster shared is drawn as ONE block: the patterns inside it differ only
+  ## in which cluster had no data, so grouping by pattern would order the taxa by
+  ## that accident rather than by effect.  Sorted negative to positive.
+  f1 <- names(which(cls == 1L))
+  if (length(f1)) {
+    grp[[1]] <- f1[order(total[f1])]
+    blk <- 1L
+    pat <- paste(seq_len(G), collapse = "|")
+  }
+
+  ## Subset-shared and cluster-specific keep one group per pattern, in the same
+  ## order as before: larger subsets first, then the single clusters.
+  for (b in c(2L, 3L)) for (pos in subsets) {
+    key <- paste(pos, collapse = "|")
+    f <- names(which(cls == b & pattern_of == key))
+    if (!length(f)) next
+    grp[[length(grp) + 1]] <- f[order(total[f])]
+    blk <- c(blk, b)
+    pat <- c(pat, key)
+  }
+
+  names(grp) <- make.unique(pat)
+  attr(grp, "block") <- blk
+  attr(grp, "pattern") <- pat
+  attr(grp, "feature_pattern") <- pattern_of[unlist(grp)]   # per feature, for tables
+  grp
+}
+
+#' Features a method reports as shared across its clusters.
+#'
+#' @param mu        feature x cluster effect matrix.
+#' @param estimable optional logical matrix of the same shape; when given, a
+#'   feature is shared if it is selected in every cluster that could estimate it.
+#' @param min_estimable smallest number of estimable clusters for the relaxed rule.
+shared_features <- function(mu, estimable = NULL, min_estimable = 2) {
+  act <- mu != 0
+  if (is.null(estimable)) return(rownames(mu)[apply(act, 1, function(d) all(d != 0))])
+  estimable <- estimable[rownames(mu), , drop = FALSE]
+  rownames(mu)[rowSums(act) > 0 & rowSums(act) == rowSums(estimable) &
+                 rowSums(estimable) >= min_estimable]
 }
 
 ## Collapse signature groups into the three facet columns the heat maps draw:
 ##   1 = all-cluster shared, 2 = partially shared, 3 = cluster specific.
 signature_block_index <- function(species_lst, G = NULL) {
+  ## build_signature_groups() records the block directly when it was given the
+  ## estimability matrix; the subset size alone cannot distinguish "selected in
+  ## 3 of 4 clusters" from "selected in all 3 clusters that have data".
+  if (!is.null(attr(species_lst, "block"))) return(attr(species_lst, "block"))
+
   n_grp <- length(species_lst)
   nm    <- names(species_lst)
 
@@ -361,7 +472,8 @@ consensus_block_rects <- function(sizes) {
 #' @param W          study x cluster membership, columns in display order.
 #' @param mx,step    colour-scale limit and resolution.
 plot.single.study.heatmap.ref <- function(x, species_lst, cluster_cols,
-                                          AA, AA.test, AA.test.q, W, mx, step) {
+                                          AA, AA.test, AA.test.q, W, mx, step,
+                                          strip.width = 0.05) {
 
   G <- ncol(W)
   AA[AA >  mx] <-  mx
@@ -510,7 +622,7 @@ plot.single.study.heatmap.ref <- function(x, species_lst, cluster_cols,
       strip.background = element_blank()
     )
 
-  (p_cluster | g1) + plot_layout(widths = c(0.05, 3.5))
+  (p_cluster | g1) + plot_layout(widths = c(strip.width, 3.5))
 }
 
 #' Cluster-level (meta) effect heat map, one row per cluster.
@@ -523,9 +635,16 @@ plot.single.study.heatmap.ref <- function(x, species_lst, cluster_cols,
 #' @param AA          feature x cluster effect matrix.
 #' @param mx,step     colour-scale limit and resolution.
 #' @param text        draw the taxa names along the x axis.
+#' @param estimable   optional logical matrix from `estimable_clusters()`, with
+#'   the same column order as `AA`.  Cells no member context could estimate are
+#'   drawn in `na.colour` instead of the zero colour, so "no data" is visibly
+#'   different from "estimable, but not selected".
+#' @param na.colour   colour for those cells.
 plot.single.study.heatmap.meta <- function(x, species_lst, G = NULL,
                                            cluster_cols, AA, mx, step,
-                                           text = TRUE) {
+                                           text = TRUE, estimable = NULL,
+                                           na.colour = "grey85",
+                                           strip.width = 0.05) {
 
   AA[AA >  mx] <-  mx
   AA[AA < -mx] <- -mx
@@ -537,6 +656,15 @@ plot.single.study.heatmap.meta <- function(x, species_lst, G = NULL,
   if (length(taxa_miss) > 0) {
     AA <- rbind(AA, matrix(0, nrow = length(taxa_miss), ncol = ncol(AA),
                            dimnames = list(taxa_miss, colnames(AA))))
+  }
+
+  ## A cluster with no data for a taxon was masked to zero upstream, which reads
+  ## as "estimable but not selected"; NA sends it to the grey instead.
+  if (!is.null(estimable)) {
+    keep <- intersect(rownames(AA), rownames(estimable))
+    E <- matrix(TRUE, nrow(AA), ncol(AA), dimnames = dimnames(AA))
+    E[keep, ] <- estimable[keep, , drop = FALSE]
+    AA[!E] <- NA_real_
   }
 
   num.col.steps <- length(seq(-mx, mx, by = step)) - 1
@@ -574,7 +702,8 @@ plot.single.study.heatmap.meta <- function(x, species_lst, G = NULL,
       )),
       limits = c(-mx, mx),
       breaks = c(-mx, 0, mx),
-      labels = c(paste0("-", mx), "0", as.character(mx))
+      labels = c(paste0("-", mx), "0", as.character(mx)),
+      na.value = na.colour
     ) +
     scale_x_discrete(position = "bottom") +
     theme_minimal() +
@@ -613,7 +742,7 @@ plot.single.study.heatmap.meta <- function(x, species_lst, G = NULL,
       strip.background = element_blank()
     )
 
-  (p_cluster | g1) + plot_layout(widths = c(0.05, 3.5))
+  (p_cluster | g1) + plot_layout(widths = c(strip.width, 3.5))
 }
 
 

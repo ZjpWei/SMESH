@@ -45,7 +45,7 @@ The table scripts write into `Figure/` at the repository root; create it if it d
 | `Figure2.R` | Simulation: SMESH against the benchmark methods — cluster recovery (ARI) and signature precision/recall as the signal fraction varies | `Simulation/Figure/Fig2_{b,c,d}.png` |
 | `Figure3.R` | Simulation: SMESH given four different input summary statistics (PALM, ANCOM-BC2, LinDA, MaAsLin3) — how much the choice of back-end matters | `Simulation/Figure/Fig3_{A1,A2,B}.png` |
 | `Figure4.R` | Pan-disease (GMrepo, 12 diseases): cluster-level effects, leave-one-context-out consensus, method comparison | `GMrepo_analysis/Figure/Figure{A1,A2,B,C,D,E}.png` |
-| `Figure5.R` | Pan-tumor (HGMT, 15 tumour types): the same five panels | `HGMT_analysis/Figure/Fig1_{A1,A2}.png`, `Figure{B,C,D,E}.png` |
+| `Figure5.R` | Pan-tumor (HGMT, 13 tumour types): the same five panels | `HGMT_analysis/Figure/Fig1_{A1,A2}.png`, `Figure{B,C,D,E}.png` |
 | `Figure6.R` | Colorectal neoplasia (26 study-stage strata): the same five panels | `CRC_analysis/Figure/Figure{A1,A2,B,C,D,E}.png` |
 
 Figure 1 is a conceptual schematic and is not generated from data.
@@ -53,13 +53,19 @@ Figure 1 is a conceptual schematic and is not generated from data.
 **The five panels of Figures 4–6 are the same in each application:**
 
 - **A1 / A2** — cluster-level effect heat maps: the signatures SMESH selects, grouped by which
-  clusters share them.
+  clusters share them. A signature counts as **all-cluster shared when it is selected in every
+  cluster that can estimate it**, so a taxon no study in one cluster observed can still be
+  all-cluster shared; in A2 that cluster's cell is **grey**, which is distinct from the white of
+  a cluster that could estimate the taxon and did not select it.
 - **B** — leave-one-context-out consensus matrix: how often two contexts co-cluster when a
   third is held out. Drawn at the fixed G reported in the paper.
 - **C** — the same contexts under each competing method, labels aligned to SMESH.
 - **D** — number of signatures each method selects, split into all-cluster-shared and
   context-dependent.
 - **E** — shared-versus-specific signature counts, with Jaccard overlap against SMESH-PALM.
+  Every clustering method is classified by the same rule as panel A, each using **its own**
+  summary statistics to decide which clusters could estimate a feature; Melody fits one pooled
+  model and has no clusters, so it contributes a single bar.
 
 ## Supplementary figures
 
@@ -93,8 +99,10 @@ no README tab. Each tab has one row per selected signature, in the order that si
 drawn along the x axis of panel A of the corresponding main figure, and the columns
 `Feature ID`, `Shared type`, then one effect column per cluster (`C1` … `CG`, display order).
 A cluster in which no member context could estimate the feature is written as the literal
-string `NA`, so it stays distinguishable from a tested-but-zero effect; those are the cells the
-figures leave white.
+string `NA`, so it stays distinguishable from a tested-but-zero effect; those are the cells
+panel A2 draws in grey. `Shared type` follows the same definition the figures use — all-cluster
+shared means selected in every cluster that can estimate the feature, with at least two such
+clusters.
 
 ## Supporting checks
 
@@ -173,8 +181,13 @@ applied the same way by the main figure and its supplementary counterpart:
 - **Context order within a cluster** is decided once, in panel A, and reused by every later
   panel. Comparisons across methods align their labels with the Hungarian algorithm
   (`clue::solve_LSAP`) before anything is drawn.
-- **A cluster in which no context could estimate a feature is left blank**, rather than shown
-  as a selected zero (`mask_unobserved_clusters()`).
+- **A cluster in which no context could estimate a feature is masked**, rather than shown as a
+  selected zero (`mask_unobserved_clusters()`), and `estimable_clusters()` marks those cells so
+  panel A2 can draw them grey instead of white.
+- **Signature grouping counts only the clusters that can estimate a feature**
+  (`build_signature_groups(..., estimable = )`): all-cluster shared means selected in every such
+  cluster, with at least two of them. All-cluster-shared signatures are drawn as one block
+  ordered by total effect, negative to positive.
 
 If you change an ordering rule, change it in `heatmap_util.R` — the figure scripts read it
 from there, and editing one script alone will make its panels disagree with the others.

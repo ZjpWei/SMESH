@@ -113,6 +113,14 @@
     stop("need <application> <method>, e.g.\n",
          "  Rscript Analysis/3_summary_statistics.R CRC PALM")
   app <- args[1]; method <- args[2]
+
+  ## Optional, for running a variant of an application without touching the
+  ## published outputs.  args[3] overrides the processed-data file the variant
+  ## reads, args[4] is appended to every file this script writes.  With both
+  ## omitted the behaviour is exactly as before.
+  ##   Rscript Analysis/3_summary_statistics.R HGMT PALM HGMT_analysis_alt.Rdata _alt
+  src_override <- if (length(args) >= 3 && nzchar(args[3])) args[3] else NULL
+  tag          <- if (length(args) >= 4 && nzchar(args[4])) args[4] else ""
   if (!app %in% names(APPS))
     stop("unknown application '", app, "'; choose ", paste(names(APPS), collapse = ", "))
   if (!method %in% names(OUT_FILE))
@@ -121,8 +129,9 @@
     stop("run this from the project root, e.g. Rscript Analysis/3_summary_statistics.R CRC PALM")
 
   cfg <- APPS[[app]]
-  out_file <- file.path(cfg$data_dir, OUT_FILE[[method]])
-  maaslin_out <- file.path(cfg$data_dir, "MaAsLin3")
+  if (!is.null(src_override)) cfg$source <- src_override
+  out_file <- file.path(cfg$data_dir, sub("[.]Rdata$", paste0(tag, ".Rdata"), OUT_FILE[[method]]))
+  maaslin_out <- file.path(cfg$data_dir, paste0("MaAsLin3", tag))
 
   message(app, " | ", method, " -> ", out_file)
 
@@ -275,7 +284,7 @@
   ## application decides its feature set after the meta step.
   finalize <- function(sums) {
     if (!isTRUE(cfg$mask_post)) return(sums)
-    ref <- file.path(cfg$data_dir, OUT_FILE[["PALM"]])
+    ref <- file.path(cfg$data_dir, sub("[.]Rdata$", paste0(tag, ".Rdata"), OUT_FILE[["PALM"]]))
     if (method == "PALM") {
       ## Prefer the recorded set: species_lst.Rdata holds the `dense_feature`
       ## the published analysis used.  Re-deriving it is the documented fallback
@@ -311,8 +320,8 @@
   save_perstudy <- function(sums) {
     if (!isTRUE(cfg$meta)) return(invisible(NULL))
     f <- file.path(cfg$data_dir,
-                   if (method == "PALM") "summary_stat.rds"
-                   else sprintf("summary_stat_%s.rds", method))
+                   if (method == "PALM") sprintf("summary_stat%s.rds", tag)
+                   else sprintf("summary_stat_%s%s.rds", method, tag))
     saveRDS(sums, f)
     message("  saved: ", f, "  (", length(sums), " datasets, pre-meta)")
   }
@@ -358,7 +367,7 @@ if (method == "PALM") {
 
   ## Melody has its own null model and needs no meta step - it pools internally.
   null_obj <- miMeta::melody.null.model(
-    rel.abd          = otu_filter,
+    feature.counts   = otu_filter,
     covariate.adjust = if (is.null(cov_adjust) || !length(cov_adjust)) NULL else cov_adjust,
     prev.filter      = cfg$null_prev)
 

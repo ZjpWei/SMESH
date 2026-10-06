@@ -36,7 +36,7 @@
   fig_dir   <- "./HGMT_analysis/Figure"
   
   fit_tag   <- "Model4"   # the G = 5 fit reported in the paper
-  n_studies <- 15         # leave-one-context-out runs; "s100" = all contexts
+  n_studies <- 13         # leave-one-context-out runs; "s100" = all contexts
   
   ## `Model4_SMESH_s100.Rdata` and friends.
   loso_file <- function(method, s, tag = fit_tag) {
@@ -51,9 +51,9 @@
     "Acute Lymphoblastic Leukemia"       = "Hematologic ALL",
     "Non-Small-Cell Lung Cancer"         = "Lung NSCLC",
     "Hepatocellular Carcinoma"           = "Liver HCC",
-    "Pancreatic Ductal Adenocarcinoma"   = "Pancreatic PDAC",
+    #"Pancreatic Ductal Adenocarcinoma"   = "Pancreatic PDAC",
     "Colorectal Cancer"                  = "Colorectal cancer",
-    "Colorectal Polyps"                  = "Colorectal polyps",
+    #"Colorectal Polyps"                  = "Colorectal polyps",
     "Breast Cancer"                      = "Breast cancer",
     "Lung Cancer"                        = "Lung cancer",
     "Brain Metastasis"                   = "Brain metastases",
@@ -79,10 +79,21 @@
   
   ## Per-study estimates, standard errors and FDR q-values, aligned on feature.ID.
   stats <- summary_stat_matrices(summary_stat_meta_filter, feature.ID)
+
+  ## Panel A switches the columns to short display labels further down; panel E
+  ## joins against the model objects, which key on the raw context names.
+  stats_raw <- stats
   
   ## A cluster whose member studies never observed a taxon cannot speak to it, so
   ## drop those effects rather than let them read as a selected zero.
   beta <- mask_unobserved_clusters(SMESH_model$disease$mu, W, stats$est)
+
+  ## Which (feature, cluster) pairs any member study could estimate.  A cluster
+  ## with no data for a taxon is masked to zero above, so without this the taxon
+  ## would be drawn as subset-shared even when every cluster that CAN estimate it
+  ## selects it; `build_signature_groups()` uses this to call those all-cluster
+  ## shared, while the empty cluster keeps its zero effect in the heat map.
+  estimable <- estimable_clusters(W, stats$est)
   
   ## ---- display order ---------------------------------------------------------
   ## Clusters: fewest selected features first. (Only use the selected species for clustering)
@@ -97,7 +108,7 @@
   
   ## Features grouped by exactly which clusters select them, named by display
   ## position ("1|2|3|4" = all-cluster shared, "3" = specific to the third).
-  species_lst <- build_signature_groups(beta, cluster_order)
+  species_lst <- build_signature_groups(beta, cluster_order, estimable = estimable)
   
   ## Membership matrix with the clusters in display order.
   W_mat <- W[, cluster_order, drop = FALSE]
@@ -124,7 +135,8 @@
     AA.test.q    = stats$qval,
     W            = W_mat,
     mx           = 2,
-    step         = 0.01
+    step         = 0.01,
+    strip.width  = 0.07          # cluster colour band on the left
   )
   
   ggsave(
@@ -141,7 +153,11 @@
     cluster_cols = cluster_palette(G, prefix = "C"),
     AA           = beta,
     mx           = 2,
-    step         = 0.01
+    step         = 0.01,
+    ## grey where no member study could estimate the taxon, so it reads
+    ## differently from a cluster that could and did not select it (white)
+    estimable    = estimable,
+    strip.width  = 0.07          # cluster colour band on the left
   )
   
   ggsave(
@@ -229,7 +245,7 @@
   ##   species_lst[["2"]]        specific to C2
   panel_c_taxa <- c(
     "Agathobacter",
-    "Streptococcus",
+    "Enterocloster",
     "Veillonella_A",
     "Fusobacterium_C"
   )
@@ -294,7 +310,7 @@
   ggsave(
     filename = file.path(fig_dir, "FigureC.png"),
     plot = g_C,
-    width = 240, height = 110, units = "mm", dpi = 300
+    width = 300, height = 110, units = "mm", dpi = 300
   )
   
   # =============================================================================
@@ -327,7 +343,7 @@
   ggsave(
     filename = file.path(fig_dir, "FigureD.png"),
     plot = g_D,
-    width = 150, height = 60, units = "mm", dpi = 300
+    width = 150, height = 80, units = "mm", dpi = 300
   )
   
   # =============================================================================
@@ -338,11 +354,40 @@
   load(file.path(model_dir, "SKMean_FE_G4.Rdata")); SKM_detect <- detect.signal
   load(file.path(model_dir, "Melody_model.Rdata"))  # Melody_mod
   
-  ## A signature is "shared" when every cluster selects it, and
-  ## "context-dependent" when at least one - but not all - cluster does.
-  selected_in_all <- function(mu) names(which(apply(mu, 1, function(d) all(d != 0))))
+  ## A signature is "shared" when every cluster that CAN estimate it selects it -
+  ## the same rule panel A uses - and "context-dependent" when at least one, but
+  ## not all of those, do.  A cluster whose member studies never observed a taxon
+  ## is not counted as having declined to select it.
   selected_in_any <- function(mu) names(which(rowSums(mu != 0) > 0))
-  
+
+  ## Per method, which (feature, cluster) pairs its own clustering could estimate.
+  ## Estimability is a property of the back-end's OWN summaries - ANCOMBC2 and
+  ## MaAsLin3 fail on features PALM can estimate - so each method is paired with
+  ## the summaries it was fitted on.  SKM+FE and SHC+FE run on the PALM summaries.
+  load_sums <- function(file, obj) {
+    e <- new.env(); load(file.path(data_dir, file), envir = e); get(obj, envir = e)
+  }
+  est_of <- list(
+    "SMESH-PALM"     = stats_raw$est,
+    "SMESH-ANCOMBC2" = summary_stat_matrices(
+       load_sums("Summary_stat_ancombc2.Rdata", "summary_stat_meta_filter_ancombc2"), feature.ID)$est,
+    "SMESH-MaAsLin3" = summary_stat_matrices(
+       load_sums("Summary_stat_MaAsLin3.Rdata", "summary_stat_meta_filter_MaAsLin3"), feature.ID)$est,
+    "SMESH-LinDA"    = summary_stat_matrices(
+       load_sums("Summary_stat_LinDA.Rdata", "summary_stat_meta_filter_Linda"), feature.ID)$est,
+    "SKM+FE"         = stats_raw$est,
+    "SHC+FE"         = stats_raw$est
+  )
+
+  W_of <- list(
+    "SMESH-PALM"     = round(SMESH_model$disease$W),
+    "SMESH-ANCOMBC2" = round(ANCOMBC2_model$disease$W),
+    "SMESH-MaAsLin3" = round(MaAsLin2_model$disease$W),
+    "SMESH-LinDA"    = round(LinDA_model$disease$W),
+    "SKM+FE"         = tab_to_W(skm_tab),
+    "SHC+FE"         = tab_to_W(shier_tab)
+  )
+
   method_mu <- list(
     "SMESH-PALM"     = SMESH_model$disease$mu,
     "SMESH-ANCOMBC2" = ANCOMBC2_model$disease$mu,
@@ -351,10 +396,19 @@
     "SKM+FE"         = SKM_detect,
     "SHC+FE"         = SHC_detect
   )
-  
-  shared_lst   <- lapply(method_mu, selected_in_all)
-  specific_lst <- Map(function(mu, shared) setdiff(selected_in_any(mu), shared),
-                      method_mu, shared_lst)
+
+  ## Mask first, exactly as panel A does: an effect a cluster's studies never
+  ## observed is not a selection, and would otherwise make the feature look as if
+  ## that cluster had spoken.
+  method_beta <- Map(function(mu, Wm, est) {
+    mask_unobserved_clusters(mu, Wm, est[rownames(mu), rownames(Wm), drop = FALSE])
+  }, method_mu, W_of[names(method_mu)], est_of[names(method_mu)])
+
+  shared_lst <- Map(function(b, Wm, est) {
+    shared_features(b, estimable_clusters(Wm, est[rownames(b), rownames(Wm), drop = FALSE]))
+  }, method_beta, W_of[names(method_mu)], est_of[names(method_mu)])
+  specific_lst <- Map(function(b, shared) setdiff(selected_in_any(b), shared),
+                      method_beta, shared_lst)
   
   ## Melody fits a single pooled model, so every signature it finds is shared and
   ## it has no context-dependent set to report.
@@ -381,5 +435,5 @@
   ggsave(
     filename = file.path(fig_dir, "FigureE.png"),
     plot = g_E,
-    width = 350, height = 100, units = "mm", dpi = 300
+    width = 380, height = 100, units = "mm", dpi = 300
   )

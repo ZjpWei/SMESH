@@ -31,7 +31,7 @@
   fig_dir   <- "./GMrepo_analysis/Figure"
   
   G_grid  <- 2:5      # candidate cluster counts
-  cut_off <- 0.015     # relative GIC gain below which we stop adding clusters
+  cut_off <- 0.0      # relative GIC gain below which we stop adding clusters
   
   dir.create(fig_dir, showWarnings = FALSE, recursive = TRUE)
   

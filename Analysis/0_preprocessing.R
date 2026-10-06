@@ -924,7 +924,8 @@ saveRDS(cluster,             file.path(out_dir, "cluster.rds"))
 #    4. drop samples with fewer than 2,000 assigned reads
 #    5. choose the covariates to adjust for, per comparison, by a within-study
 #       imbalance test
-#    6. keep genera reaching 10% prevalence in at least 6 tumour types
+#    6. drop the tumour types excluded from the analysis (see `exclude_types`)
+#    7. keep genera reaching 10% prevalence in at least `min_types` tumour types
 #
 #
 
@@ -939,8 +940,22 @@ local({
   min_group_n  <- 10     # minimum cases and controls per comparison
   depth_cut    <- 2000   # minimum assigned reads per sample
   prev_cut     <- 0.1    # within-study prevalence a genus must reach
-  min_types    <- 6      # number of tumour types it must reach it in
+  min_types    <- 5      # number of tumour types it must reach it in
   adjust_alpha <- 0.05   # imbalance p-value below which a covariate is adjusted
+
+  ## Tumour types excluded from the analysis.  Colorectal polyps and pancreatic
+  ## cancer are the two contexts the cluster assignment cannot resolve: across
+  ## random starts they are the only ones that move between clusters, and the
+  ## partition is unstable while they are included.  They are dropped BEFORE the
+  ## genus filter, so the retained feature set is derived on the 13 analysed
+  ## tumour types rather than inherited from the 15-type data.
+  ##
+  ## `min_types` goes with that choice: 6 of 15 tumour types (40%) becomes 5 of
+  ## 13 (38%), holding the threshold at the same proportion of contexts.  The
+  ## absolute rule, 6 of 13 (46%), would retain only 118 genera.
+  ## NB: distinct from `drop_types` below, which removes two phenotypes while the
+  ## comparisons are being built.
+  exclude_types <- c("Colorectal Polyps", "Pancreatic Ductal Adenocarcinoma")
 
   ## MeSH-style phenotype names -> the labels used throughout the analysis.
   phenotype_label <- c(
@@ -1172,10 +1187,22 @@ local({
 
 
 # =============================================================================
-#  6. Genus prevalence filter, applied across tumour types
+#  6. Drop the tumour types excluded from the analysis
 # =============================================================================
 
   tumour <- str_remove(names(otu_final), "^PRJ[A-Z0-9-]+(?:_(?:16S|WGS|PE|SE))?_")
+  keep_ds <- !(tumour %in% exclude_types)
+  message("excluded tumour types: ", paste(exclude_types, collapse = ", "),
+          "  (", sum(!keep_ds), " of ", length(otu_final), " comparisons)")
+  otu_final <- otu_final[keep_ds]; meta_final <- meta_final[keep_ds]
+  covariate.adjust <- covariate.adjust[intersect(names(covariate.adjust), names(otu_final))]
+  tumour <- tumour[keep_ds]
+
+
+# =============================================================================
+#  7. Genus prevalence filter, applied across tumour types
+# =============================================================================
+
   per_type <- lapply(unique(tumour), function(l)
     unique(unlist(lapply(otu_final[tumour == l],
                          function(d) colnames(d)[colMeans(d != 0) >= prev_cut]))))
