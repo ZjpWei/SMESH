@@ -47,7 +47,7 @@ Rscript Analysis/0_preprocessing.R
 
 ### `Analysis/` — the pipeline
 
-Seven numbered scripts, from raw files to fitted models. Nothing here draws anything.
+Seven numbered scripts, from raw files to fitted models.
 
 | Script | What it does |
 |---|---|
