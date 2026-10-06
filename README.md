@@ -96,11 +96,6 @@ terminal bracket, G is the global minimum of the Stage 1 GIC, Stage 2 is restric
 to the sharing patterns its estimable clusters allow, and the reported effects are the
 unpenalized refit.
 
-> **The archived fits predate this implementation.** Everything under `<APP>_loso/` was produced
-> by the earlier consensus-based version, which built an agreement matrix across restarts and cut
-> it to define the clusters. That version is kept at `tmp/legacy/SMESH_consensus_legacy.R`.
-> Re-running step 4 with the current `SMESH.R` will not reproduce the archived fits.
-
 ---
 
 ## Data
