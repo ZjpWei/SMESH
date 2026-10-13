@@ -20,7 +20,7 @@ The repository holds three real-data applications and two simulation studies:
 ## Where everything lives
 
 ```
-MOSIAC/
+SMESH/
 ├── Analysis/           the pipeline        — run these, in order
 ├── Rscript/            figures and tables  — run these afterwards
 ├── utility/            the estimator and shared helpers
