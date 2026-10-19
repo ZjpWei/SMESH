@@ -5,10 +5,9 @@
 This project includes the analyses of `SMESH` paper. Please follow the `README.md` file in each folder to reproduce the simulation and three real data applications. 
 The `miMeta` version for these analyses is `2.1.0`, please find the previous versions at [miMeta](https://github.com/ZjpWei/miMeta/releases).
 
-SMESH is a structure-learning meta-analysis for microbiome studies. It takes per-context association summaries, 
-learns how the contexts group into a small number of **clusters**, 
-and simultaneously selects the taxa whose effect is shared by every context and
-those that are specific to some of them.
+SMESH is an end-to-end pipeline that combines reliable within-study estimation of AA association effects and their uncertainty with a 
+new structure-learning meta-analysis model. Unlike methods that impose a common effect, require prespecified context groups, or separate 
+clustering from meta-analytic signature selection, SMESH jointly learns association-defined context clusters and sparse cluster-level effects.
 
 The repository holds three real-data applications and two simulation studies:
 
