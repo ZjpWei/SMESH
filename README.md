@@ -23,17 +23,14 @@ The repository holds three real-data applications and two simulation studies:
 
 ```
 SMESH/
-<<<<<<< HEAD
 ├── Analysis/           the pipeline        — see README file for more details
 ├── Rscript/            figures and tables  — see README file for more details
 ├── utility/            the utility files
 ├── Data/               raw data
-=======
 ├── Analysis/           the pipeline        — run these, in order
 ├── Rscript/            figures and tables  — run these afterwards
 ├── utility/            the estimator and shared helpers
 ├── Data/               raw inputs, exactly as downloaded
->>>>>>> 491a771a6ffb5c68a1accdd583a74cb37cb263c3
 ├── GMrepo_analysis/    pan-disease  — processed data, fits, panels
 ├── HGMT_analysis/      pan-tumor    — processed data, fits, panels
 ├── CRC_analysis/       colorectal neoplasia   — processed data, fits, panels
