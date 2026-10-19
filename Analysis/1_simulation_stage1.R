@@ -609,12 +609,22 @@
   F1 <- c(F1, mean(f1))
 
   ## ---- homogeneous part
-  Precision_hom <- c(Precision_hom, mean(pre))
-  Recall_hom <- c(Recall_hom, mean(pre))
-  F1_hom <- c(F1_hom, mean(pre))
+  ## Melody fits one pooled model across every context, so everything it selects
+  ## is an all-cluster-shared call; it is scored against `signal.lst.hom`, the
+  ## true shared set, exactly as the clustering methods are.  Signatures it picks
+  ## up that are in truth cluster-specific count against its precision here,
+  ## which is the honest cost of not distinguishing the two classes.
+  detected.signal <- names(Melody_mod$disease$coef)[Melody_mod$disease$coef != 0]
+  selected.signal <- signal.lst.hom
+  pre <- length(intersect(detected.signal, selected.signal)) / length(detected.signal)
+  rec <- length(intersect(detected.signal, selected.signal)) / length(selected.signal)
+  f1  <- 2 / (1/pre + 1/rec)
+  Precision_hom <- c(Precision_hom, pre)
+  Recall_hom <- c(Recall_hom, rec)
+  F1_hom <- c(F1_hom, f1)
 
   ## ---- heterogeneous part
-  f1 <- 2 / (1/pre + 1/rec)
+  ## Melody has no cluster-specific output, so these are undefined by design.
   Precision_het <- c(Precision_het, NA)
   Recall_het <- c(Recall_het, NA)
   F1_het <- c(F1_het, NA)

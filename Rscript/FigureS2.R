@@ -16,19 +16,30 @@
   
   ########################### Stage 1 simulation results ###########################
   ## Proportion of true signatures
-  data.loc.L10 <- "./Simulation/Sim_CRC_stage2/res_Ka"
-  
+  ## Analysis/2_simulation_stage2.R writes one file per method, named for the
+  ## method it fitted: palm_res_..., ancombc2_res_..., linda_res_...,
+  ## maaslin3_res_....  All four prefixes are read here and distinguished by the
+  ## `method` column each object carries.
+  data.loc.L10 <- "./Simulation/Sim_CRC_stage2/"
+  prefixes <- c("palm", "ancombc2", "linda", "maaslin3")
+
   PRC_all <- NULL
   for(Ka in c(0.1, 0.2, 0.3, 0.4)){
     for(scenario in 1:5){
       PRC_tmp <- NULL
       for(s in 1:50){
-        if(file.exists(paste0(data.loc.L10, Ka, "_pos0.6_u0_scenario", scenario, "_s", s, ".Rdata"))){
-          load(paste0(data.loc.L10, Ka, "_pos0.6_u0_scenario", scenario, "_s", s, ".Rdata"))
-          PRC_tmp <- rbind(PRC_tmp, result_mat)
+        for(pf in prefixes){
+          f <- paste0(data.loc.L10, pf, "_res_Ka", Ka, "_pos0.6_u0_scenario",
+                      scenario, "_s", s, ".Rdata")
+          if(file.exists(f)){
+            load(f)
+            PRC_tmp <- rbind(PRC_tmp, result_mat)
+          }
         }
       }
-      PRC_tmp$L <- paste0("L = 10, ", PRC_tmp$data)
+      if(is.null(PRC_tmp))
+        stop("no stage-2 replicates found under ", data.loc.L10,
+             " -- extract Simulation/Sim_CRC_stage2.tar.gz first")
       PRC_tmp$scenario <- paste0("Scenario ", scenario)
       PRC_tmp$Ka <- as.character(Ka)
       if(scenario == 1){

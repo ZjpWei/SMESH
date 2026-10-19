@@ -55,12 +55,12 @@
     geom_line(linewidth = 0.8, position = position_dodge(width = 0.4)) +
     geom_point(size = 1.5, position = position_dodge(width = 0.4)) +
     geom_errorbar(
-      aes(ymin = mean_ari - sd_ari, ymax = pmin(mean_ari + sd_ari, 1.2)),
+      aes(ymin = pmax(mean_ari - sd_ari, 0), ymax = pmin(mean_ari + sd_ari, 1.2)),
       width = 0.15,
       position = position_dodge(width = 0.4)
     ) +
     facet_grid(~scenario) +
-    ylim(-1.2, 1.2) +
+    ylim(0, 1.2) +
     xlab("Proportion of true signatures") +
     ylab("ARI") +
     scale_color_manual(
@@ -149,12 +149,12 @@
     geom_line(linewidth = 0.8, position = position_dodge(width = 0.4)) +
     geom_point(size = 1.5, position = position_dodge(width = 0.4)) +
     geom_errorbar(
-      aes(ymin = pmax(mean_R - sd_R, 0.5), ymax = pmin(mean_R + sd_R, 1)),
+      aes(ymin = pmax(mean_R - sd_R, 0.8), ymax = pmin(mean_R + sd_R, 1)),
       width = 0.15,
       position = position_dodge(width = 0.4)
     ) +
     facet_grid(~scenario) +
-    ylim(0.5, 1) +
+    ylim(0.8, 1) +
     xlab("Proportion of true signatures") +
     ylab("Recall") +
     scale_color_manual(
@@ -347,4 +347,5 @@
     units = "mm",
     dpi = 300
   )
+  
   
