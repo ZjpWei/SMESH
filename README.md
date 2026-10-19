@@ -12,7 +12,7 @@ clustering from meta-analytic signature selection, SMESH jointly learns associat
 The repository holds three real-data applications and two simulation studies:
 
 | Application | Contexts | Taxa |
-|---|---|---|---|
+|---|---|---|
 | **Pan-disease** | 12 diseases, 32 datasets | 244 species |
 | **Pan-tumor** | 13 tumour types, 28 datasets | 157 genera |
 | **Colorectal neoplasia** | 26 study × stage strata | 260 species |
