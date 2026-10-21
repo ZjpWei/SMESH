@@ -344,7 +344,7 @@ if (method == "PALM") {
 
   ## PALM fits all datasets jointly: a null model, then one summary per dataset.
   null_obj <- PALM::palm.null.model(
-    rel.abd          = otu_filter,
+    feature.counts   = otu_filter,
     covariate.adjust = if (is.null(cov_adjust) || !length(cov_adjust)) NULL else cov_adjust,
     prev.filter      = cfg$null_prev)
 

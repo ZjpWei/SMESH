@@ -28,8 +28,8 @@ Three are installed from source:
 
 | Package | Purpose | Source |
 |---|---|---|
-| `PALM` | per-study absolute-abundance association summaries | <https://github.com/ZjpWei/PALM> |
-| `miMeta` | Melody, the fixed-effect meta-analysis benchmark | <https://github.com/ZjpWei/miMeta> |
+| `PALM` (0.1.1) | per-study absolute-abundance association summaries | <https://github.com/ZjpWei/PALM_package> |
+| `miMeta` (2.1.0) | Melody, the fixed-effect meta-analysis benchmark | <https://github.com/ZjpWei/miMeta> |
 | `MIDASim` | semi-synthetic count simulation | <https://github.com/mengyu-he/MIDASim> |
 
 `abess` and `glmtlp`, the sparse solvers behind SMESH, are on CRAN and are in the list above.

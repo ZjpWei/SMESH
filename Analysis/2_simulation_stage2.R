@@ -327,7 +327,7 @@
   }
   
   ## PALM summary statistics (median)
-  null.obj <- PALM::palm.null.model(rel.abd = rel.abd, prev.filter = 0)
+  null.obj <- PALM::palm.null.model(feature.counts = rel.abd, prev.filter = 0)
   
   summary.stat.obj <- PALM::palm.get.summary(null.obj = null.obj,
                                              covariate.interest = covariate.interest,

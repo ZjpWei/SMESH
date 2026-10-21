@@ -245,7 +245,7 @@ if (!file.exists(ckpt_stats)) {
 
   ## ---- PALM ------------------------------------------------------------------
   message("[1/4] PALM summary statistics")
-  null_model <- PALM::palm.null.model(rel.abd = rel.abd,
+  null_model <- PALM::palm.null.model(feature.counts = rel.abd,
                                       covariate.adjust = covariate.adjust,
                                       prev.filter = prev_cut)
 

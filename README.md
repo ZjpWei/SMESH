@@ -3,7 +3,7 @@
 ## Introduction
 
 This project includes the analyses of `SMESH` paper. Please follow the `README.md` file in each folder to reproduce the simulation and three real data applications. 
-The `miMeta` version for these analyses is `2.1.0`, please find the previous versions at [miMeta](https://github.com/ZjpWei/miMeta/releases).
+The analyses use `miMeta` version `2.1.0` and `PALM` version `0.1.1`. Previous versions are available on the [miMeta](https://github.com/ZjpWei/miMeta/releases) and [PALM](https://github.com/ZjpWei/PALM_package/releases) release pages.
 
 SMESH is an end-to-end pipeline that combines reliable within-study estimation of AA association effects and their uncertainty with a 
 new structure-learning meta-analysis model. Unlike methods that impose a common effect, require prespecified context groups, or separate 
@@ -12,7 +12,7 @@ clustering from meta-analytic signature selection, SMESH jointly learns associat
 The repository holds three real-data applications and two simulation studies:
 
 | Application | Contexts | Taxa |
-|---|---|---|---|
+|---|---|---|
 | **Pan-disease** | 12 diseases, 32 datasets | 244 species |
 | **Pan-tumor** | 13 tumour types, 28 datasets | 157 genera |
 | **Colorectal neoplasia** | 26 study × stage strata | 260 species |
