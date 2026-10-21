@@ -44,5 +44,5 @@ SMESH/
 
 ## Contact
 
-If you have questions about the code or the analyses presented in this project, please feel free to contact me [Weizhou](mailto:zwei74@wisc.edu?subject=[GitHub]%20Melody%20paper%20analysis).
+If you have questions about the code or the analyses presented in this project, please feel free to contact me [Zhoujingpeng Wei](mailto:zwei74@wisc.edu?subject=[GitHub]%20Melody%20paper%20analysis).
 
